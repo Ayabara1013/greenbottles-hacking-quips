@@ -92,3 +92,50 @@
   margin: 5px 0;
   font-weight: 600;
 }
+
+
+
+.hacking-quip-button-container {
+  margin-top: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.hacking-quip-button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff8787 100%);
+  transition: all 0.2s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.hacking-quip-button:hover:not(.disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.hacking-quip-button.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: linear-gradient(135deg, #888 0%, #999 100%);
+}
+
+.hacking-quip-button i {
+  margin-right: 5px;
+}
+
+.hacking-result-btn.disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  filter: grayscale(100%);
+}
+
+.hacking-result-btn.disabled:hover {
+  transform: none;
+  box-shadow: none;
+}
