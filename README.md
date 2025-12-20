@@ -73,3 +73,9 @@ Special thanks to the Foundry VTT and Pathfinder 2e communities!
 - 20 programming-related quips for failed hacking checks
 - GM adjudication controls for skill checks without DCs
 - Automatic detection of Computers skill checks
+
+
+### v1.1.0 - settings n' stuff
+- added some options so there are actually settings to change (hiding success buttons, merging failure buttons)
+- the "disable failure button" feature works, but doesn't grey out the button yet
+- there MAY be working detection of checks with included DCs
