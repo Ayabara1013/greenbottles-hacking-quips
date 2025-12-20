@@ -1,0 +1,22 @@
+name: Release Module
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Create module.zip
+        run: zip -r ./module.zip module.json scripts/ styles/
+      
+      - name: Upload Assets to Release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: './module.zip,./module.json'
+          token: ${{ secrets.GITHUB_TOKEN }}

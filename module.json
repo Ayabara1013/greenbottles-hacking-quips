@@ -1,0 +1,27 @@
+{
+  "id": "greenbottles-hacking-quips",
+  "title": "Greenbottle's Hacking Quips",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/hacking-quips.js"
+  ],
+  "styles": [
+    "styles/hacking-quips.css"
+  ],
+  "authors": [
+    {
+      "name": "Doc_",
+      "url": "https://github.com/Ayabara1013"
+    }
+  ],
+  "description": "Displays witty programming-related quips when hacking checks fail in Starfinder 2e. Adds GM controls to adjudicate checks without pre-set DCs.",
+  "url": "https://github.com/Ayabara1013/greenbottles-hacking-quips",
+  "manifest": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.json",
+  "download": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.zip",
+  "bugs": "https://github.com/Ayabara1013/greenbottles-hacking-quips/issues",
+  "changelog": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases"
+}

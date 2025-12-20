@@ -1,0 +1,94 @@
+.hacking-gm-controls {
+  margin-top: 10px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.hacking-controls-header {
+  margin-bottom: 8px;
+  color: #ffd700;
+  font-size: 0.9em;
+}
+
+.hacking-controls-buttons {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.hacking-result-btn {
+  flex: 1;
+  min-width: 120px;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 0.85em;
+  font-weight: bold;
+  transition: all 0.2s;
+  color: white;
+}
+
+.hacking-result-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.hacking-result-btn.critical-success {
+  background: linear-gradient(135deg, #00c853 0%, #00e676 100%);
+}
+
+.hacking-result-btn.success {
+  background: linear-gradient(135deg, #2196f3 0%, #42a5f5 100%);
+}
+
+.hacking-result-btn.failure {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff8787 100%);
+}
+
+.hacking-result-btn.critical-failure {
+  background: linear-gradient(135deg, #d32f2f 0%, #f44336 100%);
+}
+
+.hacking-result {
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+.hacking-result.critical-success {
+  background: rgba(0, 200, 83, 0.2);
+  border-left: 4px solid #00c853;
+  color: #00e676;
+}
+
+.hacking-result.success {
+  background: rgba(33, 150, 243, 0.2);
+  border-left: 4px solid #2196f3;
+  color: #42a5f5;
+}
+
+.hacking-result.failure {
+  background: rgba(255, 107, 107, 0.2);
+  border-left: 4px solid #ff6b6b;
+  color: #ff8787;
+}
+
+.hacking-result.critical-failure {
+  background: rgba(211, 47, 47, 0.2);
+  border-left: 4px solid #d32f2f;
+  color: #f44336;
+}
+
+.hacking-quip {
+  color: #4931b6ff;
+  font-family: 'Courier New', monospace;
+  padding: 5px 10px;
+  border-left: 3px solid #4931b6ff;
+  background: rgba(95, 113, 214, 0.47);
+  margin: 5px 0;
+  font-weight: 600;
+}
