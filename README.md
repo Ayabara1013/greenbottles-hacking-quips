@@ -3,6 +3,8 @@
 A Foundry VTT module that adds witty programming and hacking-related error messages to failed Computers skill checks in Starfinder 2e (using Pathfinder 2e system).
 If you are enough of a madlad that you want to support me, [I set up a patreon where you can get access to all the early stuff I'm working on and more!](https://www.patreon.com/cw/GreenbottlesArcanum) < thats a link, you should totally click it \**insert fry futurama money meme*\*
 
+If you want to just support me once, here's a KoFi link! https://ko-fi.com/greenbottle
+
 ## Features
 
 - **20 Programming-Related Quips**: Displays random error messages when hacking attempts fail
