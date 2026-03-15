@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "Elkhorn Coral",
+    "scientific_name": "Acropora palmata",
+    "type": "hard",
+    "flavor": "A formation of Elkhorn Coral erupts from the ground, broad calcium plates fanning outward like antlers of stone.",
+    "fun_facts": [
+      "One of the most important reef-building corals in the Caribbean, forming dense thickets that shelter hundreds of fish species.",
+      "Its broad, flattened branches resemble elk antlers and can grow up to 2 meters wide.",
+      "Listed as critically endangered — populations have declined over 90% since the 1980s.",
+      "Reproduces by both fragmentation (broken branches regrow) and mass annual spawning events.",
+      "Colonies can live for centuries and grow up to 2.5 cm per year."
+    ]
+  },
+  {
+    "name": "Staghorn Coral",
+    "scientific_name": "Acropora cervicornis",
+    "type": "hard",
+    "flavor": "A thicket of Staghorn Coral branches upward in a violent surge, its antler-like arms forming a jagged barrier of calcified bone.",
+    "fun_facts": [
+      "Named for its resemblance to deer antlers, it forms dense thickets called thicket reefs.",
+      "One of the fastest-growing corals, extending up to 10-20 cm per year under ideal conditions.",
+      "Critically endangered and protected under the US Endangered Species Act since 2006.",
+      "Often hybridizes with elkhorn coral to produce a third species, Acropora prolifera.",
+      "Provides critical nursery habitat for juvenile reef fish including grouper and snapper."
+    ]
+  },
+  {
+    "name": "Millepora Coral",
+    "scientific_name": "Acropora millepora",
+    "type": "hard",
+    "flavor": "Millepora Coral blooms into existence, a thousand tiny pores opening across its pink-tinged surface like eyes awakening from slumber.",
+    "fun_facts": [
+      "A highly variable species found across the Indo-Pacific in colors ranging from cream to bright pink and purple.",
+      "One of the most studied corals in bleaching research due to its sensitivity to temperature changes.",
+      "Individual colonies can change sex from year to year — sequential hermaphroditism.",
+      "Its name means thousand pores, referring to the tiny polyp openings covering its surface.",
+      "A key species in coral restoration programs across Australia's Great Barrier Reef."
+    ]
+  },
+  {
+    "name": "Plate Coral",
+    "scientific_name": "Acropora hyacinthus",
+    "type": "hard",
+    "flavor": "A wide disc of Plate Coral unfurls like a shield of living stone, its flat expanse casting shade across the battlefield below.",
+    "fun_facts": [
+      "Forms large, flat table-like structures up to 2 meters across that act as platforms for resting reef fish.",
+      "The flat shape is an adaptation to maximize light capture in deeper, lower-light environments.",
+      "Fish like hawkfish and dottybacks shelter beneath the plate and dart out to feed.",
+      "Extremely vulnerable to crown-of-thorns starfish predation, which can consume an entire plate overnight.",
+      "Colonies fragment during storms, and broken pieces can reattach and continue growing."
+    ]
+  },
+  {
+    "name": "Lobe Coral",
+    "scientific_name": "Porites lobata",
+    "type": "hard",
+    "flavor": "A colossal boulder of Lobe Coral heaves upward from the earth, centuries of layered growth compressed into a single moment of conjuration.",
+    "fun_facts": [
+      "Forms massive boulders that can be over 8 meters tall and hundreds of years old.",
+      "Its skeleton acts as a natural climate record — scientists drill cores to study past sea temperatures.",
+      "One of the most thermally tolerant corals, often surviving bleaching events that kill neighboring species.",
+      "Home to dozens of boring organisms like sponges, worms, and bivalves that tunnel into its skeleton.",
+      "Found from Hawaii to the Red Sea, making it one of the most geographically widespread corals."
+    ]
+  },
+  {
+    "name": "Finger Coral",
+    "scientific_name": "Porites compressa",
+    "type": "hard",
+    "flavor": "Thick digits of Finger Coral thrust up from the stone, grasping at the air like the hand of something vast buried beneath.",
+    "fun_facts": [
+      "Forms dense colonies of thick, finger-like branches that create important shelter for reef fish.",
+      "Extremely common in Hawaii, where it is a dominant reef-builder in many bays.",
+      "Can survive in turbid, low-salinity conditions that would kill most other corals.",
+      "Colonies may live for more than 500 years, recording centuries of ocean history in their skeletons.",
+      "Provides nesting substrate for Hawaiian dascyllus (humbug damselfish) which vigorously defend their patch."
+    ]
+  },
+  {
+    "name": "Mustard Hill Coral",
+    "scientific_name": "Porites astreoides",
+    "type": "hard",
+    "flavor": "A dome of Mustard Hill Coral rises with quiet resilience, its golden surface humming with the warmth of symbiotic life.",
+    "fun_facts": [
+      "One of the most resistant Caribbean corals — it often outlasts other species during bleaching events.",
+      "Its distinctive mustard-yellow color comes from symbiotic zooxanthellae algae living in its tissue.",
+      "Forms small, dome-shaped colonies rarely exceeding 30 cm, but can live for decades.",
+      "One of the few coral species appearing to increase in abundance as climate change winnows competitors.",
+      "Spawns in late summer, releasing bundles of eggs and sperm during nighttime mass spawning events."
+    ]
+  },
+  {
+    "name": "Great Star Coral",
+    "scientific_name": "Montastraea cavernosa",
+    "type": "hard",
+    "flavor": "Great Star Coral congeals into a massive boulder, each polyp a wide staring eye that pulses with emerald fluorescence.",
+    "fun_facts": [
+      "Features some of the largest polyps of any Caribbean reef coral — individual polyps can be over 1 cm wide.",
+      "Colonies can form massive boulders weighing several tonnes and living for centuries.",
+      "At night, its large tentacles extend dramatically to feed on plankton and small organisms.",
+      "One of the dominant framework-building corals on Caribbean deep reef slopes from 15-50 m depth.",
+      "Exhibits fluorescence under blue light, glowing vivid green or orange due to fluorescent proteins."
+    ]
+  },
+  {
+    "name": "Boulder Star Coral",
+    "scientific_name": "Orbicella annularis",
+    "type": "hard",
+    "flavor": "An ancient mound of Boulder Star Coral solidifies from raw magic, growth rings spiraling through its skeleton like the memory of eight hundred winters.",
+    "fun_facts": [
+      "Historically the most important reef-building coral in the Caribbean.",
+      "Individual colonies can grow into mounds over 2 meters tall and may be more than 800 years old.",
+      "Growth rings in the skeleton, like tree rings, allow scientists to read annual growth rates.",
+      "Experienced catastrophic bleaching during the 1998 and 2005 mass bleaching events.",
+      "The species complex was recently split into three distinct species based on genetic analysis."
+    ]
+  },
+  {
+    "name": "Grooved Brain Coral",
+    "scientific_name": "Diploria labyrinthiformis",
+    "type": "hard",
+    "flavor": "A massive Grooved Brain Coral materializes, its labyrinthine grooves pulsing with ancient thought as if the sea itself were dreaming.",
+    "fun_facts": [
+      "Its convoluted ridges and valleys look uncannily like a human brain — the pattern is called meandroid.",
+      "The maze-like pattern is formed by colonies of polyps that share a common mouth groove.",
+      "Can live for more than 900 years, making it among the longest-lived animals on the planet.",
+      "One of the few Caribbean corals that spawns in pulses over multiple nights after the full moon.",
+      "The grooves channel mucus away from the coral surface, helping to self-clean sediment and debris."
+    ]
+  },
+  {
+    "name": "Symmetrical Brain Coral",
+    "scientific_name": "Diploria strigosa",
+    "type": "hard",
+    "flavor": "Symmetrical Brain Coral coalesces with eerie precision, its perfectly ordered ridges suggesting a mind of geometric perfection.",
+    "fun_facts": [
+      "Distinguished from other brain corals by its especially regular, symmetrical meandroid pattern.",
+      "Prefers shallower, well-lit reef zones where its zooxanthellae can photosynthesize efficiently.",
+      "During bleaching stress, it can expel its zooxanthellae and take months to recover.",
+      "Colonies grow very slowly — sometimes less than 5 mm per year in diameter.",
+      "A common target for parrotfish, which scrape off the outer tissue while feeding on algae."
+    ]
+  },
+  {
+    "name": "Boulder Brain Coral",
+    "scientific_name": "Colpophyllia natans",
+    "type": "hard",
+    "flavor": "A titanic Boulder Brain Coral crashes into being, its deep valleys carved like canyons across a thinking stone the size of a carriage.",
+    "fun_facts": [
+      "One of the largest brain corals — boulders can reach 2 meters in diameter and weigh several tonnes.",
+      "Its wide, deep valleys distinguish it from other Caribbean brain corals.",
+      "Can survive partial colony death — sections of the boulder may bleach and die while others survive.",
+      "Important as a spawning aggregation landmark for many reef fish species.",
+      "Studies show it can acclimate to warmer temperatures over multiple bleaching events."
+    ]
+  },
+  {
+    "name": "Golfball Coral",
+    "scientific_name": "Favia fragum",
+    "type": "hard",
+    "flavor": "A small but impossibly dense sphere of Golfball Coral snaps into existence, deceptively diminutive yet harboring decades of stubborn life.",
+    "fun_facts": [
+      "One of the smallest Caribbean reef corals, rarely exceeding 10 cm in diameter.",
+      "Despite its small size, it can live for decades on shallow rocky and sandy substrates.",
+      "One of very few corals that broods its larvae internally rather than broadcasting eggs into the water.",
+      "The brooded larvae are released already containing their symbiotic zooxanthellae algae.",
+      "Tolerates a wider range of salinity and turbidity than most other Caribbean hard corals."
+    ]
+  },
+  {
+    "name": "Closed Brain Coral",
+    "scientific_name": "Favites abdita",
+    "type": "hard",
+    "flavor": "Closed Brain Coral emerges as a tightly sealed mosaic of fused polyps, its walls locked together like the cells of an armored vault.",
+    "fun_facts": [
+      "The polyps are closed — adjacent corallites share walls, creating a tightly packed mosaic pattern.",
+      "Widespread across the Indo-Pacific from the Red Sea to French Polynesia.",
+      "A hardy species often found in turbid inshore reef environments that other corals avoid.",
+      "Feeds nocturnally, extending tentacles to capture zooplankton in the water column.",
+      "Used as an indicator species in reef health assessments due to its sensitivity to sedimentation."
+    ]
+  },
+  {
+    "name": "Goniastrea Coral",
+    "scientific_name": "Goniastrea retiformis",
+    "type": "hard",
+    "flavor": "Goniastrea Coral spreads across the ground in a rounded mass, its net-like surface radiating heat-hardened resilience.",
+    "fun_facts": [
+      "Forms rounded, encrusting colonies with a distinctive net-like retiform surface pattern.",
+      "One of the most thermally tolerant corals on the Great Barrier Reef.",
+      "Studies have shown it can harbor heat-tolerant strains of zooxanthellae that help it survive bleaching.",
+      "Colonies are important substrate for settling coral larvae, facilitating reef recovery after disturbance.",
+      "Has been found living in naturally warm, extreme reef environments like the Persian Gulf."
+    ]
+  },
+  {
+    "name": "Galaxea Coral",
+    "scientific_name": "Galaxea fascicularis",
+    "type": "hard",
+    "flavor": "Galaxea Coral crystallizes into a field of tiny skeletal tubes, each polyp a distant star in a constellation of venomous light.",
+    "fun_facts": [
+      "Each polyp sits in its own separate skeletal tube, giving the colony a galaxy-like starfield appearance.",
+      "Extremely aggressive — it extends long sweeper tentacles at night to sting and kill neighboring corals.",
+      "One of the most popular corals in the marine aquarium trade, prized for its otherworldly appearance.",
+      "Colonies can grow very large, sometimes covering several square meters of reef.",
+      "Its mucus contains compounds being researched for potential antifungal and antibacterial properties."
+    ]
+  },
+  {
+    "name": "Yellow Scroll Coral",
+    "scientific_name": "Turbinaria reniformis",
+    "type": "hard",
+    "flavor": "Vivid yellow plates of Scroll Coral curl into being like parchment unfurling, each convoluted fold a sheltering alcove of calcified gold.",
+    "fun_facts": [
+      "Forms distinctive scroll-like, convoluted plates that maximize surface area for light capture.",
+      "Its vivid yellow color is unusual among corals and makes it highly recognizable underwater.",
+      "The scrolled shape creates sheltered microhabitats used by small fish, shrimp, and cryptic invertebrates.",
+      "Grows in deeper, lower-light reef zones where its large surface area helps it photosynthesize.",
+      "Popular in reef aquariums but slow-growing and sensitive to water quality changes."
+    ]
+  },
+  {
+    "name": "Cactus Coral",
+    "scientific_name": "Pavona cactus",
+    "type": "hard",
+    "flavor": "Sharp vertical ridges of Cactus Coral jut upward like the spines of a petrified desert plant, brittle and forbidding.",
+    "fun_facts": [
+      "Forms large, upright plates with sharp vertical ridges resembling the spines of a cactus.",
+      "Widespread in the Indo-Pacific, particularly common in the Maldives and Red Sea.",
+      "The ridged structure increases surface area and helps direct water flow over the polyps.",
+      "Often forms massive colonies several meters tall on exposed reef slopes.",
+      "The thin plate edges are brittle and frequently broken by storms, but fragments can reattach and regrow."
+    ]
+  },
+  {
+    "name": "Pavona Coral",
+    "scientific_name": "Pavona decussata",
+    "type": "hard",
+    "flavor": "Great leaf-like plates of Pavona Coral sweep into form, their criss-crossed ridges catching an unseen current as they harden mid-sway.",
+    "fun_facts": [
+      "Forms large, foliose (leaf-like) plates that sweep dramatically in reef currents.",
+      "One of the few corals found at depths exceeding 40 meters in the mesophotic zone.",
+      "The criss-cross pattern of ridges on its surface is unique among reef corals.",
+      "Often hosts commensal shrimp and small gobies that live exclusively on its surface.",
+      "Has been documented recovering quickly from bleaching events compared to branching corals."
+    ]
+  },
+  {
+    "name": "Leptoseris Coral",
+    "scientific_name": "Leptoseris fragilis",
+    "type": "hard",
+    "flavor": "Paper-thin plates of Leptoseris Coral materialize from shadow, so fragile they seem spun from darkness itself yet rigid as bone.",
+    "fun_facts": [
+      "A specialist of deep, low-light reef environments, found from 30-150 meters depth.",
+      "Its extremely thin, fragile plates are optimized for capturing the tiny amount of light available at depth.",
+      "Found in the mesophotic zone, a poorly studied coral ecosystem between 30-150 m depth.",
+      "Recent deep-reef surveys have discovered new Leptoseris species previously unknown to science.",
+      "Unlike shallow corals, mesophotic Leptoseris colonies are rarely affected by surface bleaching events."
+    ]
+  },
+  {
+    "name": "Mushroom Coral",
+    "scientific_name": "Fungia scutaria",
+    "type": "hard",
+    "flavor": "A solitary disc of Mushroom Coral drops onto the ground, a single enormous polyp that shifts and rights itself with eerie autonomy.",
+    "fun_facts": [
+      "One of the few solitary (single polyp) corals — the entire disc is one giant polyp.",
+      "Free-living as an adult: it can slowly move across the seafloor using its tentacles.",
+      "Juveniles are attached to the substrate, but adults detach and live as mobile discs.",
+      "Can right itself if flipped upside down by inflating tissue on one side and deflating the other.",
+      "Its large central mouth can engulf prey items much larger than typical coral polyps can consume."
+    ]
+  },
+  {
+    "name": "Button Mushroom Coral",
+    "scientific_name": "Cycloseris cyclolites",
+    "type": "hard",
+    "flavor": "Hundreds of tiny Button Mushroom Corals scatter across the ground like coins tossed by a giant, each one a perfect calcified disc.",
+    "fun_facts": [
+      "A tiny free-living coral rarely more than 3-4 cm across, resembling a small button.",
+      "Like other fungiids, it can move slowly across sandy substrate to escape burial.",
+      "Populations on sandy slopes can be surprisingly dense — hundreds of individuals per square meter.",
+      "Can survive burial under sediment by inflating its tissue to push sand away.",
+      "Its skeleton has been used in archaeology — ancient Pacific cultures traded fungiid skeletons."
+    ]
+  },
+  {
+    "name": "Tongue Coral",
+    "scientific_name": "Herpolitha limax",
+    "type": "hard",
+    "flavor": "An elongated Tongue Coral slithers into view, its many mouths running along a central groove like a creature that speaks in whispers.",
+    "fun_facts": [
+      "An elongated, tongue-shaped free-living coral that can grow up to 30 cm long.",
+      "Has multiple mouths running along a central groove down its length.",
+      "Lives on sandy or rubble substrates and can slowly migrate across the seafloor.",
+      "One of the most recognizable corals due to its unusual elongated shape.",
+      "Found from the Red Sea to the central Pacific, usually in sheltered lagoon environments."
+    ]
+  },
+  {
+    "name": "Feather Coral",
+    "scientific_name": "Polyphyllia talpina",
+    "type": "hard",
+    "flavor": "A great Feather Coral takes shape, its elongated septa fanning outward in delicate ridges that belie the weight of its stony body.",
+    "fun_facts": [
+      "A free-living fungiid coral with numerous elongated septa giving it a feathery appearance.",
+      "Can grow up to 50 cm across — one of the largest solitary corals in the world.",
+      "Multiple mouths run along the tops of its raised ridges.",
+      "Hosts commensal shrimp (Periclimenes spp.) that live exclusively on its surface.",
+      "Despite being a single polyp, its colony-like appearance confused early taxonomists."
+    ]
+  },
+  {
+    "name": "Lobed Brain Coral",
+    "scientific_name": "Lobophyllia hemprichii",
+    "type": "hard",
+    "flavor": "Lobed Brain Coral surges forth in fleshy, brilliantly colored lobes, each one retracting and swelling independently like a creature drawing breath.",
+    "fun_facts": [
+      "Forms large, domed or flat colonies with fleshy, lobed polyps in brilliant colors including red, green, and brown.",
+      "Extremely aggressive, extending long sweeper tentacles to attack neighboring corals at night.",
+      "Popular in the aquarium trade for its dramatic colors and relatively hardy nature.",
+      "Each lobe can retract independently, giving the colony a dynamic, changing appearance.",
+      "Widespread across the Indo-Pacific from the Red Sea to Australia and Japan."
+    ]
+  },
+  {
+    "name": "Open Brain Coral",
+    "scientific_name": "Trachyphyllia geoffroyi",
+    "type": "hard",
+    "flavor": "An Open Brain Coral inflates on the sand, its wrinkled tissue blooming in vivid reds and greens like a wound that refuses to close.",
+    "fun_facts": [
+      "A free-living solitary coral with dramatically fleshy, wrinkled tissue in vivid reds, greens, and blues.",
+      "Can inflate its tissue with water to appear much larger than its skeleton.",
+      "One of the most sought-after corals in the marine aquarium trade.",
+      "Found on sandy and muddy substrate in sheltered lagoons, not typically on hard reef.",
+      "Its tissue contains fluorescent proteins that glow vividly under blue or UV light."
+    ]
+  },
+  {
+    "name": "Maze Brain Coral",
+    "scientific_name": "Symphyllia recta",
+    "type": "hard",
+    "flavor": "Maze Brain Coral locks into place with deep, winding valleys carved through its dome, a labyrinth no creature could solve.",
+    "fun_facts": [
+      "Forms large flat or domed colonies with deep, wide valleys in a complex maze pattern.",
+      "The name recta refers to the relatively straight valley walls compared to other brain corals.",
+      "Can survive partial bleaching with sections recovering while others remain bleached.",
+      "The fleshy tissue between ridges is home to tiny commensal crabs and shrimp.",
+      "Uses sweeper tentacles up to 10 cm long at night to defend territory from neighboring corals."
+    ]
+  },
+  {
+    "name": "Echinopora Coral",
+    "scientific_name": "Echinopora lamellosa",
+    "type": "hard",
+    "flavor": "Thin spiraling plates of Echinopora Coral layer atop one another, building a delicate fortress of overlapping leaf-like stone.",
+    "fun_facts": [
+      "Forms thin, leaf-like plates that spiral and overlap to form complex three-dimensional structures.",
+      "The delicate plates provide shelter for a huge variety of small reef organisms.",
+      "Can shift between plating and branching growth forms depending on light and water flow.",
+      "One of the few corals documented recovering rapidly after physical damage from boat groundings.",
+      "Widespread across the Indo-Pacific, particularly abundant on upper reef slopes in the Coral Triangle."
+    ]
+  },
+  {
+    "name": "Chalice Coral",
+    "scientific_name": "Echinophyllia aspera",
+    "type": "hard",
+    "flavor": "A broad Chalice Coral rises like a cup offered to the deep, its rough surface bristling with tiny spines that catch the faintest light.",
+    "fun_facts": [
+      "Forms broad, chalice-shaped or flat plates with rough (aspera = rough) surface texture.",
+      "Highly prized in the reef aquarium hobby for vivid multicolored varieties called ultra chalice.",
+      "A low-light specialist, naturally found on shaded vertical faces and overhangs.",
+      "The rough texture is caused by tiny spines (spinules) on its skeletal elements.",
+      "Feeds primarily at night, extending tentacles to capture passing zooplankton."
+    ]
+  },
+  {
+    "name": "Oxypora Coral",
+    "scientific_name": "Oxypora lacera",
+    "type": "hard",
+    "flavor": "Oxypora Coral tears itself into being, its ragged lace-like edges fluttering as though freshly ripped from the fabric of the sea.",
+    "fun_facts": [
+      "Forms thin, frilly plates with ragged, lace-like edges — lacera means torn or ragged.",
+      "Often found in areas of moderate water flow where its delicate plates can flutter in currents.",
+      "The thin plate structure is brittle but grows rapidly, allowing quick recovery from breakage.",
+      "Hosts a characteristic community including small gobies and snapping shrimp.",
+      "Vibrant aquarium varieties range from cream and green to vivid orange and red."
+    ]
+  },
+  {
+    "name": "Antler Coral",
+    "scientific_name": "Pectinia alcicornis",
+    "type": "hard",
+    "flavor": "Towering plates of Antler Coral branch and twist skyward, a crown of calcified fronds worthy of some primordial forest king.",
+    "fun_facts": [
+      "Forms tall, upright plates that branch and twist to resemble antlers or leafy sea vegetation.",
+      "One of the most architecturally complex corals, creating dense three-dimensional reef structures.",
+      "The large surface area of its plates supports a diverse community of epibionts.",
+      "Prefers sheltered, turbid reef environments rather than exposed high-energy zones.",
+      "Listed as vulnerable on the IUCN Red List due to habitat loss and bleaching."
+    ]
+  },
+  {
+    "name": "Horn Coral",
+    "scientific_name": "Hydnophora exesa",
+    "type": "hard",
+    "flavor": "Horn Coral bristles into form, its surface studded with pointed projections like the hide of some armored beast readying for war.",
+    "fun_facts": [
+      "Named for the distinctive pointed projections (hydnophores) that stud its surface like tiny horns.",
+      "Forms encrusting, massive, or branching colonies depending on environmental conditions.",
+      "Extremely aggressive — can digest tissue from neighboring corals on contact.",
+      "The horn-like projections house the polyps, which extend at night to feed.",
+      "Fast-growing and resilient, it can dominate reef sections after disturbances."
+    ]
+  },
+  {
+    "name": "Ruffled Ridge Coral",
+    "scientific_name": "Merulina ampliata",
+    "type": "hard",
+    "flavor": "Ruffled Ridge Coral cascades outward in frozen waves of stone, its ridge-and-valley pattern resembling a tempest captured in calcium.",
+    "fun_facts": [
+      "Forms spectacular ruffled plates with ridge-and-valley patterns resembling ocean waves frozen in stone.",
+      "One of the most visually striking corals on Indo-Pacific reefs.",
+      "Plates can reach over a meter across in sheltered conditions.",
+      "A key indicator species for Indo-Pacific reef health assessments.",
+      "The ruffled edges are fragile and often show grazing scars from parrotfish and surgeonfish."
+    ]
+  },
+  {
+    "name": "Mountainous Star Coral",
+    "scientific_name": "Montastraea franksi",
+    "type": "hard",
+    "flavor": "Mountainous Star Coral ascends in a columnar dome, its wide corallites glinting like facets on a monument built over centuries.",
+    "fun_facts": [
+      "One of the dominant framework-building corals on Caribbean deep forereefs from 5-30 m.",
+      "Distinguished from related species by its larger corallites averaging 5-6 mm.",
+      "Forms large, domed or columnar colonies that can live for several hundred years.",
+      "Part of the Montastraea annularis complex — only recently recognized as a distinct species.",
+      "Participates in mass spawning events in the Caribbean each fall."
+    ]
+  },
+  {
+    "name": "Massive Starlet Coral",
+    "scientific_name": "Siderastrea siderea",
+    "type": "hard",
+    "flavor": "A smooth, rounded boulder of Massive Starlet Coral settles into place, its pitted star pattern an unshakable testament to endurance.",
+    "fun_facts": [
+      "One of the hardiest Caribbean corals — survives in turbid, silty conditions other corals cannot tolerate.",
+      "Forms smooth, rounded boulders with a distinctive pitted star pattern on its surface.",
+      "Can grow at depths from 1 m to over 70 m, one of the widest depth ranges of any Caribbean coral.",
+      "Notably resistant to bleaching — some colonies survived the 2005 Caribbean bleaching event without bleaching.",
+      "Grows slowly, about 4-5 mm per year, so large boulders represent centuries of growth."
+    ]
+  },
+  {
+    "name": "Blushing Star Coral",
+    "scientific_name": "Stephanocoenia intersepta",
+    "type": "hard",
+    "flavor": "Blushing Star Coral flushes into view, its polyps flaring a vivid orange-red as though startled by its own sudden arrival.",
+    "fun_facts": [
+      "Named blushing because the polyps turn bright orange-red when disturbed or stressed.",
+      "Forms small, rounded colonies on shallow Caribbean reefs, rarely exceeding 30 cm.",
+      "One of the few Caribbean corals with colonies that are almost perfectly hemispherical.",
+      "Its polyps are among the most sensitive to touch, retracting instantly when contacted.",
+      "Often overlooked on surveys but provides important substrate for encrusting organisms."
+    ]
+  },
+  {
+    "name": "Maze Coral",
+    "scientific_name": "Meandrina meandrites",
+    "type": "hard",
+    "flavor": "Maze Coral weaves itself from raw stone, its winding ridges and valleys forming a dense puzzle no blade could easily cleave.",
+    "fun_facts": [
+      "Forms a complex maze of ridges and valleys — meandros is Greek for winding.",
+      "One of only a handful of Caribbean corals with a true meandroid skeletal structure.",
+      "Its skeleton is extremely dense and heavy compared to branching corals of the same size.",
+      "Produces chemical compounds that deter fish grazing — more resistant to predation.",
+      "Common on both shallow and deep Caribbean reefs, found from 1-50 m depth."
+    ]
+  },
+  {
+    "name": "Rough Cactus Coral",
+    "scientific_name": "Mycetophyllia ferox",
+    "type": "hard",
+    "flavor": "Rough Cactus Coral claws its way into existence with fierce, spiny ridges that promise pain to any hand foolish enough to touch them.",
+    "fun_facts": [
+      "Forms broad, flat colonies with very rough, spiny ridges — ferox means fierce or wild.",
+      "One of the most distinctive Caribbean corals, easily identified by its coarse texture.",
+      "Found mainly on deep forereef slopes from 20-50 m depth.",
+      "Reproduces by brooding larvae internally, releasing swimming juveniles ready to settle.",
+      "Listed as threatened under the US Endangered Species Act."
+    ]
+  },
+  {
+    "name": "Sinuous Cactus Coral",
+    "scientific_name": "Isophyllia sinuosa",
+    "type": "hard",
+    "flavor": "Sinuous Cactus Coral ripples into form, its wavy undulations rolling across the surface like sand dunes frozen in limestone.",
+    "fun_facts": [
+      "Forms low, flat colonies with wavy, sinuous ridges giving a distinctive undulating surface.",
+      "Found on shallow Caribbean reefs from 1-20 m depth.",
+      "One of the few Caribbean corals that frequently shows natural color variation: green, brown, and grey.",
+      "Broods its larvae internally and releases them as swimming planulae at night.",
+      "Often shares substrate with encrusting algae, sponges, and other sessile invertebrates."
+    ]
+  },
+  {
+    "name": "Spiny Flower Coral",
+    "scientific_name": "Mussa angulosa",
+    "type": "hard",
+    "flavor": "Spiny Flower Coral unfolds its enormous fleshy polyps in a riot of crimson and emerald, each one a bloom that could swallow a coin whole.",
+    "fun_facts": [
+      "Has extraordinarily fleshy, colorful polyps — among the most dramatic-looking of all Caribbean corals.",
+      "Tissue colors include vivid reds, oranges, greens, and yellows.",
+      "A relatively rare coral on modern reefs, listed as threatened under the US Endangered Species Act.",
+      "Lives on deeper Caribbean reefs from 10-50 m, avoiding the shallow wave-disturbed zone.",
+      "Each corallite (polyp cup) can be up to 3 cm wide, making individual polyps visible to the naked eye."
+    ]
+  },
+  {
+    "name": "Smooth Flower Coral",
+    "scientific_name": "Eusmilia fastigiata",
+    "type": "hard",
+    "flavor": "Clusters of Smooth Flower Coral project outward like trumpets of bone, their sweeper tentacles already uncoiling to claim the surrounding ground.",
+    "fun_facts": [
+      "Has uniquely elongated corallites that project outward from the colony like clusters of trumpets.",
+      "Occurs as both solitary and colonial forms on Caribbean reefs.",
+      "Produces one of the longest sweeper tentacles of any Caribbean coral — up to 15 cm.",
+      "Often found on deep forereef slopes and under ledges in shaded environments.",
+      "Broods its larvae internally for extended periods before releasing them as fully formed juveniles."
+    ]
+  },
+  {
+    "name": "Pillar Coral",
+    "scientific_name": "Dendrogyra cylindrus",
+    "type": "hard",
+    "flavor": "Towering columns of Pillar Coral erupt skyward, their polyps visibly writhing in daylight as though the pillars themselves were alive and restless.",
+    "fun_facts": [
+      "Grows in spectacular upright columns that can exceed 2 meters in height — unmistakable on any reef.",
+      "Polyps are unusual in being active during the day, with tentacles visibly extended in daylight.",
+      "Critically endangered — pillar coral populations have declined by over 80% in recent decades.",
+      "Reproduces extremely slowly, making recovery from population crashes very difficult.",
+      "Listed as threatened under the US Endangered Species Act and protected in many Caribbean nations."
+    ]
+  },
+  {
+    "name": "Branching Fire Coral",
+    "scientific_name": "Millepora alcicornis",
+    "type": "fire",
+    "flavor": "Branching Fire Coral ignites across the ground, its smooth pale arms radiating a searing sting that warns all who draw near.",
+    "fun_facts": [
+      "Not a true coral but a hydrozoan — more closely related to jellyfish and Portuguese man o war.",
+      "Delivers a painful, burning sting on contact — the source of its common name.",
+      "Has two types of polyps: dactylozooids (for defense and feeding) and gastrozooids (for digestion).",
+      "One of the most important carbonate producers on Caribbean reefs despite not being a true coral.",
+      "Bleaches dramatically white when water temperatures rise, turning ghostly before recovering or dying."
+    ]
+  },
+  {
+    "name": "Blade Fire Coral",
+    "scientific_name": "Millepora complanata",
+    "type": "fire",
+    "flavor": "Thin blades of Fire Coral slice upward like molten knives cooled mid-strike, their mustard-yellow edges concealing a venomous touch.",
+    "fun_facts": [
+      "Forms thin, blade-like plates that orient perpendicular to prevailing currents to maximize food capture.",
+      "Like all fire corals, it can severely sting swimmers and divers who brush against it.",
+      "Can overgrow and kill true corals, sometimes dominating large sections of shallow reef.",
+      "Its calcium carbonate skeleton is very similar to true corals and contributes significantly to reef structure.",
+      "Colors range from mustard yellow to bright orange and bleach to stark white under heat stress."
+    ]
+  },
+  {
+    "name": "Box Fire Coral",
+    "scientific_name": "Millepora squarrosa",
+    "type": "fire",
+    "flavor": "Angular slabs of Box Fire Coral lock together in blocky formations, each surface armed with invisible nematocysts eager to punish the unwary.",
+    "fun_facts": [
+      "Forms distinctive box-like or angular encrusting colonies rather than blades or branches.",
+      "Found mainly in the Caribbean and tropical Atlantic.",
+      "Like other Millepora, it harbors symbiotic zooxanthellae that provide most energy via photosynthesis.",
+      "Its sting is caused by nematocysts similar to those of its jellyfish relatives.",
+      "Often encrusts dead gorgonians and other structural skeletons on the reef."
+    ]
+  },
+  {
+    "name": "Bubble Coral",
+    "scientific_name": "Plerogyra sinuosa",
+    "type": "hard",
+    "flavor": "Bubble Coral swells into a cluster of translucent, grape-like vesicles, each one taut with water and shimmering with trapped light.",
+    "fun_facts": [
+      "Inflates large, grape-like water-filled vesicles during the day that retract at night when tentacles emerge.",
+      "The bubbles serve a dual purpose: increasing surface area for zooxanthellae and deterring predators.",
+      "One of the most popular and recognizable corals in the marine aquarium trade.",
+      "Native to the Indo-Pacific, from the Red Sea to the central Pacific.",
+      "The bubble vesicles can burst if damaged, but typically reinflate within hours."
+    ]
+  },
+  {
+    "name": "Pearl Bubble Coral",
+    "scientific_name": "Physogyra lichtensteini",
+    "type": "hard",
+    "flavor": "Clusters of Pearl Bubble Coral appear on a shaded wall, their small lustrous vesicles gleaming like a hoard of pearls set into living rock.",
+    "fun_facts": [
+      "Similar to bubble coral but produces smaller, more numerous pearl-like vesicles.",
+      "Often found on shaded vertical reef faces and under overhangs in the Indo-Pacific.",
+      "The retracted night-time form looks completely different from the daytime bubble-inflated form.",
+      "Tentacles extended at night can stretch 5-10 cm to capture zooplankton.",
+      "Considered rare in many parts of its range and is listed on CITES Appendix II."
+    ]
+  },
+  {
+    "name": "Elegance Coral",
+    "scientific_name": "Catalaphyllia jardinei",
+    "type": "hard",
+    "flavor": "Elegance Coral unfurls from the sand, its enormous fleshy tentacles tipped in pink and white swaying with predatory grace.",
+    "fun_facts": [
+      "Lives in sandy or muddy substrate — unusual for a large-polyped stony coral.",
+      "The polyp tissue is extremely large and fleshy with distinctive pink or white tentacle tip coloration.",
+      "Wildly popular in the aquarium trade, which has heavily impacted wild populations.",
+      "Found in the Indo-Pacific, particularly in sheltered lagoons and bays with soft substrate.",
+      "Tentacles contain powerful nematocysts used to sting and immobilize small fish and crustaceans."
+    ]
+  },
+  {
+    "name": "Hammer Coral",
+    "scientific_name": "Euphyllia ancora",
+    "type": "hard",
+    "flavor": "Hammer Coral extends its anchor-tipped tentacles in a swaying curtain, each fleshy hammerhead poised to lash out at anything that encroaches.",
+    "fun_facts": [
+      "Named for the anchor or hammer-shaped tips of its tentacles, which are unique among corals.",
+      "Extremely aggressive — its sweeper tentacles can reach over 15 cm and sting neighboring corals severely.",
+      "One of the most popular corals in reef aquariums worldwide due to its flowing movement.",
+      "Found across the Indo-Pacific from the Red Sea to Australia.",
+      "Listed on CITES Appendix II due to collection pressure from the aquarium trade."
+    ]
+  },
+  {
+    "name": "Torch Coral",
+    "scientific_name": "Euphyllia glabrescens",
+    "type": "hard",
+    "flavor": "Torch Coral blazes to life, its long flowing tentacles streaming like living flames that sway and hunt in an invisible current.",
+    "fun_facts": [
+      "Has long, flowing tentacles tipped with rounded ends that sway in the current like torches in a breeze.",
+      "Hosts commensal clownfish in the wild — the tentacles provide the same shelter as an anemone.",
+      "One of the most variable corals for tentacle color: green, gold, brown, pink, and bicolor morphs exist.",
+      "Actively hunts small zooplankton and even tiny fish at night.",
+      "A popular aquarium coral that can grow quite large in captivity, sometimes exceeding 30 cm across."
+    ]
+  },
+  {
+    "name": "Flower Pot Coral",
+    "scientific_name": "Goniopora lobata",
+    "type": "hard",
+    "flavor": "Flower Pot Coral erupts in a bouquet of impossibly long polyps, each one reaching outward like grasping fingers crowned with petals.",
+    "fun_facts": [
+      "Has the longest polyps of any stony coral — individual polyps can extend up to 30 cm.",
+      "When extended, the colony resembles a pot of flowers with 24-tentacled daytime-active polyps.",
+      "Has a notorious reputation in the aquarium trade for being difficult to keep alive long-term.",
+      "Found in turbid, silty environments in the Indo-Pacific where few other corals thrive.",
+      "The colony structure contains hundreds of polyps all connected by living tissue."
+    ]
+  },
+  {
+    "name": "Alveopora Coral",
+    "scientific_name": "Alveopora daedalea",
+    "type": "hard",
+    "flavor": "Alveopora Coral assembles itself from an open lattice of skeleton, its twelve-tentacled polyps blooming through the porous framework like stars through a trellis.",
+    "fun_facts": [
+      "Similar to Goniopora but polyps have only 12 tentacles rather than 24.",
+      "Forms branching, knobby, or encrusting colonies depending on location and water flow.",
+      "Found mainly in the Red Sea, Arabian Gulf, and Indian Ocean.",
+      "Despite its delicate appearance, it is hardier in reef aquariums than its relative Goniopora.",
+      "The open skeletal framework provides habitat for small invertebrates and fish."
+    ]
+  },
+  {
+    "name": "Blastomussa Coral",
+    "scientific_name": "Blastomussa wellsi",
+    "type": "hard",
+    "flavor": "Blastomussa Coral clusters into a mound of swollen polyps, each one inflating like a fleshy grape in colors that shift from dawn to dusk.",
+    "fun_facts": [
+      "Forms clusters of large, individual polyps on a shared skeleton — resembling a bunch of fleshy grapes.",
+      "Each polyp can inflate dramatically during the day and retract to a fraction of its size at night.",
+      "Tolerates lower light and water flow than most corals, making it suitable for dimmer tank positions.",
+      "Popular in the reef aquarium hobby due to its dramatic color variety and relative hardiness.",
+      "Found on lower reef slopes and in shaded environments across the Indo-Pacific."
+    ]
+  },
+  {
+    "name": "Doughnut Coral",
+    "scientific_name": "Cynarina lacrymalis",
+    "type": "hard",
+    "flavor": "A single gargantuan polyp of Doughnut Coral inflates from a tiny skeleton, its translucent flesh ballooning outward in defiance of its stony core.",
+    "fun_facts": [
+      "A solitary coral with one enormous fleshy polyp that can inflate to several times its skeleton size.",
+      "Often found living on soft substrate between rubble and coral on reef slopes.",
+      "The tissue contains high concentrations of zooxanthellae that give it vivid colors.",
+      "Extremely popular in reef aquariums — one of the most photographed and traded corals worldwide.",
+      "Despite its large size and bold appearance, it is a single polyp animal."
+    ]
+  },
+  {
+    "name": "Solitary Disk Coral",
+    "scientific_name": "Scolymia vitiensis",
+    "type": "hard",
+    "flavor": "A vivid disc of Solitary Disk Coral appears like a jewel pressed into rubble, its concentric rings of color daring the eye to look away.",
+    "fun_facts": [
+      "A large, solitary coral disc up to 15 cm across, prized for vivid colors including red, orange, and green.",
+      "Found on rubble and hard substrate on deeper reef slopes in the Indo-Pacific.",
+      "Aquarium trade varieties from Australia are among the most expensive corals ever sold.",
+      "Unlike most large polyped stony corals, it spawns by broadcasting eggs and sperm into the water.",
+      "Uses sweeper tentacles to defend its territory from encroaching organisms."
+    ]
+  },
+  {
+    "name": "Diploastrea Coral",
+    "scientific_name": "Diploastrea heliopora",
+    "type": "hard",
+    "flavor": "Diploastrea Coral surfaces as a vast, impossibly smooth dome, a living fossil whose patience is measured in millennia rather than years.",
+    "fun_facts": [
+      "The only species in its genus — a living fossil with no close living relatives.",
+      "Forms large, extremely smooth-surfaced domes — the smoothest of any faviid coral.",
+      "One of the slowest-growing massive corals, but individual colonies can live for over 1,000 years.",
+      "Extremely resistant to bleaching, and rarely observed bleached even during major thermal events.",
+      "Its growth rings are used by paleoclimatologists to reconstruct past ocean temperatures over centuries."
+    ]
+  },
+  {
+    "name": "Brain Maze Coral",
+    "scientific_name": "Platygyra daedalea",
+    "type": "hard",
+    "flavor": "Brain Maze Coral manifests in an intricate whorl of shared walls and mouth grooves, a puzzle-box organism that has outlived dynasties.",
+    "fun_facts": [
+      "Forms one of the most intricate maze-like surface patterns of any brain coral.",
+      "Extremely common on Indo-Pacific reefs from the Red Sea to the Pacific.",
+      "Colonies can exceed 1 meter in diameter and live for several centuries.",
+      "One of the most thermally tolerant corals in the Indo-Pacific.",
+      "The maze pattern is created by polyp rows that share walls and mouth grooves."
+    ]
+  },
+  {
+    "name": "Lesser Star Coral",
+    "scientific_name": "Cyphastrea serailia",
+    "type": "hard",
+    "flavor": "Lesser Star Coral encrusts the stone in a dense carpet of tiny polyp cups, glowing a spectral green as if lit from within by captured starlight.",
+    "fun_facts": [
+      "Forms encrusting or domed colonies with tiny, closely packed polyp cups.",
+      "Often fluorescent green under blue light, making it glow dramatically on reef surveys.",
+      "Found from very shallow water to depths of 40 m across the Indo-Pacific.",
+      "One of the most common corals in Hawaii, where it carpets many inshore reef areas.",
+      "Produces a characteristic mucosal layer that helps protect it from UV radiation in shallow water."
+    ]
+  },
+  {
+    "name": "Purple Leptastrea",
+    "scientific_name": "Leptastrea purpurea",
+    "type": "hard",
+    "flavor": "Purple Leptastrea spreads in a flat, encrusting sheet of royal violet, colonizing bare stone with the quiet tenacity of something that endures all.",
+    "fun_facts": [
+      "One of the few corals named for a color — purpurea referring to its characteristic purple-pink hues.",
+      "Highly adaptable, found in very shallow wave-swept zones as well as deeper slopes.",
+      "One of the few corals known to survive in extremely low-salinity intertidal pools.",
+      "Forms flat, encrusting sheets that can carpet large areas of inshore reef.",
+      "One of the first corals to recolonize bare substrate after disturbances."
+    ]
+  },
+  {
+    "name": "Coscinarea Coral",
+    "scientific_name": "Coscinarea columna",
+    "type": "hard",
+    "flavor": "Coscinarea Coral rises in coarsely ridged columns, its perforated skeletal plates stacking upward like the foundations of a submerged citadel.",
+    "fun_facts": [
+      "Forms distinctive columnar or encrusting growth with a coarsely ridged surface.",
+      "The skeletal structure shows an unusual pattern of columns supporting a perforated plate.",
+      "Found from the Red Sea to the central Pacific in clear, well-lit reef environments.",
+      "Often hosts a distinctive community of commensal organisms on its rough surface.",
+      "A relatively understudied coral compared to more commercially important species."
+    ]
+  },
+  {
+    "name": "Pencil Coral",
+    "scientific_name": "Anacropora forbesi",
+    "type": "hard",
+    "flavor": "Delicate stalks of Pencil Coral reach upward in pencil-thin formations, fragile as quills yet sharp enough to shelter the smallest creatures.",
+    "fun_facts": [
+      "Forms delicate, pencil-thin branching colonies unlike the stout branches of true Acropora.",
+      "Found in sheltered lagoons and bays where water is calm enough for its fragile branches.",
+      "A rare and poorly studied genus with only about 10 species worldwide.",
+      "The thin branches provide very specific microhabitat for certain obligate coral-dwelling fish.",
+      "Listed as vulnerable on the IUCN Red List due to reef degradation across its range."
+    ]
+  },
+  {
+    "name": "Bird's Nest Coral",
+    "scientific_name": "Seriatopora hystrix",
+    "type": "hard",
+    "flavor": "A tangled mass of Bird's Nest Coral knits together from needle-thin branches, forming a dense thicket that dares intruders to reach inside.",
+    "fun_facts": [
+      "Forms dense, tangled masses of fine branches resembling a bird's nest.",
+      "One of the most delicate branching corals — the needle-thin branches break extremely easily.",
+      "Provides critical dense habitat for small fish, shrimp, and crabs that shelter deep within the branches.",
+      "One of the fastest growing corals under ideal conditions, adding several cm of branch length per year.",
+      "Extremely sensitive to bleaching and among the first corals to die during thermal stress events."
+    ]
+  },
+  {
+    "name": "Smooth Cauliflower Coral",
+    "scientific_name": "Stylophora pistillata",
+    "type": "hard",
+    "flavor": "Smooth Cauliflower Coral compacts itself into a rounded head of blunt-tipped branches, sturdy and methodical as a scholar among wilder kin.",
+    "fun_facts": [
+      "One of the most studied corals in the world — a common subject of reef biology research.",
+      "Forms compact, rounded colonies of blunt-tipped branches resembling cauliflower.",
+      "Found from the Red Sea to the Pacific in a huge variety of colors and growth forms.",
+      "Has been used extensively to study coral calcification, bleaching, and symbiont biology.",
+      "One of the key corals used in reef restoration programs worldwide."
+    ]
+  },
+  {
+    "name": "Cauliflower Coral",
+    "scientific_name": "Pocillopora damicornis",
+    "type": "hard",
+    "flavor": "Cauliflower Coral springs forth in a burst of knobbly branches, already teeming with the commensal crabs and shrimp that call its thickets home.",
+    "fun_facts": [
+      "Among the most widespread and common corals in the Indo-Pacific and eastern Pacific.",
+      "Often among the first corals to recolonize disturbed reef areas after bleaching or storms.",
+      "Harbors complex communities of obligate commensal crabs, shrimp, and fish within its branches.",
+      "Unusual in that it can reproduce both sexually and asexually by releasing brooded planula larvae.",
+      "Used extensively as a model organism in coral biology and climate change research."
+    ]
+  },
+  {
+    "name": "Warty Coral",
+    "scientific_name": "Pocillopora verrucosa",
+    "type": "hard",
+    "flavor": "Warty Coral hardens from the ether, its prominent verrucae studding every branch like blisters on a gauntlet forged in brine.",
+    "fun_facts": [
+      "Distinguished from other Pocillopora by its large, prominent verrucae (wart-like bumps) on branches.",
+      "One of the most thermally sensitive Pocillopora species, often among the first to bleach.",
+      "Found across the Indo-Pacific in exposed reef crest environments with high water flow.",
+      "The branch structure forms a complex microhabitat supporting hundreds of invertebrate species.",
+      "Spawns annually in synchrony with other coral species during seasonal mass-spawning events."
+    ]
+  },
+  {
+    "name": "Capricorn Coral",
+    "scientific_name": "Montipora capricornis",
+    "type": "hard",
+    "flavor": "Whorling vases of Capricorn Coral spiral open in vivid reds and purples, their rough surfaces catching the light like fired ceramic.",
+    "fun_facts": [
+      "Forms whorling, vase-shaped or plating colonies with a characteristically rough surface texture.",
+      "Named capricornis for its original collection site near the Tropic of Capricorn.",
+      "A beginner-friendly aquarium coral — one of the hardiest and most forgiving Montipora species.",
+      "Often vivid red, orange, or purple — one of the more colorful reef corals.",
+      "Provides excellent substrate for settling coral larvae, contributing to natural reef recruitment."
+    ]
+  },
+  {
+    "name": "Finger Montipora",
+    "scientific_name": "Montipora digitata",
+    "type": "hard",
+    "flavor": "Short, sturdy fingers of Montipora Coral cluster together in a compact stand, their dense spacing forming a miniature fortress of calcified digits.",
+    "fun_facts": [
+      "Forms clusters of short, finger-like branches that give it a distinctive compact appearance.",
+      "One of the most common corals on Indo-Pacific reefs and widely available in the aquarium trade.",
+      "Grows quickly under good conditions and is used in reef restoration projects.",
+      "The small branch spacing creates dense microhabitat for tiny cryptic invertebrates.",
+      "Color varies widely — the same species can appear cream, brown, pink, purple, or bright orange."
+    ]
+  },
+  {
+    "name": "Lettuce Coral",
+    "scientific_name": "Montipora undata",
+    "type": "hard",
+    "flavor": "Lettuce Coral ruffles outward in undulating waves of living plate, each folded edge maximizing its hungry reach toward the light.",
+    "fun_facts": [
+      "Forms wavy, undulating plates that resemble the ruffled leaves of a lettuce head.",
+      "Found across the Indo-Pacific on reef slopes from 1-20 m depth.",
+      "The wavy edge increases surface area, maximizing light exposure for its zooxanthellae.",
+      "Like other Montipora species, it grows relatively quickly and is used in reef restoration.",
+      "Color variants range from cream and tan to vivid purple and green."
+    ]
+  },
+  {
+    "name": "Astreopora Coral",
+    "scientific_name": "Astreopora myriophthalma",
+    "type": "hard",
+    "flavor": "Astreopora Coral encrusts the terrain in a dome of ten thousand tiny pits, each one a watching eye in a sentinel of living stone.",
+    "fun_facts": [
+      "Forms encrusting or domed colonies with a surface covered in tiny, closely spaced polyp pits.",
+      "Myriophthalma means ten thousand eyes — a reference to its densely pitted surface.",
+      "Found across the Indo-Pacific from the Red Sea to the Pacific.",
+      "Tolerates a range of water quality conditions including slightly turbid inshore environments.",
+      "Often grows over dead coral skeletons, encrusting and recycling them into living reef structure."
+    ]
+  },
+  {
+    "name": "Blue Coral",
+    "scientific_name": "Heliopora coerulea",
+    "type": "other",
+    "flavor": "Blue Coral solidifies with a skeleton stained permanent cerulean, a hundred-million-year-old design rendered anew in pigment and stone.",
+    "fun_facts": [
+      "The only octocoral (8-tentacled polyp group) to build a massive calcium carbonate skeleton.",
+      "Its skeleton is permanently blue due to biliverdin, a bile pigment — the blue persists in dried museum specimens.",
+      "Found in the Indo-Pacific, especially common in the Philippines and Indonesia.",
+      "Has survived largely unchanged for over 100 million years — a genuine living fossil.",
+      "Listed on CITES Appendix II due to collection for the curio trade."
+    ]
+  },
+  {
+    "name": "Organ Pipe Coral",
+    "scientific_name": "Tubipora musica",
+    "type": "other",
+    "flavor": "Organ Pipe Coral assembles itself from parallel crimson tubes linked by horizontal platforms, like a pipe organ built for a cathedral beneath the waves.",
+    "fun_facts": [
+      "Forms a skeleton of parallel bright red tubes connected by horizontal platforms, resembling a pipe organ.",
+      "An octocoral (soft coral relative) despite producing a hard, permanent skeleton.",
+      "The red color of the skeleton is permanent and comes from iron salts.",
+      "Individual polyps are bright green with 8 feathery tentacles.",
+      "Has been historically collected for the curio trade; now listed on CITES Appendix II."
+    ]
+  },
+  {
+    "name": "Dead Man's Fingers",
+    "scientific_name": "Alcyonium digitatum",
+    "type": "soft",
+    "flavor": "Pale, bloated lobes of Dead Man's Fingers swell from the rock like the hand of a drowned giant clawing upward from its grave.",
+    "fun_facts": [
+      "A temperate soft coral from the northeastern Atlantic and North Sea — not a tropical species.",
+      "Named for its pale, swollen lobes which resemble bloated fingers, especially when retracted.",
+      "Can cover large areas of rocky seafloor in northern European coastal waters.",
+      "Unlike tropical soft corals, it has no symbiotic algae — it feeds entirely on plankton.",
+      "Produces chemical compounds that deter fish and sea urchins from grazing on it."
+    ]
+  },
+  {
+    "name": "Flexible Leather Coral",
+    "scientific_name": "Sinularia flexibilis",
+    "type": "soft",
+    "flavor": "Flexible Leather Coral bends into existence with a toxic sigh, its rubbery lobes exuding alchemical compounds that wither all rivals nearby.",
+    "fun_facts": [
+      "One of the most dominant soft corals on Indo-Pacific reefs, sometimes covering vast areas of the reef slope.",
+      "Produces powerful toxic compounds (sinulariolide) that kill neighboring hard corals and prevent overgrowth.",
+      "Despite its toxicity to other corals, it supports communities of obligate soft-coral-dwelling fish.",
+      "One of the most commonly kept soft corals in reef aquariums due to its hardy nature.",
+      "After storms, fragments reattach and regrow, allowing rapid recovery of populations."
+    ]
+  },
+  {
+    "name": "Toadstool Coral",
+    "scientific_name": "Sarcophyton trocheliophorum",
+    "type": "soft",
+    "flavor": "A broad Toadstool Coral rises on a thick stalk, its ruffled cap unfurling like a parasol over the battlefield as it sheds its waxy skin.",
+    "fun_facts": [
+      "Has a distinctive mushroom or toadstool shape with a thick stalk and broad, ruffled cap.",
+      "One of the most popular and hardy soft corals in the reef aquarium hobby.",
+      "Regularly sheds a waxy coat from its surface to remove algae and sediment.",
+      "Produces terpene compounds that are being studied for potential pharmaceutical applications.",
+      "Can grow very large — colonies in the wild can exceed 50 cm across."
+    ]
+  },
+  {
+    "name": "Thick Leather Coral",
+    "scientific_name": "Lobophytum crassum",
+    "type": "soft",
+    "flavor": "Thick Leather Coral spreads in heavy, lobed masses across the ground, its surface alternating between velvety softness and smooth menace as polyps withdraw.",
+    "fun_facts": [
+      "Forms thick, encrusting lobed masses that can cover several square meters of reef.",
+      "One of the dominant soft corals on Indo-Pacific reef flats and upper slopes.",
+      "Like other leather corals, it produces allelopathic (neighbor-killing) chemicals.",
+      "Polyps are retractile — the colony can appear completely smooth when polyps are withdrawn.",
+      "Targeted by nudibranch predators that are specifically adapted to feed on Lobophytum."
+    ]
+  },
+  {
+    "name": "Cauliflower Soft Coral",
+    "scientific_name": "Cladiella sp.",
+    "type": "soft",
+    "flavor": "Bushy heads of Cauliflower Soft Coral burst upward in pale clusters, tiny white polyps opening across every surface like fresh snow on broccoli.",
+    "fun_facts": [
+      "Forms bushy, cauliflower-like colonies of clustered branches bearing tiny white polyps.",
+      "One of the fastest-colonizing soft corals after reef disturbances.",
+      "Produces chemical compounds that have shown antibacterial properties in laboratory studies.",
+      "Found across the Indo-Pacific in a wide range of reef environments.",
+      "Despite being soft-bodied, the colony contains tiny calcium carbonate spicules for structural support."
+    ]
+  },
+  {
+    "name": "Pulsing Xenia",
+    "scientific_name": "Xenia umbellata",
+    "type": "soft",
+    "flavor": "Pulsing Xenia blooms in rhythmic waves, its feathery tentacles opening and closing in a hypnotic cadence as though conducting an unheard symphony.",
+    "fun_facts": [
+      "Famous for rhythmically pulsing its feathery tentacles — one of the most mesmerizing behaviors on the reef.",
+      "The pulsing motion enhances gas exchange and brings food-laden water to the polyps.",
+      "Unusually, it derives most energy from photosynthesis rather than filter feeding.",
+      "Can reproduce so rapidly in reef aquariums that it is considered a nuisance weed by some hobbyists.",
+      "Scientists have puzzled for decades over why it pulses — the exact function is still debated."
+    ]
+  },
+  {
+    "name": "Fuscescens Xenia",
+    "scientific_name": "Heteroxenia fuscescens",
+    "type": "soft",
+    "flavor": "Stalked clusters of Fuscescens Xenia pulse with a subtly different rhythm than their cousins, their movement a whispered counterpoint in the current.",
+    "fun_facts": [
+      "Also pulses rhythmically like pulsing xenia, but the motion is subtly different in timing.",
+      "Forms clusters of tall, stalked polyp heads on carbonate substrates.",
+      "Common in the Red Sea and Indian Ocean, where it can dominate shallow reef flats.",
+      "One of the few animals known to rely on photosynthesis for essentially all of its energy needs.",
+      "Reproduces rapidly by budding and can form dense meadows on degraded reefs."
+    ]
+  },
+  {
+    "name": "Efflatounaria Coral",
+    "scientific_name": "Efflatounaria sp.",
+    "type": "soft",
+    "flavor": "Thin fingers of Efflatounaria Coral reach outward in a bushy spray, an enigmatic organism still half-unknown to even the most learned scholars.",
+    "fun_facts": [
+      "A poorly studied genus of soft coral found mainly in the Red Sea and Indian Ocean.",
+      "Forms bushy colonies with thin, finger-like branches.",
+      "Named after Egyptian zoologist Ahmed Efflatoun, who described many Red Sea invertebrates.",
+      "Likely produces allelopathic chemicals but these have not been well characterized scientifically.",
+      "Its taxonomy is still being revised as molecular tools are applied to soft coral classification."
+    ]
+  },
+  {
+    "name": "Clove Polyp Coral",
+    "scientific_name": "Clavularia viridis",
+    "type": "soft",
+    "flavor": "A living mat of Clove Polyp Coral unfurls across the stone, each tiny eight-armed polyp a bright green snowflake in an ever-spreading carpet.",
+    "fun_facts": [
+      "Forms mats of individual polyps that resemble tiny cloves or snowflakes with eight feathery tentacles.",
+      "Bright green coloration due to symbiotic zooxanthellae and fluorescent proteins.",
+      "Spreads by extending stolons (runners) across the substrate, which develop new polyps.",
+      "A popular beginner soft coral in reef aquariums due to its hardiness and fast growth.",
+      "Each polyp is an individual organism connected to its neighbors by a thin mat of living tissue."
+    ]
+  },
+  {
+    "name": "Anthelia Soft Coral",
+    "scientific_name": "Anthelia glauca",
+    "type": "soft",
+    "flavor": "Tall, graceful polyps of Anthelia Soft Coral sway into being, their feathered arms waving slowly like acolytes in a silent underwater procession.",
+    "fun_facts": [
+      "Forms mats of tall, graceful polyps that sway gently in the current.",
+      "Found in the Red Sea and Indo-Pacific in moderate to high current environments.",
+      "Unlike pulsing xenia, Anthelia polyps do not pulse — they simply wave in the current.",
+      "One of the most graceful-looking soft corals on the reef, often misidentified as an anemone.",
+      "The feathery tentacles trap plankton and detritus from the water column."
+    ]
+  },
+  {
+    "name": "Tree Soft Coral",
+    "scientific_name": "Nephthea sp.",
+    "type": "soft",
+    "flavor": "A towering Tree Soft Coral rises like an underwater oak, its spicule-stiffened branches forming a canopy in hues of gold, pink, and crimson.",
+    "fun_facts": [
+      "Forms tree-like branching colonies that can grow over a meter tall, creating an underwater forest.",
+      "Non-photosynthetic — relies entirely on filter feeding for nutrition.",
+      "The branches are stiffened by calcium carbonate spicules embedded in the fleshy tissue.",
+      "One of the dominant soft corals in the Indo-Pacific, particularly in areas with strong currents.",
+      "Dazzlingly colorful — found in yellow, orange, pink, red, and white varieties."
+    ]
+  },
+  {
+    "name": "Broccoli Coral",
+    "scientific_name": "Litophyton arboreum",
+    "type": "soft",
+    "flavor": "Dense, rounded heads of Broccoli Coral cluster together in a verdant mound, concealing within their branches a pharmacy of potent terpenoids.",
+    "fun_facts": [
+      "Resembles a head of broccoli — dense, rounded clusters of polyp branches.",
+      "Very common in the Red Sea, where it can dominate large sections of reef slope.",
+      "Non-photosynthetic and feeds entirely on plankton.",
+      "Produces a vast array of terpenoid compounds being studied as potential anti-cancer agents.",
+      "The colony is supported internally by a forest of calcium carbonate spicules."
+    ]
+  },
+  {
+    "name": "Carnation Coral",
+    "scientific_name": "Dendronephthya sp.",
+    "type": "soft",
+    "flavor": "Carnation Coral explodes into view in a riot of scarlet, tangerine, and rose, its translucent flesh revealing the glittering spicules within like jewels beneath glass.",
+    "fun_facts": [
+      "Among the most spectacularly colorful animals in the ocean — vivid red, orange, pink, yellow, and white.",
+      "Non-photosynthetic and requires very high plankton levels — notoriously difficult in aquariums.",
+      "The internal spicules are clearly visible through the translucent tissue.",
+      "Found in areas of strong current where plankton is constantly delivered to its polyps.",
+      "Often highlighted in nature documentaries as an example of extreme reef biodiversity."
+    ]
+  },
+  {
+    "name": "Stereonephthya Coral",
+    "scientific_name": "Stereonephthya sp.",
+    "type": "soft",
+    "flavor": "Stereonephthya Coral solidifies into a rigid, compact cluster, its granular spicules visible through pale tissue like sand trapped in amber.",
+    "fun_facts": [
+      "Similar in appearance to Dendronephthya but with more rigid, compact colony structure.",
+      "Found in the Indo-Pacific in high-flow environments.",
+      "Non-photosynthetic filter feeder that requires consistent plankton-rich water.",
+      "The spicules in each branch can be seen as a granular texture through the tissue.",
+      "Taxonomy is still poorly resolved — many species remain undescribed by science."
+    ]
+  },
+  {
+    "name": "Chili Coral",
+    "scientific_name": "Scleronephthya sp.",
+    "type": "soft",
+    "flavor": "Vivid clusters of Chili Coral dangle from a darkened overhang, each polyp group a small ember of red burning in the gloom of a cave wall.",
+    "fun_facts": [
+      "Forms small, compact clusters of vivid red or orange polyp groups — resembling chili peppers.",
+      "Non-photosynthetic and strictly filter-feeding, requiring strong currents.",
+      "Often found on cave walls and under overhangs where light levels are very low.",
+      "The brilliant colors come from carotenoid pigments rather than algae or fluorescent proteins.",
+      "A highly sought-after coral in the aquarium trade but very difficult to keep without live plankton."
+    ]
+  },
+  {
+    "name": "Gorgonian Sea Fan",
+    "scientific_name": "Acabaria sp.",
+    "type": "soft",
+    "flavor": "A broad Gorgonian Sea Fan spreads wide across the current, its gorgonin skeleton flexing as thousands of tiny polyps extend their feathered arms to feed.",
+    "fun_facts": [
+      "Forms a two-dimensional fan-like colony oriented perpendicular to the current to maximize food capture.",
+      "The fan structure is supported by a flexible internal axial skeleton of gorgonin protein.",
+      "Tiny polyps along the branches extend feathery tentacles to capture passing plankton.",
+      "Can grow very large — some fans exceed 2 meters across.",
+      "The internal skeleton has been historically used to make jewelry and art objects."
+    ]
+  },
+  {
+    "name": "Purple Sea Fan",
+    "scientific_name": "Gorgonia ventalina",
+    "type": "soft",
+    "flavor": "An iconic Purple Sea Fan unfurls perpendicular to an invisible tide, its latticed violet branches filtering the water like a net woven from amethyst.",
+    "fun_facts": [
+      "The iconic purple sea fan of the Caribbean — a flagship species of Caribbean reef imagery.",
+      "Always orients its fan perpendicular to prevailing currents for maximum filter-feeding efficiency.",
+      "Hosts the flamingo tongue snail (Cyphoma gibbosum), which grazes on its tissue leaving distinctive scars.",
+      "Sea fans have been historically overharvested for use in jewelry and as wall decorations.",
+      "A key indicator species for Caribbean reef health assessments."
+    ]
+  },
+  {
+    "name": "Venus Sea Fan",
+    "scientific_name": "Gorgonia flabellum",
+    "type": "soft",
+    "flavor": "A lace-fine Venus Sea Fan appears on the reef wall, its delicate tracery bending dramatically in the surge without ever breaking.",
+    "fun_facts": [
+      "Forms a finely branched, lace-like fan structure more delicate than the purple sea fan.",
+      "Can grow on vertical walls as well as on horizontal reef surfaces.",
+      "Found in shallower water than many gorgonians — sometimes in as little as 3 m depth.",
+      "The fan skeleton is flexible — it bends dramatically in surge and current without breaking.",
+      "Suffers from aspergillosis, a fungal disease that has killed large portions of Caribbean populations."
+    ]
+  },
+  {
+    "name": "Knobby Sea Rod",
+    "scientific_name": "Eunicea sp.",
+    "type": "soft",
+    "flavor": "Upright rods of Knobby Sea Rod spring from the substrate, their knobbly polyp bases studding each branch like rivets on a column of living leather.",
+    "fun_facts": [
+      "Named for the prominent knob-like bases of its polyp calyces along the branches.",
+      "Forms upright, rod-like colonies that branch irregularly, creating a bushy structure.",
+      "A common and important soft coral on Caribbean reefs, providing habitat for many invertebrates.",
+      "The flexible skeleton bends in surge but springs back — it rarely breaks in storms.",
+      "Produces bioactive compounds including pseudopterosins, being studied as anti-inflammatory drugs."
+    ]
+  },
+  {
+    "name": "Sea Plume",
+    "scientific_name": "Plexaura homomalla",
+    "type": "soft",
+    "flavor": "A towering Sea Plume sways into existence, its feathered fronds heavy with prostaglandins that seep into the water like a druid's bitter offering.",
+    "fun_facts": [
+      "One of the most abundant gorgonians on Caribbean reefs, creating dense sea plume gardens.",
+      "Famous as the source of prostaglandin-like compounds discovered in the 1960s — a landmark in biochemistry.",
+      "Produces up to 8% of its dry weight in prostaglandins — more than any other organism known.",
+      "Colonies can grow over a meter tall and live for decades on the reef.",
+      "The discovery of its prostaglandins revolutionized research into these important biological signaling molecules."
+    ]
+  },
+  {
+    "name": "Slit-Pore Sea Rod",
+    "scientific_name": "Plexaurella sp.",
+    "type": "soft",
+    "flavor": "Thick, sparsely branched rods of Slit-Pore Sea Rod stand like sentinels, their distinctive slit-shaped openings hissing faintly in the current.",
+    "fun_facts": [
+      "Named for the distinctive slit-shaped (rather than round) openings of its polyp calyces.",
+      "Forms tall, sparsely branched colonies of thick rods.",
+      "Found across the Caribbean and tropical Atlantic.",
+      "Like other gorgonians, it orients branches to maximize exposure to water flow for filter feeding.",
+      "Hosts a diverse community of small crustaceans and worms within its branches."
+    ]
+  },
+  {
+    "name": "Feather Bush Coral",
+    "scientific_name": "Pseudopterogorgia americana",
+    "type": "soft",
+    "flavor": "Lush fronds of Feather Bush Coral cascade outward in a plume of fine branches, their tissues laced with potent compounds that make even the water sting.",
+    "fun_facts": [
+      "Forms feather-like fronds of fine branches that create lush underwater gardens.",
+      "A major producer of pseudopterosins — natural compounds with potent anti-inflammatory properties.",
+      "Now used commercially: pseudopterosin is extracted for use in cosmetics and skin care products.",
+      "Can grow over a meter tall on shallow Caribbean reefs.",
+      "One of the best-studied gorgonians due to its pharmaceutical importance."
+    ]
+  },
+  {
+    "name": "Orange Sea Fan",
+    "scientific_name": "Muricella sp.",
+    "type": "soft",
+    "flavor": "A broad Orange Sea Fan stretches across the current in sunset hues, its surface so finely textured that pygmy creatures vanish against it entirely.",
+    "fun_facts": [
+      "Forms broad, orange to red fans in the Indo-Pacific and West Pacific.",
+      "A non-photosynthetic gorgonian that requires strong currents for filter feeding.",
+      "Often found on current-swept walls and channels where food availability is high.",
+      "Hosts commensal pygmy seahorses (Hippocampus bargibanti) that precisely match its color and texture.",
+      "The association with pygmy seahorses makes Muricella fans prized by underwater photographers."
+    ]
+  },
+  {
+    "name": "Melithaea Fan Coral",
+    "scientific_name": "Melithaea sp.",
+    "type": "soft",
+    "flavor": "Melithaea Fan Coral flexes into view on alternating hard and soft nodes, its scarlet fan a banner planted on bare rock where nothing else will grow.",
+    "fun_facts": [
+      "Produces bright red, orange, or pink fans in the Indo-Pacific.",
+      "The skeleton has alternating hard and flexible nodes — a distinctive feature of the Melithaeidae family.",
+      "Non-photosynthetic, relying entirely on filter feeding.",
+      "Found in strong current areas from shallow reefs to deeper mesophotic environments.",
+      "The colorful fans provide important structure on rocky walls that would otherwise be bare."
+    ]
+  },
+  {
+    "name": "Bamboo Coral",
+    "scientific_name": "Isis hippuris",
+    "type": "soft",
+    "flavor": "Bamboo Coral rises in segmented lengths of white calcite and dark protein, bending like a martial artist's staff in the invisible tides of magic.",
+    "fun_facts": [
+      "Has an unmistakable skeleton of alternating white calcified internodes and dark flexible nodes — just like bamboo.",
+      "The flexible nodes allow the colony to bend dramatically in current without breaking.",
+      "Found from shallow reefs to very deep water — related deep-sea species live at 1,000+ m depth.",
+      "Can grow over 2 meters tall on Indo-Pacific reefs.",
+      "The white calcified portions are pure calcium carbonate while the dark nodes are gorgonin protein."
+    ]
+  },
+  {
+    "name": "Black Coral",
+    "scientific_name": "Antipathes dichotoma",
+    "type": "other",
+    "flavor": "Black Coral coils upward from the deep, its dark chitin skeleton ancient as superstition itself, crowned by polyps of startling gold.",
+    "fun_facts": [
+      "Black corals have been symbols of good luck in Hawaiian and Caribbean cultures for centuries.",
+      "The internal skeleton is black or dark brown — made of an organic chitin-like protein, not calcium carbonate.",
+      "Found from shallow water to extreme depths — some species have been found at over 8,000 meters.",
+      "Despite their name, the living polyps are often vivid yellow, orange, or white.",
+      "Hawaii has the largest black coral fishery in the US; the coral is protected in many other jurisdictions."
+    ]
+  },
+  {
+    "name": "Wire Coral",
+    "scientific_name": "Cirrhipathes spiralis",
+    "type": "other",
+    "flavor": "A single spiraling strand of Wire Coral extends from the rock like a conjured whip, tiny polyps bristling along its length in a fuzzy helix.",
+    "fun_facts": [
+      "Forms a single unbranched strand that spirals and can grow to over 2 meters long.",
+      "Tiny polyps line the length of the wire, giving it a fuzzy appearance up close.",
+      "Hosts obligate commensal shrimp and tiny gobies (Bryaninops spp.) that live exclusively on wire corals.",
+      "The spiral shape helps keep the coral upright in current without a broad fan structure.",
+      "Some wire corals can live for decades, slowly extending their single strand across the reef."
+    ]
+  },
+  {
+    "name": "Pink Lace Coral",
+    "scientific_name": "Stylaster roseus",
+    "type": "other",
+    "flavor": "Delicate Pink Lace Coral crystallizes on a shaded wall, its rose-tinted fan as fine and treacherous as spun glass hiding a venomous secret.",
+    "fun_facts": [
+      "A hydrocoral like fire coral, but delicate and lace-like rather than massive or branching.",
+      "Forms stunning pink or purple fan-like structures on shaded reef walls and in caves.",
+      "Like fire coral, it can deliver a mild sting — surprising given its delicate appearance.",
+      "Found in the Caribbean and tropical Atlantic, usually in shaded or low-light environments.",
+      "Listed on CITES Appendix II — heavily collected in the past for the curio trade."
+    ]
+  },
+  {
+    "name": "Violet Hydrocoral",
+    "scientific_name": "Distichopora violacea",
+    "type": "other",
+    "flavor": "Violet Hydrocoral branches into a vivid purple fan on a darkened overhang, its color so saturated it seems to bleed pigment into the surrounding shadow.",
+    "fun_facts": [
+      "Forms delicate, violet to purple branching fans — among the most colorful of all reef invertebrates.",
+      "A stylasterid hydrocoral — more closely related to fire coral and jellyfish than to true corals.",
+      "Found on shaded vertical walls and overhangs across the Indo-Pacific.",
+      "The violet color is exceptionally vivid and stable — it does not fade quickly after collection.",
+      "Like all stylasterid hydrocorals, it feeds entirely by filter feeding with no photosynthetic symbiont."
+    ]
+  }
+]

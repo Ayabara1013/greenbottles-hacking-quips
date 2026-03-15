@@ -1,7 +1,7 @@
 {
   "id": "greenbottles-hacking-quips",
   "title": "Greenbottle's Hacking Quips",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -18,7 +18,7 @@
       "url": "https://github.com/Ayabara1013"
     }
   ],
-  "description": "Displays witty programming-related quips when hacking checks fail in Starfinder 2e. Adds GM controls to adjudicate checks without pre-set DCs.",
+  "description": "Displays witty programming-related quips when hacking checks fail in Starfinder 2e, as well as letting you randomize cool trees when you use timber sentinel! Adds GM controls to adjudicate checks without pre-set DCs.",
   "url": "https://github.com/Ayabara1013/greenbottles-hacking-quips",
   "manifest": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.json",
   "download": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.zip",

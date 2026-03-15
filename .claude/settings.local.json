@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const d = require\\(''./data/coral.json''\\); console.log\\(''Entries:'', d.length\\); console.log\\(''First:'', d[0].name\\); console.log\\(''Last:'', d[d.length-1].name\\); const allHaveFlavor = d.every\\(e => e.flavor && e.name && e.scientific_name && e.type && e.fun_facts\\); console.log\\(''All fields present:'', allHaveFlavor\\); const hasNumber = d.some\\(e => e.number !== undefined\\); console.log\\(''Has number field:'', hasNumber\\);\")",
+      "Bash(node -e \"const d = require\\(''./data/coral.json''\\); console.log\\(''Entries:'', d.length\\); console.log\\(''First:'', d[0].name\\); console.log\\(''Last:'', d[d.length-1].name\\);\")",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\(''E:/Google Drive/Code Shit/greenbottles-hacking-quips/data/coral.json''\\)\\); print\\(f''Valid JSON: {len\\(data\\)} entries''\\); print\\(f''All have required keys: {all\\(set\\([\"\"name\"\",\"\"scientific_name\"\",\"\"type\"\",\"\"flavor\"\",\"\"fun_facts\"\"]\\).issubset\\(set\\(e.keys\\(\\)\\)\\) for e in data\\)}''\\)\")",
+      "Bash(python -c \"import json; data=json.load\\(open\\(''E:/Google Drive/Code Shit/greenbottles-hacking-quips/data/coral.json''\\)\\); print\\(f''Valid JSON: {len\\(data\\)} entries''\\); print\\(f''All have required keys: {all\\(set\\([\"\"name\"\",\"\"scientific_name\"\",\"\"type\"\",\"\"flavor\"\",\"\"fun_facts\"\"]\\).issubset\\(set\\(e.keys\\(\\)\\)\\) for e in data\\)}''\\)\")"
+    ]
+  }
+}

@@ -1,10 +1,12 @@
+import { TimberSentinel } from './timber-sentinel-quips.js';
+
 const HACKING_QUIPS = [
   "Your exploit crashes with a segmentation fault. Time to debug.",
   "Error 404: Access not found. Maybe try turning it off and on again?",
   "You forgot to sanitize your inputs and the firewall sanitized YOU instead.",
   "The system returns 'Permission Denied' in 47 different languages simultaneously.",
-  "Your brute force attack was more 'brute' than 'force' – the system is laughing at you.",
-  "Stack overflow! No, not the website – your actual intrusion buffer just exploded.",
+  "Your brute force attack was more 'brute' than 'force' - the system is laughing at you.",
+  "Stack overflow! No, not the website - your actual intrusion buffer just exploded.",
   "You triggered an infinite loop and your hacking kit is now stuck counting to infinity.",
   "The ICE detects your presence. Turns out commenting your code with 'todo: make stealthy' wasn't enough.",
   "Null pointer exception! Your connection points to nothing but empty space and regret.",
@@ -15,10 +17,10 @@ const HACKING_QUIPS = [
   "You divided by zero. Somewhere, a mathematician is crying, and the firewall is laughing.",
   "The system patches your vulnerability before you finish typing. Did it just... learn from you?",
   "Your SQL injection attempt results in a database returning only cat videos. Unhelpful, but adorable.",
-  "Memory leak detected – specifically, your memory of how to do this properly.",
+  "Memory leak detected - specifically, your memory of how to do this properly.",
   "The honeypot trap was obvious. You still walked right into it. The sysadmin is sending you a 'thanks for playing' message.",
   "Your encryption key was rejected. Turns out 'password123' doesn't crack military-grade security.",
-  "Kernel panic! Not in the system – in you. You're panicking. The kernel is fine and mocking you."
+  "Kernel panic! Not in the system - in you. You're panicking. The kernel is fine and mocking you."
 ];
 
 class HackingQuips {
@@ -26,12 +28,28 @@ class HackingQuips {
   
   static initialize() {
     console.log('Hacking Quips | Initializing module');
-    
+
     // Register module settings
     this.registerSettings();
-    
+    TimberSentinel.registerSettings(this.MODULE_ID);
+
+    // Load Timber Sentinel resource data
+    TimberSentinel.loadResources(this.MODULE_ID);
+
     Hooks.on('renderChatMessage', this.onRenderChatMessage.bind(this));
-    
+
+    // Delegated click handler for Timber Sentinel fun facts button
+    document.addEventListener('click', (e) => {
+      if (e.target.classList.contains('timber-sentinel-funfact-btn')) {
+        const factDiv = e.target.nextElementSibling;
+        if (factDiv && factDiv.classList.contains('timber-sentinel-funfact')) {
+          const isHidden = factDiv.style.display === 'none';
+          factDiv.style.display = isHidden ? 'block' : 'none';
+          e.target.textContent = isHidden ? '🐚 Hide Facts' : '🐚 Fun Facts';
+        }
+      }
+    });
+
     // Register socket for cross-client communication
     game.socket.on(`module.${this.MODULE_ID}`, this.handleSocket.bind(this));
   }
@@ -78,6 +96,12 @@ class HackingQuips {
       });
     }
     
+    // Check for Timber Sentinel (triggers for all users, not just GM)
+    if (TimberSentinel.check(message)) {
+      TimberSentinel.handle(message);
+      return;
+    }
+
     // Only process for GMs
     if (!game.user.isGM) return;
     
