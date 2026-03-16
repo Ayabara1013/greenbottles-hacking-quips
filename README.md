@@ -145,6 +145,11 @@ Special thanks to the Foundry VTT and Pathfinder 2e communities!
 
 ## Changelog
 
+### v2.1.2 - Bug Fix: Data Files & Module Serving
+- Fixed Timber Sentinel not triggering — data files were not being served correctly in some installation configurations, causing the species pool to silently load as empty
+- Fixed compendium roll tables not populating for the same reason
+- If upgrading manually, ensure your installation includes the `data/` folder
+
 ### v2.1.0 - Knives, Daggers & Roll Tables
 - Added Knives & Daggers randomizer with 25 blades and toggleable detail fields
 - Added compendium roll tables for Trees, Corals, and Knives/Daggers
