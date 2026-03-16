@@ -1,3 +1,21 @@
+/**
+ * compendium-populator.js — Greenbottle's Hacking Quips
+ *
+ * Populates the module's compendium packs on first load (GM only).
+ * Each pack is checked — if it already has entries, it's skipped (idempotent).
+ *
+ * Packs populated:
+ *   knives-daggers-table — RollTable built from data/knives_and_daggers.json
+ *                          Each result stores knife details as flags for the macro to read.
+ *   trees-table          — RollTable built from data/trees.json
+ *   corals-table         — RollTable built from data/coral.json
+ *   macros               — Creates the "Roll Random Knife/Dagger" macro
+ *
+ * The _populateIfEmpty helper: unlocks the pack, runs the create function, re-locks it.
+ * This pattern prevents accidental edits to compendium content during normal play.
+ *
+ * Called from: hacking-quips.js on the 'ready' hook.
+ */
 export class CompendiumPopulator {
   static MODULE_ID = 'greenbottles-hacking-quips';
 

@@ -1,3 +1,23 @@
+/**
+ * timber-sentinel-quips.js — Greenbottle's Hacking Quips
+ *
+ * Handles the Timber Sentinel feature: when any chat message contains the text
+ * "Timber Sentinel", this class picks a random tree or coral species from its
+ * loaded JSON data and posts a flavoured chat message.
+ *
+ * Data sources (loaded at init from module's /data/ folder):
+ *   data/trees.json        — tree species with flavor text
+ *   data/coral.json        — coral species with scientific name, type, flavor, fun facts
+ *   data/custom-trees.json — optional GM-provided extra trees (merged in if present)
+ *   data/custom-coral.json — optional GM-provided extra corals (merged in if present)
+ *
+ * Display behaviour is controlled by several module settings (registered here):
+ *   timberSentinelEnableTrees / timberSentinelEnableCoral — toggle each pool on/off
+ *   timberSentinelSimple / Uppercase / Emphatic           — name formatting options
+ *   timberSentinelShowFlavor / ShowScientific / ShowCoralType / ShowFunFacts — coral detail toggles
+ *
+ * Used by: hacking-quips.js — called from onRenderChatMessage when TimberSentinel.check() returns true.
+ */
 export class TimberSentinel {
   static MODULE_ID = null;
 

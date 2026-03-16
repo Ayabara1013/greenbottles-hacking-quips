@@ -1,3 +1,30 @@
+/**
+ * hacking-quips.js — Greenbottle's Hacking Quips
+ *
+ * Main module class (HackingQuips). Handles three distinct features:
+ *
+ *   1. HACKING QUIPS — Watches every chat message for Computers skill checks (SF2e hacking).
+ *      - If the roll has a DC set and it's a failure/critical failure: adds a "Show Hacking Quip"
+ *        button that posts a random flavour quip to chat when clicked.
+ *      - If there's no DC (GM rolls blind): adds GM adjudication buttons (Critical Success /
+ *        Success / Failure / Critical Failure). Selecting a failure result auto-posts a quip.
+ *      Button state (disabled vs removed after use) is controlled by a module setting.
+ *      Cross-client sync is handled via game.socket so all players see the same state.
+ *
+ *   2. TIMBER SENTINEL — A mini-feature that triggers whenever a chat message contains
+ *      "Timber Sentinel". Posts a random tree or coral species with flavour text.
+ *      Handled entirely by TimberSentinel (timber-sentinel-quips.js).
+ *
+ *   3. KNIVES & DAGGERS — Compendium roll tables and a macro for rolling random
+ *      knife/dagger entries with configurable detail fields.
+ *      Tables are populated on first load by CompendiumPopulator (compendium-populator.js).
+ *
+ * Socket actions handled:
+ *   removeControls / disableControls — sync adjudication button state across clients
+ *   removeButton / disableButton     — sync quip button state across clients
+ *   showQuip                         — broadcast the chosen quip to all relevant clients
+ */
+
 import { TimberSentinel } from './timber-sentinel-quips.js';
 import { CompendiumPopulator } from './compendium-populator.js';
 
