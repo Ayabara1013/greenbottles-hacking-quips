@@ -10,41 +10,98 @@
     "scripts/hacking-quips.js"
   ],
   "styles": [
-    "styles/hacking-quips.css"
+    {
+      "src": "styles/hacking-quips.css"
+    }
   ],
   "packs": [
     {
       "name": "knives-daggers-table",
       "label": "Knives & Daggers Table",
       "type": "RollTable",
-      "path": "packs/knives-daggers-table"
+      "path": "packs/knives-daggers-table",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "trees-table",
       "label": "Timber Sentinel: Trees Table",
       "type": "RollTable",
-      "path": "packs/trees-table"
+      "path": "packs/trees-table",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "corals-table",
       "label": "Timber Sentinel: Corals Table",
       "type": "RollTable",
-      "path": "packs/corals-table"
+      "path": "packs/corals-table",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "macros",
       "label": "Greenbottle's Macros",
       "type": "Macro",
-      "path": "packs/macros"
+      "path": "packs/macros",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
+  "packFolders": [
+    {
+      "name": "Greenbottle's Toolbelt",
+      "sorting": "a",
+      "color": "#0f7652",
+      "packs": [
+        "knives-daggers-table",
+        "trees-table",
+        "corals-table",
+        "macros"
+      ],
+      "folders": []
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "greenbottles-toolbelt",
+        "type": "module"
+      }
+    ]
+  },
+  "flags": {
+    "canUpload": true
+  },
   "authors": [
     {
       "name": "Doc_",
-      "url": "https://github.com/Ayabara1013"
+      "url": "https://github.com/Ayabara1013",
+      "flags": {}
     }
   ],
-  "description": "Hacking quips for failed Computers checks, Timber Sentinel tree & coral randomizer, Knives & Daggers encyclopedia, and roll tables for all of the above. Built for Starfinder 2e / Pathfinder 2e.",
+  "description": "<p>Hacking quips for failed Computers checks, Timber Sentinel tree &amp; coral randomizer, Knives &amp; Daggers encyclopedia, and roll tables for all of the above. Built for Starfinder 2e / Pathfinder 2e.</p>",
   "url": "https://github.com/Ayabara1013/greenbottles-hacking-quips",
   "manifest": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.json",
   "download": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.zip",
