@@ -1,3 +1,6 @@
 # Foundry VTT compendium packs (LevelDB, generated at runtime)
 packs/
 module.zip
+
+# Claude Code worktrees
+.claude/worktrees/
