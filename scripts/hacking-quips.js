@@ -188,9 +188,11 @@ class HackingQuips {
       });
     }
     
-    // Check for Timber Sentinel (triggers for all users, not just GM)
+    // Check for Timber Sentinel — only the GM creates the response message,
+    // since ChatMessage.create() already broadcasts to all clients.
+    // Previously ran for all users, causing one tree per connected client.
     if (TimberSentinel.check(message)) {
-      TimberSentinel.handle(message);
+      if (game.user.isGM) TimberSentinel.handle(message);
       return;
     }
 
