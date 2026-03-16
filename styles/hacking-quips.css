@@ -215,3 +215,43 @@
   transform: none;
   box-shadow: none;
 }
+
+/* Knife & Dagger result styling */
+.knife-dagger-result {
+  color: #8B4513;
+  font-family: 'Georgia', 'Palatino', serif;
+  padding: 8px 12px;
+  border-left: 3px solid #8B4513;
+  background: rgba(139, 69, 19, 0.15);
+  border-radius: 4px;
+  margin: 5px 0;
+}
+
+.knife-dagger-result h3 {
+  margin: 0 0 4px 0;
+  color: #8B4513;
+  font-size: 1.1em;
+}
+
+.knife-dagger-result h3 i {
+  margin-right: 5px;
+}
+
+.knife-dagger-result .knife-pronunciation {
+  font-style: italic;
+  opacity: 0.8;
+  margin-bottom: 4px;
+}
+
+.knife-dagger-result .knife-description {
+  margin-bottom: 6px;
+}
+
+.knife-dagger-result .knife-details {
+  font-size: 0.85em;
+  opacity: 0.9;
+}
+
+.knife-dagger-result .knife-details div {
+  margin-bottom: 2px;
+}
