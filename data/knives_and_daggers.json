@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Bowie Knife",
+    "pronunciation": "BOO-ee nyfe",
+    "category": "hunting",
+    "origin": "American frontier, early 1800s",
+    "blade": "Clip-point, 9–15 in",
+    "handle": "Wood, bone, or stag",
+    "description": "A large fixed-blade knife with a distinctive clipped point and a crossguard. Originally designed for hunting and self-defense on the American frontier, it became an icon of the Old West.",
+    "uses": "Hunting, camp utility, self-defense"
+  },
+  {
+    "name": "Karambit",
+    "pronunciation": "kah-RAM-bit",
+    "category": "combat",
+    "origin": "Southeast Asia (Indonesia/Philippines)",
+    "blade": "Curved, 2–4 in",
+    "handle": "Ergonomic with finger ring",
+    "description": "A small curved blade modeled after a tiger's claw. Designed to be held with the index finger through a ring, allowing a secure grip and slashing motions in close combat.",
+    "uses": "Close-quarters combat, self-defense"
+  },
+  {
+    "name": "Stiletto",
+    "pronunciation": "stih-LET-oh",
+    "category": "combat",
+    "origin": "Italy, 15th century",
+    "blade": "Needle-point, 6–12 in",
+    "handle": "Metal or hardwood",
+    "description": "A slender, pointed dagger purpose-built for thrusting through gaps in armor. Its narrow blade gives it minimal cutting edge but exceptional piercing ability.",
+    "uses": "Assassination, armor penetration"
+  },
+  {
+    "name": "Puukko",
+    "pronunciation": "POO-koh",
+    "category": "utility",
+    "origin": "Finland / Scandinavia",
+    "blade": "Straight spine, 3–5 in",
+    "handle": "Birch wood, often carved",
+    "description": "A traditional Finnish belt knife carried as an everyday tool for generations. Simple, sturdy, and elegant — used for everything from food prep to woodcraft.",
+    "uses": "Woodworking, camp tasks, food prep"
+  },
+  {
+    "name": "Tanto",
+    "pronunciation": "TAN-toh",
+    "category": "combat",
+    "origin": "Japan, Heian period",
+    "blade": "Chisel-tip, 6–12 in",
+    "handle": "Wrapped in ray skin & cord",
+    "description": "A Japanese dagger with a thick spine and a distinctively angular chisel point. Carried by samurai as a backup weapon, also used in ritual suicide (seppuku).",
+    "uses": "Close combat, armor piercing, ritual"
+  },
+  {
+    "name": "Sgian-dubh",
+    "pronunciation": "SKEE-an DOO",
+    "category": "ceremonial",
+    "origin": "Scotland, 18th century",
+    "blade": "Single-edge, 3–4 in",
+    "handle": "Carved wood, often with a gem",
+    "description": "A small Scottish single-edge knife traditionally worn tucked into the top of the kilt hose. Today it's a decorative element of Highland dress, though historically functional.",
+    "uses": "Highland dress, ceremonial wear"
+  },
+  {
+    "name": "Kukri",
+    "pronunciation": "KOO-kree",
+    "category": "hunting",
+    "origin": "Nepal / Himalayan region",
+    "blade": "Recurved, 12–18 in",
+    "handle": "Hardwood or water buffalo horn",
+    "description": "The iconic inward-curved blade of the Gurkha warriors. The recurve concentrates chopping power and makes it equally effective as a utility tool or weapon.",
+    "uses": "Chopping, farming, hunting, combat"
+  },
+  {
+    "name": "Dirk",
+    "pronunciation": "DERK",
+    "category": "combat",
+    "origin": "Scotland / Naval Europe, 17th–18th c.",
+    "blade": "Long straight, 12–20 in",
+    "handle": "Carved wood",
+    "description": "A long thrusting dagger historically worn by Scottish Highlanders and naval officers. A transitional piece between a dagger and a short sword.",
+    "uses": "Combat, naval sidearm, ceremonial"
+  },
+  {
+    "name": "Neck Knife",
+    "pronunciation": "NEK nyfe",
+    "category": "tactical",
+    "origin": "Modern tactical design",
+    "blade": "Varies, 2–4 in",
+    "handle": "Kydex or G10",
+    "description": "A compact fixed-blade knife worn on a cord around the neck, inside the shirt. Designed for concealed carry and fast deployment in emergency situations.",
+    "uses": "Self-defense, survival, EDC"
+  },
+  {
+    "name": "Fillet Knife",
+    "pronunciation": "FIL-ay nyfe",
+    "category": "utility",
+    "origin": "Fishing cultures worldwide",
+    "blade": "Flexible, 6–11 in",
+    "handle": "Rubber or wood",
+    "description": "A long, thin, extremely flexible blade designed to slide cleanly along the backbone of a fish. Its flex allows precise cuts while minimizing waste.",
+    "uses": "Fish cleaning and filleting"
+  },
+  {
+    "name": "Athame",
+    "pronunciation": "ATH-ah-may (or ah-THAY-mee)",
+    "category": "ceremonial",
+    "origin": "Wiccan / Neopagan tradition",
+    "blade": "Double-edge, 4–6 in",
+    "handle": "Black wood, sometimes carved",
+    "description": "A ritual double-edged dagger used in Wiccan and Neopagan ceremonies. It is traditionally not used for physical cutting but as a symbolic tool to direct energy.",
+    "uses": "Ritual, ceremony, magical practice"
+  },
+  {
+    "name": "Boot Knife",
+    "pronunciation": "BOOT nyfe",
+    "category": "tactical",
+    "origin": "19th-century American West",
+    "blade": "Double or single-edge, 3–6 in",
+    "handle": "Slim, contoured grip",
+    "description": "A compact, slim-profiled knife designed to be carried concealed in a boot. Favored by gamblers, outlaws, and later by military personnel as a backup blade.",
+    "uses": "Concealed carry, self-defense, backup weapon"
+  },
+  {
+    "name": "Oyster Knife",
+    "pronunciation": "OY-ster nyfe",
+    "category": "utility",
+    "origin": "Coastal culinary tradition",
+    "blade": "Short, thick, blunt-tip",
+    "handle": "Wide wooden or rubber grip",
+    "description": "A short, stiff blade with a blunt tip designed to pry open oyster shells without slipping. The wide handle provides the leverage needed for tough shells.",
+    "uses": "Shucking oysters and shellfish"
+  },
+  {
+    "name": "Push Dagger",
+    "pronunciation": "PUSH DAG-er",
+    "category": "combat",
+    "origin": "American South, 19th century",
+    "blade": "T-handle, 3–5 in",
+    "handle": "T-grip held in fist",
+    "description": "A small dagger with a T-shaped handle gripped in the fist so the blade projects between the fingers. Designed for close-range stabbing with the full force of a punch.",
+    "uses": "Close combat, self-defense"
+  },
+  {
+    "name": "Ulu",
+    "pronunciation": "OO-loo",
+    "category": "utility",
+    "origin": "Inuit / Arctic peoples",
+    "blade": "Fan-shaped, 3–7 in",
+    "handle": "Bone, antler, or driftwood",
+    "description": "A unique fan-shaped blade with the handle mounted above the center of the blade. Used for thousands of years by Inuit peoples for butchering animals, scraping hides, and preparing food.",
+    "uses": "Butchering, hide scraping, food prep"
+  },
+  {
+    "name": "Whittling Knife",
+    "pronunciation": "WIT-ling nyfe",
+    "category": "utility",
+    "origin": "European woodworking tradition",
+    "blade": "Short, straight, 2–4 in",
+    "handle": "Ergonomic hardwood",
+    "description": "A simple, short-bladed knife optimized for carving wood by hand. The small blade gives precise control when shaping figures, utensils, and craft objects.",
+    "uses": "Wood carving, crafts"
+  },
+  {
+    "name": "Folding Karambit",
+    "pronunciation": "FOHL-ding kah-RAM-bit",
+    "category": "tactical",
+    "origin": "Modern EDC adaptation",
+    "blade": "Curved, 3 in",
+    "handle": "Aluminum or G10 with finger ring",
+    "description": "A modern EDC interpretation of the traditional karambit with a folding mechanism for safe pocket carry. Retains the hooked blade and retention ring of its ancestor.",
+    "uses": "Self-defense, EDC tactical carry"
+  },
+  {
+    "name": "Misericorde",
+    "pronunciation": "miz-er-ih-KORD",
+    "category": "combat",
+    "origin": "Medieval Europe, 12th–15th century",
+    "blade": "Narrow, 8–14 in",
+    "handle": "Simple crossguard and grip",
+    "description": "Known as the 'dagger of mercy,' this narrow-bladed weapon was used to deliver a killing blow through the visor or joints of a downed, armored opponent.",
+    "uses": "Finishing downed armored knights"
+  },
+  {
+    "name": "Hunting Skinner",
+    "pronunciation": "HUN-ting SKIN-er",
+    "category": "hunting",
+    "origin": "Traditional hunting worldwide",
+    "blade": "Drop-point or gut-hook, 4–6 in",
+    "handle": "Rubber, bone, or antler",
+    "description": "A fixed-blade knife with a gently curved drop-point or integrated gut hook, optimized for field dressing and skinning game without puncturing the stomach cavity.",
+    "uses": "Skinning, field dressing game"
+  },
+  {
+    "name": "Trench Knife",
+    "pronunciation": "TRENCH nyfe",
+    "category": "combat",
+    "origin": "World War I, 1917–1918",
+    "blade": "Double-edge, 6–9 in",
+    "handle": "Brass knuckle guard",
+    "description": "Developed for brutal close-quarters combat in the narrow trenches of WWI. Features a spiked or knuckle-duster handle for use as a bludgeon alongside the blade.",
+    "uses": "Trench warfare, close combat"
+  },
+  {
+    "name": "Grapefruit Knife",
+    "pronunciation": "GRAY-pfroot nyfe",
+    "category": "utility",
+    "origin": "Modern kitchen design",
+    "blade": "Serrated curved, 4 in",
+    "handle": "Plastic or wood",
+    "description": "A specialized kitchen knife with a long, curved, double-sided serrated blade designed to segment citrus fruits by running along the inside of the rind.",
+    "uses": "Segmenting citrus fruits"
+  },
+  {
+    "name": "Kpinga",
+    "pronunciation": "kuh-PING-ah",
+    "category": "combat",
+    "origin": "Azande people, Central Africa",
+    "blade": "Triple-pronged iron, 22 in",
+    "handle": "Leather-wrapped iron",
+    "description": "A uniquely shaped throwing knife with multiple blades at different angles, designed to strike a target regardless of rotational orientation during flight.",
+    "uses": "Thrown weapon, melee combat"
+  },
+  {
+    "name": "Cheese Knife",
+    "pronunciation": "CHEEZ nyfe",
+    "category": "utility",
+    "origin": "European culinary tradition",
+    "blade": "Perforated or forked-tip, 4–6 in",
+    "handle": "Wood, horn, or metal",
+    "description": "A kitchen knife with holes in the blade to prevent cheese from sticking, or a forked tip for serving. Different shapes exist for hard, semi-soft, and soft cheeses.",
+    "uses": "Cutting and serving cheese"
+  },
+  {
+    "name": "Khukuri Companion Knives",
+    "pronunciation": "koo-KOO-ree KUM-pan-yunnyvez",
+    "category": "utility",
+    "origin": "Nepal",
+    "blade": "Paired small blades, 3–4 in",
+    "handle": "Stored in kukri sheath pockets",
+    "description": "Two small knives traditionally stored in the back pockets of a kukri sheath — one blunt (for starting fires with a flint) and one sharp (a small utility knife called a karda).",
+    "uses": "Fire-starting, fine utility tasks"
+  },
+  {
+    "name": "Navaja",
+    "pronunciation": "nah-VAH-hah",
+    "category": "combat",
+    "origin": "Spain, 17th century",
+    "blade": "Long folding, 4–10 in",
+    "handle": "Horn, bone, or rosewood",
+    "description": "A traditional Spanish folding knife with a long blade that locks open via a spring or notch. Historically used as a working knife and weapon by Spanish laborers and sailors.",
+    "uses": "Self-defense, utility, working knife"
+  }
+]

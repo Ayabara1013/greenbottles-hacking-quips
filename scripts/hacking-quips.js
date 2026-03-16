@@ -1,4 +1,5 @@
 import { TimberSentinel } from './timber-sentinel-quips.js';
+import { CompendiumPopulator } from './compendium-populator.js';
 
 const HACKING_QUIPS = [
   "Your exploit crashes with a segmentation fault. Time to debug.",
@@ -80,6 +81,70 @@ class HackingQuips {
       config: true,
       type: Boolean,
       default: false
+    });
+
+    // Knife/Dagger detail toggles
+    game.settings.register(this.MODULE_ID, 'knivesShowPronunciation', {
+      name: 'Knives: Pronunciation',
+      hint: 'Show the pronunciation guide for each knife/dagger.',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
+    });
+
+    game.settings.register(this.MODULE_ID, 'knivesShowCategory', {
+      name: 'Knives: Category',
+      hint: 'Show the category (combat, utility, hunting, etc.).',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
+    });
+
+    game.settings.register(this.MODULE_ID, 'knivesShowOrigin', {
+      name: 'Knives: Origin',
+      hint: 'Show the historical origin of the knife/dagger.',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
+    });
+
+    game.settings.register(this.MODULE_ID, 'knivesShowBlade', {
+      name: 'Knives: Blade',
+      hint: 'Show blade type and dimensions.',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
+    });
+
+    game.settings.register(this.MODULE_ID, 'knivesShowHandle', {
+      name: 'Knives: Handle',
+      hint: 'Show handle material description.',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
+    });
+
+    game.settings.register(this.MODULE_ID, 'knivesShowDescription', {
+      name: 'Knives: Description',
+      hint: 'Show the full description of the knife/dagger.',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
+    });
+
+    game.settings.register(this.MODULE_ID, 'knivesShowUses', {
+      name: 'Knives: Uses',
+      hint: 'Show the intended uses of the knife/dagger.',
+      scope: 'world',
+      config: true,
+      type: Boolean,
+      default: true
     });
   }
   
@@ -456,4 +521,8 @@ class HackingQuips {
 
 Hooks.once('init', () => {
   HackingQuips.initialize();
+});
+
+Hooks.once('ready', async () => {
+  await CompendiumPopulator.populate();
 });

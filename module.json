@@ -1,7 +1,7 @@
 {
   "id": "greenbottles-hacking-quips",
   "title": "Greenbottle's Hacking Quips",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -12,13 +12,39 @@
   "styles": [
     "styles/hacking-quips.css"
   ],
+  "packs": [
+    {
+      "name": "knives-daggers-table",
+      "label": "Knives & Daggers Table",
+      "type": "RollTable",
+      "path": "packs/knives-daggers-table"
+    },
+    {
+      "name": "trees-table",
+      "label": "Timber Sentinel: Trees Table",
+      "type": "RollTable",
+      "path": "packs/trees-table"
+    },
+    {
+      "name": "corals-table",
+      "label": "Timber Sentinel: Corals Table",
+      "type": "RollTable",
+      "path": "packs/corals-table"
+    },
+    {
+      "name": "macros",
+      "label": "Greenbottle's Macros",
+      "type": "Macro",
+      "path": "packs/macros"
+    }
+  ],
   "authors": [
     {
       "name": "Doc_",
       "url": "https://github.com/Ayabara1013"
     }
   ],
-  "description": "Displays witty programming-related quips when hacking checks fail in Starfinder 2e, as well as letting you randomize cool trees when you use timber sentinel! Adds GM controls to adjudicate checks without pre-set DCs.",
+  "description": "Hacking quips for failed Computers checks, Timber Sentinel tree & coral randomizer, Knives & Daggers encyclopedia, and roll tables for all of the above. Built for Starfinder 2e / Pathfinder 2e.",
   "url": "https://github.com/Ayabara1013/greenbottles-hacking-quips",
   "manifest": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.json",
   "download": "https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/latest/download/module.zip",
