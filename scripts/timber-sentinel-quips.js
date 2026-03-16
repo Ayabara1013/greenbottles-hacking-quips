@@ -160,6 +160,9 @@ export class TimberSentinel {
   }
 
   static handle(message) {
+    // Only the GM creates the response — prevents duplicate posts when multiple clients are connected
+    if (!game.user.isGM) return;
+
     // Prevent duplicate triggers on re-render
     if (message.getFlag(this.MODULE_ID, 'timberProcessed')) return;
 
