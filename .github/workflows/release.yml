@@ -4,19 +4,43 @@ on:
   release:
     types: [published]
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      
+
       - name: Create module.zip
         run: zip -r ./module.zip module.json scripts/ styles/ data/ README.md
-      
+
       - name: Upload Assets to Release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
           artifacts: './module.zip,./module.json'
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Submit to Foundry Package Registry
+        env:
+          FVTT_PACKAGE_TOKEN: ${{ secrets.FVTT_PACKAGE_TOKEN }}
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          curl -f -X POST https://api.foundryvtt.com/_api/packages/release_version/ \
+            -H "Authorization: $FVTT_PACKAGE_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"id\": \"greenbottles-hacking-quips\",
+              \"release\": {
+                \"version\": \"$VERSION\",
+                \"manifest\": \"https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/download/${GITHUB_REF_NAME}/module.json\",
+                \"notes\": \"https://github.com/Ayabara1013/greenbottles-hacking-quips/releases/tag/${GITHUB_REF_NAME}\",
+                \"compatibility\": {
+                  \"minimum\": \"13\",
+                  \"verified\": \"13\"
+                }
+              }
+            }"
