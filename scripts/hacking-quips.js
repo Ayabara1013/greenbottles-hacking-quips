@@ -73,7 +73,7 @@ class HackingQuips {
         if (factDiv && factDiv.classList.contains('timber-sentinel-funfact')) {
           const isHidden = factDiv.style.display === 'none';
           factDiv.style.display = isHidden ? 'block' : 'none';
-          e.target.textContent = isHidden ? '🐚 Hide Facts' : '🐚 Fun Facts';
+          e.target.textContent = isHidden ? '🌿 Hide Facts' : '🌿 Fun Facts';
         }
       }
     });

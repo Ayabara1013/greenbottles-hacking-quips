@@ -1,6 +1,8 @@
 :root {
-  --tree-colour: #284723;
-  --tree-bg: rgba(89, 150, 81, 0.3);
+  --tree-border: #2d5a27;
+  --tree-bg: rgba(45, 90, 39, 0.08);
+  --tree-title-colour: #2d6b25;
+  --tree-body-colour: #1e4a1a;
 }
 
 /* #region Hacking Quips */
@@ -102,65 +104,74 @@
 
 /* #region Timber Sentinel quip styling */
 .timber-sentinel-quip {
-  color: var(--tree-colour);
-  font-family: 'Georgia', 'Palatino', serif;
   padding: 5px 10px;
-  border-left: 3px solid var(--tree-colour);
+  border-left: 3px solid var(--tree-border);
   background: var(--tree-bg);
   margin: 5px 0;
-  font-weight: 600;
 }
 
-.timber-sentinel-quip i {
+.timber-sentinel-title {
+  font-weight: bold;
+  color: var(--tree-title-colour);
+}
+
+.timber-sentinel-title i {
   margin-right: 5px;
 }
 
-///* Coral detail line (scientific name + type) */
+/* Flavor text keeps the serif font */
+.timber-sentinel-flavor {
+  font-family: 'Georgia', 'Palatino', serif;
+  font-style: italic;
+  color: var(--tree-body-colour);
+  margin-top: 3px;
+  font-size: 0.9em;
+}
+
+/* Coral detail line (scientific name + type) */
 .timber-sentinel-details {
   font-size: 0.85em;
   margin-top: 4px;
+  color: var(--tree-title-colour);
   opacity: 0.85;
-  font-weight: 400;
 }
 
+/* Scientific name keeps serif + italic */
 .timber-sentinel-scientific {
+  font-family: 'Georgia', 'Palatino', serif;
   font-style: italic;
 }
 
+/* Type badge uses default font */
 .timber-sentinel-type-badge {
-  font-variant: small-caps;
-  letter-spacing: 0.5px;
+  opacity: 0.8;
 }
 
-///* Fun facts button */
+/* Fun facts button */
 .timber-sentinel-funfact-btn {
   display: inline-block;
   margin-top: 6px;
   padding: 3px 10px;
-  border: 1px solid rgba(45, 90, 39, 0.5);
+  border: 1px solid var(--tree-border);
   border-radius: 3px;
-  background: rgba(45, 90, 39, 0.25);
-  color: #4a8c3f;
-  font-family: 'Georgia', 'Palatino', serif;
+  background: rgba(45, 90, 39, 0.10);
+  color: var(--tree-title-colour);
   font-size: 0.8em;
-  font-weight: 600;
   cursor: pointer;
   transition: all 0.2s;
 }
 
 .timber-sentinel-funfact-btn:hover {
-  background: rgba(45, 90, 39, 0.45);
-  border-color: #4a8c3f;
+  background: rgba(45, 90, 39, 0.20);
 }
 
 /* Fun facts expandable panel */
 .timber-sentinel-funfact {
   margin-top: 6px;
   padding: 6px 10px;
-  background: rgba(45, 90, 39, 0.15);
+  background: rgba(45, 90, 39, 0.06);
   border-radius: 3px;
   font-size: 0.82em;
-  font-weight: 400;
   line-height: 1.5;
 }
 

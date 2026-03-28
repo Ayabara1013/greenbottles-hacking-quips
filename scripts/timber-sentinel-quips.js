@@ -12,7 +12,7 @@
  *   data/custom-coral.json — optional GM-provided extra corals (merged in if present)
  *
  * Display behaviour is controlled by several module settings (registered here):
- *   timberSentinelEnableTrees / timberSentinelEnableCoral — toggle each pool on/off
+ *   timberSentinelPool                                    — dropdown: 'trees' | 'coral' | 'both'
  *   timberSentinelSimple / Uppercase / Emphatic           — name formatting options
  *   timberSentinelShowFlavor / ShowScientific / ShowCoralType / ShowFunFacts — coral detail toggles
  *
@@ -21,9 +21,14 @@
 export class TimberSentinel {
   static MODULE_ID = null;
 
+  // Synchronous dedup: tracks message IDs already handled this session,
+  // guarding against the race where renderChatMessage fires again before
+  // setFlag() has persisted (which would let handle() run twice).
+  static _processedIds = new Set();
+
   static resourceTypes = {
-    trees: { entries: [], icon: 'fa-tree', settingKey: 'timberSentinelEnableTrees' },
-    coral: { entries: [], icon: 'fa-water', settingKey: 'timberSentinelEnableCoral' }
+    trees: { entries: [], icon: 'fa-tree' },
+    coral: { entries: [], icon: 'fa-water' }
   };
 
   static async loadResources(moduleId) {
@@ -68,23 +73,19 @@ export class TimberSentinel {
   }
 
   static registerSettings(moduleId) {
-    // Type toggles
-    game.settings.register(moduleId, 'timberSentinelEnableTrees', {
-      name: 'Timber Sentinel Types: Trees',
-      hint: 'When enabled, trees are included in the Timber Sentinel pool.',
+    // Pool selection dropdown
+    game.settings.register(moduleId, 'timberSentinelPool', {
+      name: 'Timber Sentinel: Species Pool',
+      hint: 'Choose which species pool the Timber Sentinel draws from.',
       scope: 'world',
       config: true,
-      type: Boolean,
-      default: true
-    });
-
-    game.settings.register(moduleId, 'timberSentinelEnableCoral', {
-      name: 'Timber Sentinel Types: Coral',
-      hint: 'When enabled, coral species are included in the Timber Sentinel pool.',
-      scope: 'world',
-      config: true,
-      type: Boolean,
-      default: true
+      type: String,
+      choices: {
+        trees: 'Trees only',
+        coral: 'Coral only',
+        both:  'Both (random each time)'
+      },
+      default: 'trees'
     });
 
     // Display settings (apply to all types)
@@ -115,10 +116,10 @@ export class TimberSentinel {
       default: false
     });
 
-    // Coral detail toggles
+    // Detail toggles (apply to both trees and coral)
     game.settings.register(moduleId, 'timberSentinelShowFlavor', {
-      name: 'Coral Detail: Flavor Text',
-      hint: 'When enabled, a fantasy-themed flavor sentence is shown for coral. When disabled, only the common name is displayed.',
+      name: 'Detail: Flavor Text',
+      hint: 'When enabled, the flavor sentence is shown. When disabled, only the species name is displayed.',
       scope: 'world',
       config: true,
       type: Boolean,
@@ -126,8 +127,8 @@ export class TimberSentinel {
     });
 
     game.settings.register(moduleId, 'timberSentinelShowScientific', {
-      name: 'Coral Detail: Scientific Name',
-      hint: 'When enabled, the scientific name is shown below the coral name.',
+      name: 'Detail: Scientific Name',
+      hint: 'When enabled, the scientific name is shown below the species name.',
       scope: 'world',
       config: true,
       type: Boolean,
@@ -135,8 +136,8 @@ export class TimberSentinel {
     });
 
     game.settings.register(moduleId, 'timberSentinelShowCoralType', {
-      name: 'Coral Detail: Coral Type',
-      hint: 'When enabled, the coral type (hard, soft, fire, other) is shown.',
+      name: 'Detail: Species Type',
+      hint: 'When enabled, the species type (e.g. Deciduous Tree, Hard Coral) is shown.',
       scope: 'world',
       config: true,
       type: Boolean,
@@ -144,8 +145,8 @@ export class TimberSentinel {
     });
 
     game.settings.register(moduleId, 'timberSentinelShowFunFacts', {
-      name: 'Coral Detail: Fun Facts Button',
-      hint: 'When enabled, a clickable button is shown that reveals fun facts about the coral.',
+      name: 'Detail: Fun Facts Button',
+      hint: 'When enabled, a clickable button is shown that reveals fun facts about the species.',
       scope: 'world',
       config: true,
       type: Boolean,
@@ -163,14 +164,19 @@ export class TimberSentinel {
     // Only the GM creates the response — prevents duplicate posts when multiple clients are connected
     if (!game.user.isGM) return;
 
-    // Prevent duplicate triggers on re-render
+    // Synchronous guard: prevents a second call sneaking through before setFlag() persists
+    if (this._processedIds.has(message.id)) return;
+    this._processedIds.add(message.id);
+
+    // Persistent guard: prevents re-trigger across reloads / re-renders of old messages
     if (message.getFlag(this.MODULE_ID, 'timberProcessed')) return;
 
-    // Build list of enabled types with entries
+    // Build list of enabled types based on pool setting
+    const pool = game.settings.get(this.MODULE_ID, 'timberSentinelPool');
     const enabledTypes = Object.entries(this.resourceTypes)
       .filter(([key, type]) => {
-        const enabled = game.settings.get(this.MODULE_ID, type.settingKey);
-        return enabled && type.entries.length > 0;
+        const inPool = pool === 'both' || pool === key;
+        return inPool && type.entries.length > 0;
       });
 
     if (enabledTypes.length === 0) return;
@@ -215,47 +221,33 @@ export class TimberSentinel {
     });
   }
 
-  static _buildTreeHtml(entry, speciesName, simple, icon) {
-    let displayText;
-    if (simple) {
-      displayText = speciesName;
-    } else {
-      displayText = entry.flavor;
-      if (speciesName !== entry.name) {
-        displayText = displayText.replace(entry.name, speciesName);
-      }
-    }
-    return `<div class="timber-sentinel-quip"><i class="fas ${icon}"></i> <em>${displayText}</em></div>`;
-  }
-
-  static _buildCoralHtml(entry, speciesName, simple, uppercase, emphatic, icon) {
-    const showFlavor = game.settings.get(this.MODULE_ID, 'timberSentinelShowFlavor');
+  // Shared detail rendering — used by both trees and coral.
+  // typeSuffix is the word appended to the type field, e.g. "Tree" → "Deciduous Tree", "Coral" → "Hard Coral".
+  // cssExtra is an optional extra CSS class on the wrapper div.
+  // icon is the FA icon class string.
+  static _buildEntryHtml(entry, speciesName, simple, icon, typeSuffix, cssExtra = '') {
+    const showFlavor    = game.settings.get(this.MODULE_ID, 'timberSentinelShowFlavor');
     const showScientific = game.settings.get(this.MODULE_ID, 'timberSentinelShowScientific');
-    const showCoralType = game.settings.get(this.MODULE_ID, 'timberSentinelShowCoralType');
-    const showFunFacts = game.settings.get(this.MODULE_ID, 'timberSentinelShowFunFacts');
+    const showType      = game.settings.get(this.MODULE_ID, 'timberSentinelShowCoralType');
+    const showFunFacts  = game.settings.get(this.MODULE_ID, 'timberSentinelShowFunFacts');
 
-    // Main text: flavor or just species name
-    let mainText;
-    if (simple || !showFlavor) {
-      mainText = speciesName;
-    } else {
+    let html = `<div class="timber-sentinel-quip${cssExtra ? ' ' + cssExtra : ''}">`;
+    html += `<div class="timber-sentinel-title"><i class="fas ${icon}"></i> ${speciesName}</div>`;
+
+    // Flavor text
+    if (!simple && showFlavor) {
       let flavor = entry.flavor;
-      if (speciesName !== entry.name) {
-        flavor = flavor.replace(entry.name, speciesName);
-      }
-      mainText = flavor;
+      if (speciesName !== entry.name) flavor = flavor.replace(entry.name, speciesName);
+      html += `<div class="timber-sentinel-flavor">${flavor}</div>`;
     }
 
-    let html = `<div class="timber-sentinel-quip timber-sentinel-coral">`;
-    html += `<i class="fas ${icon}"></i> <em>${mainText}</em>`;
-
-    // Detail line (scientific name + type)
+    // Detail line (scientific name · type)
     const detailParts = [];
     if (showScientific && entry.scientific_name) {
       detailParts.push(`<span class="timber-sentinel-scientific"><i>${entry.scientific_name}</i></span>`);
     }
-    if (showCoralType && entry.type) {
-      const typeLabel = entry.type.charAt(0).toUpperCase() + entry.type.slice(1) + ' Coral';
+    if (showType && entry.type) {
+      const typeLabel = entry.type.charAt(0).toUpperCase() + entry.type.slice(1) + ' ' + typeSuffix;
       detailParts.push(`<span class="timber-sentinel-type-badge">${typeLabel}</span>`);
     }
     if (detailParts.length > 0) {
@@ -265,11 +257,19 @@ export class TimberSentinel {
     // Fun facts button + hidden panel
     if (showFunFacts && entry.fun_facts && entry.fun_facts.length > 0) {
       const factsHtml = entry.fun_facts.map(f => `<li>${f}</li>`).join('');
-      html += `<button class="timber-sentinel-funfact-btn">🐚 Fun Facts</button>`;
+      html += `<button class="timber-sentinel-funfact-btn">🌿 Fun Facts</button>`;
       html += `<div class="timber-sentinel-funfact" style="display:none;"><ul>${factsHtml}</ul></div>`;
     }
 
     html += `</div>`;
     return html;
+  }
+
+  static _buildTreeHtml(entry, speciesName, simple, icon) {
+    return this._buildEntryHtml(entry, speciesName, simple, icon, 'Tree');
+  }
+
+  static _buildCoralHtml(entry, speciesName, simple, uppercase, emphatic, icon) {
+    return this._buildEntryHtml(entry, speciesName, simple, icon, 'Coral', 'timber-sentinel-coral');
   }
 }

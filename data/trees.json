@@ -1,62 +1,782 @@
 [
-  { "name": "Oak", "flavor": "Your Timber Sentinel takes root as a mighty Oak, its bark groaning with ancient strength." },
-  { "name": "Redwood", "flavor": "A towering Redwood rises at your command, casting long shadows across the battlefield." },
-  { "name": "Willow", "flavor": "A gnarled Willow springs forth, its drooping branches swaying with an eerie sentience." },
-  { "name": "Pine", "flavor": "A tall Pine stands sentinel, its needles bristling like a thousand tiny spears." },
-  { "name": "Birch", "flavor": "A pale Birch appears, its white bark gleaming like bone in the light." },
-  { "name": "Maple", "flavor": "A broad Maple takes shape, its crimson leaves rustling with arcane energy." },
-  { "name": "Elm", "flavor": "A stately Elm rises, its sweeping canopy providing cover from above." },
-  { "name": "Ash", "flavor": "An Ash tree materializes, its wood humming with the memory of ancient weapons." },
-  { "name": "Cedar", "flavor": "A fragrant Cedar appears, its aromatic wood filling the air with a calming scent." },
-  { "name": "Cypress", "flavor": "A somber Cypress takes form, standing like a dark spire against the sky." },
-  { "name": "Yew", "flavor": "A twisted Yew emerges, its poisonous berries glistening with deadly promise." },
-  { "name": "Ironwood", "flavor": "An Ironwood sentinel stands firm, its trunk as unyielding as forged steel." },
-  { "name": "Ebony", "flavor": "An Ebony tree rises, its dark heartwood absorbing the light around it." },
-  { "name": "Baobab", "flavor": "A massive Baobab swells into existence, its trunk wide enough to shelter a small army." },
-  { "name": "Elder", "flavor": "An Elder tree takes root, its hollow trunk whispering with fey secrets." },
-  { "name": "Rowan", "flavor": "A Rowan springs up, its bright berries warding against dark enchantments." },
-  { "name": "Hawthorn", "flavor": "A thorny Hawthorn bristles into being, its sharp spines daring any foe to approach." },
-  { "name": "Sequoia", "flavor": "A colossal Sequoia erupts from the ground, dwarfing everything in its shadow." },
-  { "name": "Banyan", "flavor": "A sprawling Banyan unfurls, its aerial roots descending like grasping fingers." },
-  { "name": "Magnolia", "flavor": "A Magnolia blooms into existence, its enormous white flowers radiating primal power." },
-  { "name": "Juniper", "flavor": "A hardy Juniper takes shape, its twisted form speaking of centuries of endurance." },
-  { "name": "Larch", "flavor": "A golden Larch rises, its soft needles shimmering with an otherworldly glow." },
-  { "name": "Spruce", "flavor": "A towering Spruce stands at attention, its symmetrical form a monument to natural order." },
-  { "name": "Walnut", "flavor": "A sturdy Walnut materializes, its dense wood radiating an aura of resilience." },
-  { "name": "Cherry", "flavor": "A Cherry tree appears in full blossom, its pink petals drifting like gentle snow." },
-  { "name": "Hickory", "flavor": "A tough Hickory takes root, its famously resilient wood cracking with latent energy." },
-  { "name": "Dogwood", "flavor": "A flowering Dogwood blooms into being, its delicate appearance belying inner strength." },
-  { "name": "Beech", "flavor": "A smooth-barked Beech rises, its silver trunk etched with what appear to be ancient runes." },
-  { "name": "Poplar", "flavor": "A tall Poplar shoots skyward, its leaves trembling and whispering battlefield intelligence." },
-  { "name": "Chestnut", "flavor": "A broad Chestnut takes form, its spiny fruit pods ready to rain down on the unwary." },
-  { "name": "Sycamore", "flavor": "A mottled Sycamore appears, its peeling bark revealing layers of hidden power." },
-  { "name": "Hemlock", "flavor": "A dark Hemlock rises, its drooping boughs casting deep, concealing shadows." },
-  { "name": "Alder", "flavor": "An Alder springs up, its wood hardening on contact with the air like living armor." },
-  { "name": "Teak", "flavor": "A Teak sentinel stands resolute, its oily wood resistant to rot and ruin alike." },
-  { "name": "Mahogany", "flavor": "A regal Mahogany takes shape, its rich reddish wood gleaming with noble authority." },
-  { "name": "Acacia", "flavor": "A thorny Acacia rises, its flat canopy spreading like a shield against the sun." },
-  { "name": "Olive", "flavor": "An ancient Olive tree twists into being, its gnarled trunk telling a story of a thousand years." },
-  { "name": "Fig", "flavor": "A broad Fig tree materializes, its thick leaves providing cover and its roots gripping the earth." },
-  { "name": "Palm", "flavor": "A towering Palm sways into existence, its fronds rustling with tropical fury." },
-  { "name": "Mangrove", "flavor": "A tangled Mangrove rises from the ground, its arching roots creating an impassable barrier." },
-  { "name": "Aspen", "flavor": "An Aspen appears with quaking leaves, each one catching the light like a tiny golden mirror." },
-  { "name": "Cottonwood", "flavor": "A Cottonwood bursts forth, releasing a cloud of white fluff that drifts across the field." },
-  { "name": "Holly", "flavor": "A prickly Holly takes shape, its sharp evergreen leaves and red berries promising pain to the careless." },
-  { "name": "Laurel", "flavor": "A Laurel tree rises proudly, its aromatic leaves crowning it in victory before the fight begins." },
-  { "name": "Sandalwood", "flavor": "A fragrant Sandalwood appears, its sweet scent disorienting nearby foes." },
-  { "name": "Petrified Oak", "flavor": "A Petrified Oak rises like a stone monolith, its ancient wood turned harder than granite." },
-  { "name": "Ghostwood", "flavor": "A translucent Ghostwood shimmers into being, its pale trunk flickering between planes." },
-  { "name": "Bloodthorn", "flavor": "A Bloodthorn tree erupts, its crimson sap oozing from thorns that seem to hunger." },
-  { "name": "Starleaf", "flavor": "A luminous Starleaf tree appears, its silver leaves catching light that isn't there." },
-  { "name": "Darkwood", "flavor": "A Darkwood sentinel emerges, its impossibly light yet strong timber defying natural law." },
-  { "name": "Wraithwood", "flavor": "A Wraithwood tree fades into existence, its bark shifting like smoke frozen in time." },
-  { "name": "Bronzebark", "flavor": "A Bronzebark tree stands firm, its metallic trunk ringing softly like a struck bell." },
-  { "name": "Whispering Ash", "flavor": "A Whispering Ash takes root, its leaves murmuring prophecies in a language long forgotten." },
-  { "name": "Stonepine", "flavor": "A Stonepine rises with a grinding rumble, its trunk and branches as hard as living rock." },
-  { "name": "Frostwood", "flavor": "A Frostwood tree crystallizes into being, its icy branches crackling with frozen energy." },
-  { "name": "Emberthorn", "flavor": "An Emberthorn smolders into existence, its bark glowing with veins of inner fire." },
-  { "name": "Duskwood", "flavor": "A Duskwood tree materializes in a swirl of shadow, its canopy dimming the light around it." },
-  { "name": "Goldleaf", "flavor": "A Goldleaf tree shines into being, its brilliant foliage glittering like a dragon's hoard." },
-  { "name": "Thunderoak", "flavor": "A Thunderoak cracks into existence with a deafening boom, static dancing along its bark." },
-  { "name": "Spiralwood", "flavor": "A Spiralwood tree twists upward in impossible helixes, its grain defying geometry." }
+  {
+    "name": "Oak",
+    "scientific_name": "Quercus robur",
+    "type": "deciduous",
+    "flavor": "Your Timber Sentinel takes root as a mighty Oak, its bark groaning with ancient strength.",
+    "fun_facts": [
+      "A single mature oak can support over 500 species of insects, birds, and mammals, making it one of the most biodiverse trees in temperate forests.",
+      "Oaks can live for more than 1,000 years; the Bowthorpe Oak in England is estimated to be over 1,000 years old and is still living.",
+      "An oak tree typically does not produce its first acorn until it is at least 20 years old, and peak production doesn't begin until around age 50.",
+      "The wood of the English oak was historically the primary material for shipbuilding — the HMS Victory, Nelson's flagship at Trafalgar, required around 6,000 trees.",
+      "Oaks practice 'mast seeding,' synchronising bumper acorn crops across entire regions every few years to overwhelm predators and ensure seedling survival."
+    ]
+  },
+  {
+    "name": "Redwood",
+    "scientific_name": "Sequoia sempervirens",
+    "type": "conifer",
+    "flavor": "A towering Redwood rises at your command, casting long shadows across the battlefield.",
+    "fun_facts": [
+      "Coast Redwoods are the tallest trees on Earth; Hyperion, discovered in 2006 in California, stands at 115.9 metres (380.3 ft) — the current record holder.",
+      "Redwood bark can be up to 30 cm (12 in) thick and is highly resistant to fire, insects, and fungal rot due to high tannin content.",
+      "Redwoods can reproduce vegetatively: when a tree is cut or falls, a ring of clonal sprouts often shoots up from the root crown.",
+      "Fog drip — moisture condensed from coastal fog on the needles — can account for up to 40% of a redwood forest's water input during the dry summer months.",
+      "The oldest known coast redwood is estimated at over 2,200 years old, yet the species has existed largely unchanged for over 200 million years."
+    ]
+  },
+  {
+    "name": "Willow",
+    "scientific_name": "Salix babylonica",
+    "type": "deciduous",
+    "flavor": "A gnarled Willow springs forth, its drooping branches swaying with an eerie sentience.",
+    "fun_facts": [
+      "Willow bark contains salicin, a compound that the human body converts to salicylic acid — the chemical basis of aspirin, used medicinally for thousands of years.",
+      "Willows are among the fastest-growing trees in the world, with some species capable of adding 2.4 metres (8 ft) of growth in a single year.",
+      "The weeping willow's drooping form is not native to Babylon; it originates in northern China and was brought west along trade routes.",
+      "Willow withies — long flexible shoots — have been woven into baskets, fences, and coracles since prehistoric times across Europe and Asia.",
+      "Willows are so eager to root that a cut branch pushed into moist soil will almost always take hold, making them a symbol of resilience and renewal."
+    ]
+  },
+  {
+    "name": "Pine",
+    "scientific_name": "Pinus sylvestris",
+    "type": "conifer",
+    "flavor": "A tall Pine stands sentinel, its needles bristling like a thousand tiny spears.",
+    "fun_facts": [
+      "Scots Pine is the only pine native to northern Europe and once formed vast forests called the Caledonian Forest across Scotland, of which only 1% remains.",
+      "Pine cones are serotinous in many species — sealed shut with resin until heat from a wildfire melts it, releasing seeds into the newly cleared, ash-fertilised soil.",
+      "The oldest known individual tree is Methuselah, a Great Basin Bristlecone Pine (a close relative) estimated at over 4,850 years old.",
+      "Pine resin was historically distilled into turpentine and rosin, essential for varnishes, naval caulking, and rosining violin bows.",
+      "Pine needles are edible and rich in Vitamin C; indigenous peoples across North America and Siberia brewed them as a tea to prevent scurvy."
+    ]
+  },
+  {
+    "name": "Birch",
+    "scientific_name": "Betula pendula",
+    "type": "deciduous",
+    "flavor": "A pale Birch appears, its white bark gleaming like bone in the light.",
+    "fun_facts": [
+      "The distinctive white bark of silver birch is caused by the pigment betulin, which reflects ultraviolet light and may protect the tree from frost damage.",
+      "Birch is a pioneer species — one of the first trees to colonise bare or disturbed ground — and its leaf litter improves soil quality for other species to follow.",
+      "Birch sap can be tapped in early spring, much like maple; it is mildly sweet and fermented into birch wine and beer across Scandinavia and Russia.",
+      "The bark of paper birch (Betula papyrifera) was used by many indigenous North American peoples to construct canoes, wigwam coverings, and waterproof containers.",
+      "Birch trees typically live only 60–90 years, making them short-lived by woodland standards, but they produce enormous quantities of tiny wind-dispersed seeds."
+    ]
+  },
+  {
+    "name": "Maple",
+    "scientific_name": "Acer saccharum",
+    "type": "deciduous",
+    "flavor": "A broad Maple takes shape, its crimson leaves rustling with arcane energy.",
+    "fun_facts": [
+      "Sugar maple sap is around 2% sucrose; it takes roughly 40 litres of sap to produce 1 litre of maple syrup through sustained boiling and evaporation.",
+      "The brilliant autumn colours of maple leaves — reds, oranges, and purples — are produced by anthocyanins synthesised as the tree recovers sugars from its leaves before shedding them.",
+      "Hard maple wood is so dense and wear-resistant that it is the standard material for bowling alley lanes and professional basketball courts.",
+      "Canada produces about 70% of the world's maple syrup supply, with Quebec alone responsible for most of that output.",
+      "Maple trees can live for over 400 years, and a single tree may yield sap for tapping every year for the entirety of a human lifetime."
+    ]
+  },
+  {
+    "name": "Elm",
+    "scientific_name": "Ulmus minor",
+    "type": "deciduous",
+    "flavor": "A stately Elm rises, its sweeping canopy providing cover from above.",
+    "fun_facts": [
+      "Dutch elm disease, caused by the fungus Ophiostoma ulmi and spread by bark beetles, killed over 25 million elm trees in Britain alone during the 20th century.",
+      "Elm wood is exceptionally resistant to splitting and was the traditional material for wheel hubs, coffin boards, and the keels of wooden boats.",
+      "English elms almost never set viable seed and reproduce almost entirely through root suckers, meaning most English elms are effectively a single genetic clone.",
+      "The 'Preston Twin' in Brighton, England, is one of the oldest English elms in the world, estimated at over 400 years old — a survivor of Dutch elm disease.",
+      "Elm leaves were historically gathered as fodder for livestock, and elm bark was used in folk medicine as a poultice for wounds and skin conditions."
+    ]
+  },
+  {
+    "name": "Ash",
+    "scientific_name": "Fraxinus excelsior",
+    "type": "deciduous",
+    "flavor": "An Ash tree materializes, its wood humming with the memory of ancient weapons.",
+    "fun_facts": [
+      "Ash wood is the toughest of all European hardwoods in terms of shock resistance, which is why it was the preferred material for spear shafts, tool handles, and early cricket bats.",
+      "In Norse mythology, Yggdrasil — the world tree connecting the nine realms — was an ash tree, making it one of the most cosmologically significant trees in European tradition.",
+      "Ash dieback (Hymenoscyphus fraxineus) is currently devastating ash populations across Europe, and it is estimated that 95% of Britain's 80 million ash trees may eventually be lost.",
+      "The ash is one of the last trees in temperate forests to come into leaf in spring and one of the first to shed in autumn, giving it a notably brief leafy season.",
+      "Ash keys — the winged seeds — are technically samaras; they spin like helicopter blades as they fall, dispersing seeds up to 100 metres from the parent tree."
+    ]
+  },
+  {
+    "name": "Cedar",
+    "scientific_name": "Cedrus libani",
+    "type": "evergreen",
+    "flavor": "A fragrant Cedar appears, its aromatic wood filling the air with a calming scent.",
+    "fun_facts": [
+      "The Cedar of Lebanon is one of the most celebrated trees in antiquity; its timber was used to build Solomon's Temple in Jerusalem and the palaces of Egyptian pharaohs.",
+      "Cedar wood contains natural oils called cedrol and cedrene, which act as powerful insect and fungal repellents — making it prized for lining wardrobes and storage chests.",
+      "The national emblem of Lebanon is the Cedar of Lebanon, and the tree appears on the country's flag — a testament to how deeply it is woven into cultural identity.",
+      "True cedars (genus Cedrus) are native only to the Mediterranean and Himalayan regions; many 'cedars' sold commercially, like western red cedar, are entirely unrelated species.",
+      "Old-growth cedars in Lebanon's Bsharri grove are estimated to be over 1,000 years old, and the grove is now a UNESCO World Heritage Site."
+    ]
+  },
+  {
+    "name": "Cypress",
+    "scientific_name": "Cupressus sempervirens",
+    "type": "evergreen",
+    "flavor": "A somber Cypress takes form, standing like a dark spire against the sky.",
+    "fun_facts": [
+      "The Mediterranean cypress is the longest-lived species in its genus; the Sarv-e-Abarkooh in Iran, a single cypress tree, is estimated to be over 4,000 years old.",
+      "Cypress wood is highly resistant to rot and insect damage, and was used by the ancient Egyptians to craft sarcophagi intended to endure for eternity.",
+      "Cypress trees are traditionally planted in graveyards across the Mediterranean and Middle East, a custom rooted in their ancient association with mourning and the afterlife.",
+      "The narrow columnar form of the Italian cypress is not natural variation but the result of centuries of selective cultivation — wild trees have a broader, more spreading shape.",
+      "Van Gogh's famous painting 'The Starry Night' prominently features a towering cypress, which he described in letters as 'beautiful in line and proportion, like an Egyptian obelisk.'"
+    ]
+  },
+  {
+    "name": "Yew",
+    "scientific_name": "Taxus baccata",
+    "type": "evergreen",
+    "flavor": "A twisted Yew emerges, its poisonous berries glistening with deadly promise.",
+    "fun_facts": [
+      "Nearly every part of the yew tree is highly toxic — needles, bark, and seeds — due to alkaloids called taxines; the fleshy red aril around the seed is the only non-toxic part.",
+      "Yews are the longest-lived trees in Europe; the Fortingall Yew in Scotland is estimated to be between 2,000 and 5,000 years old.",
+      "The compound taxol (paclitaxel), first derived from Pacific yew bark in the 1960s, became one of the most successful anti-cancer drugs in history, used to treat breast, ovarian, and lung cancers.",
+      "English longbows — the weapon that shaped medieval warfare at battles like Agincourt — were almost always crafted from yew, using the tension between the pale sapwood and dense heartwood.",
+      "Yew trees can regenerate dramatically: fallen trunks sprout new vertical stems, roots can become new trunks, and the tree essentially has no biological maximum lifespan."
+    ]
+  },
+  {
+    "name": "Ironwood",
+    "scientific_name": "Ostrya virginiana",
+    "type": "deciduous",
+    "flavor": "An Ironwood sentinel stands firm, its trunk as unyielding as forged steel.",
+    "fun_facts": [
+      "American ironwood (hop-hornbeam) has one of the highest wood densities of any North American hardwood — it sinks in water and is nearly impossible to split with a hand axe.",
+      "The wood is so hard and wear-resistant that it was historically used for tool handles, mallets, and fence posts where other timbers would quickly degrade.",
+      "Ironwood trees grow slowly, typically only 30–60 cm per year, which contributes to the extraordinary density and tightness of the wood grain.",
+      "Despite its toughness, ironwood rarely exceeds 10 metres in height, preferring to grow as an understory tree in the shade of larger forest species.",
+      "The Sonoran Desert ironwood (Olneya tesota) is a different species entirely and acts as a 'nurse plant' — its shade and thorns shelter dozens of desert plant species as seedlings."
+    ]
+  },
+  {
+    "name": "Ebony",
+    "scientific_name": "Diospyros ebenum",
+    "type": "tropical",
+    "flavor": "An Ebony tree rises, its dark heartwood absorbing the light around it.",
+    "fun_facts": [
+      "Ebony heartwood is so dense that it is one of the very few woods that sinks in water, with a density exceeding 1,000 kg per cubic metre.",
+      "True ebony is one of the most sought-after tonewoods in the world, used for fingerboards on guitars and violins — a single fretboard can cost hundreds of dollars in raw material alone.",
+      "Ceylon ebony trees grow extraordinarily slowly, sometimes taking over a century to produce a usable heartwood core, which has contributed to its critically endangered status.",
+      "The genus Diospyros also includes the persimmon tree; the edible persimmon fruit is essentially a close botanical relative of the jet-black timber ebony.",
+      "Historical demand for ebony — for piano keys, chess pieces, and inlay work — decimated old-growth forests across Sri Lanka and southern India, and trade is now heavily regulated."
+    ]
+  },
+  {
+    "name": "Baobab",
+    "scientific_name": "Adansonia digitata",
+    "type": "tropical",
+    "flavor": "A massive Baobab swells into existence, its trunk wide enough to shelter a small army.",
+    "fun_facts": [
+      "The baobab's enormous trunk acts as a natural water reservoir; a single large tree can store up to 120,000 litres of water inside its swollen, fibrous wood.",
+      "Baobabs are known as the 'upside-down tree' across Africa and Arabia because their bare winter branches resemble roots reaching into the sky.",
+      "Some baobabs are estimated to be over 2,000 years old, and radiocarbon dating of hollow specimens suggests individual trees may live for 3,000 years or more.",
+      "The baobab fruit, called 'monkey bread,' is a superfood: it contains six times more vitamin C than oranges, twice the calcium of milk, and high levels of antioxidants.",
+      "Baobab trunks have been hollowed out by communities and used as bus shelters, post offices, pubs, and even a prison in Australia — one at Wyndham held up to 30 people."
+    ]
+  },
+  {
+    "name": "Elder",
+    "scientific_name": "Sambucus nigra",
+    "type": "deciduous",
+    "flavor": "An Elder tree takes root, its hollow trunk whispering with fey secrets.",
+    "fun_facts": [
+      "Elder is associated with magic and the Otherworld across British, Norse, and Germanic folklore; cutting an elder without asking the 'Elder Mother' spirit was considered deeply unlucky.",
+      "Every part of the elder is useful: flowers make elderflower cordial and wine, berries make elderberry syrup and jam, bark and leaves are used medicinally, and roots were historically used as a purgative.",
+      "Elder grows almost anywhere and spreads aggressively; folklore says it 'follows humans,' as it thrives on nitrogen-rich disturbed soil near settlements and roadsides.",
+      "The elderberry's high flavonoid content has been linked in studies to reducing the duration of influenza — elderberry syrups are still sold commercially as immune support supplements.",
+      "Elder wood is notably tough for such a small tree and was used to make musical pipes, skewers, and combs; the word 'elder' may derive from the Anglo-Saxon 'aeld' meaning fire, as the hollow stems were used to blow air into flames."
+    ]
+  },
+  {
+    "name": "Rowan",
+    "scientific_name": "Sorbus aucuparia",
+    "type": "deciduous",
+    "flavor": "A Rowan springs up, its bright berries warding against dark enchantments.",
+    "fun_facts": [
+      "Rowan berries are rich in parasorbic acid when raw — mildly toxic — but cooking or fermenting converts it to sorbic acid, making them safe for jams, jellies, and wines.",
+      "Rowan is one of the hardiest trees in Europe, growing at higher altitudes than almost any other broadleaf tree — it has been recorded growing above 1,000 metres in the Scottish Highlands.",
+      "In Celtic and Norse tradition, rowan was a powerful protective charm against witchcraft; sprigs were hung above doorways and carried as amulets, and rowan wood was used to make divining rods.",
+      "The species name 'aucuparia' comes from Latin words meaning 'bird catcher' — its berries are intensely attractive to thrushes, waxwings, and other birds, which were traditionally lured to traps baited with them.",
+      "Rowan berries contain more vitamin C per gram than oranges, making them a historically important supplement in northern regions where citrus fruit was unavailable."
+    ]
+  },
+  {
+    "name": "Hawthorn",
+    "scientific_name": "Crataegus monogyna",
+    "type": "deciduous",
+    "flavor": "A thorny Hawthorn bristles into being, its sharp spines daring any foe to approach.",
+    "fun_facts": [
+      "Hawthorn has been used as a hedging plant in Britain for over 2,000 years; the word 'haw' is an Old English term for hedge, and some ancient hawthorn hedgerows are still in use today.",
+      "Hawthorn flowers, called 'May blossom,' have a smell often described as both sweet and faintly rotting — caused by trimethylamine, a chemical also produced by decaying flesh, which attracts pollinating flies.",
+      "In Celtic tradition, hawthorn was the tree of Beltane (May Day) and was considered a gateway to the fairy realm; it was considered extremely dangerous to cut a lone hawthorn growing on a fairy hill.",
+      "The haws (berries) contain oleanic acid and flavonoids that have been clinically studied for their ability to improve circulation and mildly reduce blood pressure.",
+      "The thorns of hawthorn are so hard and sharply pointed that they have been used historically as pins, fish hooks, and in some areas were driven into wooden boards as primitive nails."
+    ]
+  },
+  {
+    "name": "Sequoia",
+    "scientific_name": "Sequoiadendron giganteum",
+    "type": "conifer",
+    "flavor": "A colossal Sequoia erupts from the ground, dwarfing everything in its shadow.",
+    "fun_facts": [
+      "General Sherman in Sequoia National Park, California, is the largest tree on Earth by volume — 1,487 cubic metres (52,500 cubic feet) — roughly the volume of a nine-storey building.",
+      "Giant sequoias rely on fire for reproduction: their cones can remain on the tree for 20 years, sealed shut until the heat of a wildfire dries them and releases the seeds.",
+      "The bark of a mature giant sequoia can be up to 90 cm (3 ft) thick — its spongy, fibrous structure is the primary reason the tree is so remarkably fire-resistant.",
+      "Sequoias grow only in a narrow 400-km band of the western Sierra Nevada at elevations of 1,400–2,150 metres — a relict range, as the species once grew across much of the Northern Hemisphere.",
+      "Despite their enormous size, giant sequoia seeds are tiny — about the size of a rolled oat flake — and a single mature tree may produce 400,000 seeds per year."
+    ]
+  },
+  {
+    "name": "Banyan",
+    "scientific_name": "Ficus benghalensis",
+    "type": "tropical",
+    "flavor": "A sprawling Banyan unfurls, its aerial roots descending like grasping fingers.",
+    "fun_facts": [
+      "The Thimmamma Marrimanu banyan in Andhra Pradesh, India, covers an area of approximately 19,107 square metres — the largest canopy coverage of any tree in the world.",
+      "Banyan trees spread by dropping aerial roots from their branches; these roots thicken into secondary trunks, allowing a single tree to colonise an ever-expanding area over centuries.",
+      "In Hinduism, the banyan is considered immortal and sacred, associated with Vishnu and used as a symbol of eternal life — temples are often built beside ancient specimens.",
+      "Strangler figs, close relatives of the banyan, begin life as epiphytes growing on a host tree; their roots gradually encase and eventually kill the host, leaving a hollow fig 'tree-shaped cage.'",
+      "The aerial prop roots of banyans were traditionally used as natural ropes, and the milky latex sap was applied as a folk remedy for toothache and skin conditions."
+    ]
+  },
+  {
+    "name": "Magnolia",
+    "scientific_name": "Magnolia grandiflora",
+    "type": "evergreen",
+    "flavor": "A Magnolia blooms into existence, its enormous white flowers radiating primal power.",
+    "fun_facts": [
+      "Magnolias are among the most ancient flowering plants on Earth; fossil records date the genus to at least 95 million years ago — they were blooming before bees existed and are pollinated by beetles.",
+      "Because magnolia flowers evolved before bees, they produce no nectar and rely entirely on beetles, which eat the pollen directly and inadvertently transfer it between flowers.",
+      "The southern magnolia's glossy evergreen leaves have a waxy coating that makes them highly fire-resistant, leading to its use as a firebreak plant in the American South.",
+      "Magnolia bark (houpo) is a staple of traditional Chinese medicine, used for over 2,000 years to treat anxiety, digestive disorders, and as a muscle relaxant.",
+      "The scent of magnolia flowers comes primarily from a compound called linalool — the same terpene that gives lavender its characteristic aroma — creating an unexpectedly shared fragrance chemistry."
+    ]
+  },
+  {
+    "name": "Juniper",
+    "scientific_name": "Juniperus communis",
+    "type": "conifer",
+    "flavor": "A hardy Juniper takes shape, its twisted form speaking of centuries of endurance.",
+    "fun_facts": [
+      "Common juniper has the widest natural range of any tree or shrub in the world, growing across the entire Northern Hemisphere from the Arctic Circle to the mountains of Central America and East Africa.",
+      "Juniper berries are technically not berries but fleshy, merged seed cones; they are the primary botanical flavouring in gin, a use that dates back to 17th-century Dutch medicine.",
+      "Juniper wood burns very hot and slow and produces a smoke that has been used for millennia to smoke and preserve meat — particularly venison and cured meats in Scandinavia.",
+      "In high-altitude or Arctic environments, common juniper grows as a near-prostrate ground-hugging shrub, pressed flat by wind and snow — the same genetic species as the upright 6-metre specimens found at lower elevations.",
+      "Juniper charcoal was historically preferred by artists for fine drawing because it produced a particularly smooth, consistent line that was easier to erase than charcoal from other woods."
+    ]
+  },
+  {
+    "name": "Larch",
+    "scientific_name": "Larix decidua",
+    "type": "deciduous",
+    "flavor": "A golden Larch rises, its soft needles shimmering with an otherworldly glow.",
+    "fun_facts": [
+      "Larch is one of the very few conifers that sheds its needles in autumn, turning brilliant gold before they fall — a characteristic so unusual it often confuses people who assume all conifers are evergreen.",
+      "European larch is one of the most durable softwoods, highly resistant to rot even when wet; it was used for the gondolas of Venice and for water pipes, bridge pilings, and boat hulls.",
+      "The Seikkoku larch on Hokkaido, Japan, is believed to be around 1,200 years old and still growing, demonstrating the species' unexpected longevity.",
+      "In the Siberian taiga, Siberian larch (Larix sibirica) dominates the world's largest forest biome — forming vast tracts across permafrost where virtually nothing else can grow in such cold.",
+      "Larch resin (Venetian turpentine) was one of the most valued substances in Renaissance-era painting, prized as a varnish and medium that remained flexible and did not crack as it aged."
+    ]
+  },
+  {
+    "name": "Spruce",
+    "scientific_name": "Picea abies",
+    "type": "conifer",
+    "flavor": "A towering Spruce stands at attention, its symmetrical form a monument to natural order.",
+    "fun_facts": [
+      "Norway spruce is the most widely planted timber tree in Europe and is the species traditionally used as a Christmas tree — the Trafalgar Square Christmas tree is a Norway spruce gifted annually by Norway since 1947.",
+      "Spruce wood has an exceptional stiffness-to-weight ratio, which is why it is the preferred tonewood for the soundboards of violins, guitars, and pianos — Stradivarius used old-growth Italian spruce.",
+      "Old Tjikko, a Norway spruce in Sweden, has a root system estimated at 9,550 years old — one of the oldest living organisms on Earth, though its above-ground trunk is much younger.",
+      "Spruce tip beer and spruce tip tea were brewed by indigenous North American peoples and later by European sailors to combat scurvy — the young tips are packed with vitamin C.",
+      "Spruce trees can shed their lower branches in dense forests in a process called self-pruning, allowing them to grow tall and straight by investing energy only in the light-catching crown."
+    ]
+  },
+  {
+    "name": "Walnut",
+    "scientific_name": "Juglans regia",
+    "type": "deciduous",
+    "flavor": "A sturdy Walnut materializes, its dense wood radiating an aura of resilience.",
+    "fun_facts": [
+      "Walnut trees practice allelopathy — they release a chemical called juglone from their roots, bark, and husks that is toxic to many other plants, suppressing competition in the soil around them.",
+      "Persian walnut is one of the oldest known food trees; archaeological evidence of walnut consumption dates back at least 9,000 years in the Near East and Central Asia.",
+      "Walnut wood is exceptionally stable after seasoning, meaning it does not warp or check with humidity changes — this makes it the premier material for gun stocks and high-end furniture.",
+      "The green outer husks of walnuts contain a dark brown dye made from juglone that was used by the Romans to dye hair and wool, and was historically so powerful it would stain skin for weeks.",
+      "Walnut trees are monoecious but sequentially ripen male and female flowers at different times, forcing cross-pollination between different individual trees to maintain genetic diversity."
+    ]
+  },
+  {
+    "name": "Cherry",
+    "scientific_name": "Prunus avium",
+    "type": "deciduous",
+    "flavor": "A Cherry tree appears in full blossom, its pink petals drifting like gentle snow.",
+    "fun_facts": [
+      "Wild cherry (Prunus avium) is the ancestor of virtually all cultivated sweet cherry varieties; 'avium' means 'of birds,' reflecting how birds spread its seeds across Europe and Asia.",
+      "Cherry blossom (sakura) viewing, called hanami, is a centuries-old tradition in Japan — the Japanese Meteorological Corporation tracks a 'cherry blossom front' advancing northward every spring.",
+      "Wild cherry timber is prized for cabinetry and musical instrument making; its fine grain and warm reddish-brown colour deepen further with age and exposure to light.",
+      "The flowering cherry trees that line Washington D.C.'s Tidal Basin were gifted by the Mayor of Tokyo in 1912; the original gift was of 3,000 trees, replacing an earlier shipment destroyed due to disease.",
+      "Cherry tree wood was historically burned and the smoke used to dry and preserve meats and cheeses — cherry-smoked products are still a delicacy in parts of Germany and the American South."
+    ]
+  },
+  {
+    "name": "Hickory",
+    "scientific_name": "Carya ovata",
+    "type": "deciduous",
+    "flavor": "A tough Hickory takes root, its famously resilient wood cracking with latent energy.",
+    "fun_facts": [
+      "Hickory wood has the highest shock resistance of any North American hardwood — a quality that made it the definitive material for axe handles, hammer handles, and the spokes of wagon wheels.",
+      "Andrew Jackson earned the nickname 'Old Hickory' because his toughness and stubbornness reminded soldiers of the hardest wood they knew.",
+      "Hickory nuts were a critical food source for many indigenous North American peoples; they extracted an oil called 'pawcohiccora' — likely the origin of the word 'hickory' — by pounding and boiling the nuts.",
+      "Shagbark hickory is named for its distinctive exfoliating bark, which peels away in long, loose plates — a feature that provides habitat for several species of bats that roost in the gaps.",
+      "Hickory smoke imparts a distinct and powerful flavour to meat and is the traditional wood for American Southern barbecue, particularly in the smoking of pork ribs and brisket."
+    ]
+  },
+  {
+    "name": "Dogwood",
+    "scientific_name": "Cornus florida",
+    "type": "deciduous",
+    "flavor": "A flowering Dogwood blooms into being, its delicate appearance belying inner strength.",
+    "fun_facts": [
+      "Dogwood flowers are not actually flowers: the large white or pink 'petals' are modified leaves called bracts; the true flowers are the tiny yellow-green cluster at the centre.",
+      "Dogwood wood is exceptionally hard and fine-grained, and was historically used for weaving shuttles in textile mills because it could withstand thousands of high-speed impacts without splintering.",
+      "The name 'dogwood' may derive from 'dagwood' — from 'dag,' meaning a sharp, skewer-like tool — as the hard timber was used to make daggers, skewers, and meat spits.",
+      "Flowering dogwood is the state tree of both Virginia and Missouri, and the state flower of North Carolina and Virginia — a remarkable degree of official recognition for a single species.",
+      "Dogwood anthracnose, a fungal disease, has killed millions of dogwoods in the eastern United States since its introduction in the 1970s, threatening the species' role as a cornerstone of the understory forest ecosystem."
+    ]
+  },
+  {
+    "name": "Beech",
+    "scientific_name": "Fagus sylvatica",
+    "type": "deciduous",
+    "flavor": "A smooth-barked Beech rises, its silver trunk etched with what appear to be ancient runes.",
+    "fun_facts": [
+      "Beech bark stays smooth throughout the tree's life because it cannot expand and shed like most trees; this makes it irresistible for carving, and beech trunks frequently bear centuries-old inscriptions.",
+      "The word 'book' is etymologically linked to beech: the Old English 'boc' (book) and 'bece' (beech) share a root, possibly because Germanic peoples carved runes onto beech wood strips as early writing.",
+      "Beech trees cast such deep shade that almost nothing grows beneath them; the leaf litter decomposes slowly, creating an acidic floor that suppresses most ground-level competition.",
+      "Beechnuts (mast) were historically a major food source for pigs; the practice of releasing pigs into beech forests for autumn foraging — called 'pannage' — was a common right in medieval Europe.",
+      "The European beech is considered a 'mother tree' species in forest ecology; old beeches link to vast mycorrhizal networks through which they share carbon and nutrients with neighbouring trees."
+    ]
+  },
+  {
+    "name": "Poplar",
+    "scientific_name": "Populus nigra",
+    "type": "deciduous",
+    "flavor": "A tall Poplar shoots skyward, its leaves trembling and whispering battlefield intelligence.",
+    "fun_facts": [
+      "Poplar leaves tremble in the faintest breeze due to their long, flattened leaf stalks (petioles), which are perpendicular to the leaf blade — causing them to flutter rather than swing.",
+      "The Pando aspen grove in Utah — a clonal colony of quaking aspens, a close relative — is the heaviest known organism on Earth, estimated at 6,000,000 kg and covering 43 hectares.",
+      "Poplar wood is extremely lightweight, fire-resistant, and non-splintering, which made it the standard material for wooden shields in the ancient world and for the cargo crates of Roman legions.",
+      "Lombardy poplar (Populus nigra 'Italica') is a cultivated columnar clone of black poplar; every Lombardy poplar in the world is genetically identical, propagated only by cuttings since it rarely sets viable seed.",
+      "Poplar wood pulp is used to make matches because it burns cleanly, softly, and without dangerous sparks — a surprisingly specific engineering requirement for something so commonplace."
+    ]
+  },
+  {
+    "name": "Chestnut",
+    "scientific_name": "Castanea sativa",
+    "type": "deciduous",
+    "flavor": "A broad Chestnut takes form, its spiny fruit pods ready to rain down on the unwary.",
+    "fun_facts": [
+      "Sweet chestnut was so central to the diet of Mediterranean mountain communities that it was called 'the bread tree' — chestnut flour was ground into bread, pasta, and polenta for centuries.",
+      "American chestnut was virtually wiped out by chestnut blight (Cryphonectria parasitica) after its introduction around 1900; an estimated 3 billion trees died within 40 years, one of the most dramatic ecological disasters in modern history.",
+      "Chestnut timber is naturally rich in tannins, making it highly resistant to rot — old chestnut fence posts in southern England are still sound after a century in the ground.",
+      "The spiny husks of chestnuts (burrs) are one of the most effective natural seed-protection mechanisms, deterring most animals except squirrels and red deer who have learnt to roll them open.",
+      "Spanish chestnut coppice — cut on a rotation to produce poles — was the traditional method of managing chestnut woodland for hop poles, walking sticks, and fencing across southern England for over 500 years."
+    ]
+  },
+  {
+    "name": "Sycamore",
+    "scientific_name": "Acer pseudoplatanus",
+    "type": "deciduous",
+    "flavor": "A mottled Sycamore appears, its peeling bark revealing layers of hidden power.",
+    "fun_facts": [
+      "Despite being called a sycamore in Britain, Acer pseudoplatanus is actually a maple — the true sycamore (Ficus sycomorus) is a fig tree native to Africa and the Middle East entirely unrelated to it.",
+      "Sycamore's mottled, flaking bark creates a constantly changing patchwork of green, grey, and cream — caused by outer bark layers drying and falling away as the tree expands, unlike species whose bark stretches.",
+      "Sycamore is known for producing 'helicopter seeds' (samaras) in pairs; their aerodynamic wings cause them to autorotate, slowing descent and carrying them up to 100 metres from the parent tree.",
+      "Ripple or 'fiddleback' sycamore — timber with a shimmering wavy grain pattern — is one of the most prized tonewoods in the world, used for the backs and ribs of fine violins and cellos.",
+      "Sycamore is considered an invasive species in parts of Britain and Ireland, as it was introduced in the 15th or 16th century and spreads so aggressively that it can outcompete native woodland species."
+    ]
+  },
+  {
+    "name": "Hemlock",
+    "scientific_name": "Tsuga canadensis",
+    "type": "conifer",
+    "flavor": "A dark Hemlock rises, its drooping boughs casting deep, concealing shadows.",
+    "fun_facts": [
+      "Eastern hemlock is not related to the poisonous hemlock plant (Conium maculatum) that killed Socrates; the tree is entirely non-toxic and its name is based on a perceived similarity in smell.",
+      "Eastern hemlock is a keystone species in Appalachian stream ecosystems — its shade keeps water cool enough for brook trout; where woolly adelgid kills it, water temperatures rise and trout disappear.",
+      "The woolly adelgid (Adelges tsugae), an invasive insect introduced from Japan, has killed tens of millions of eastern hemlocks and currently threatens the species across much of its range.",
+      "Hemlock bark was historically the primary source of tannin for the American leather industry; entire forests were felled just for their bark, with the timber often left to rot on the ground.",
+      "Eastern hemlock is exceptionally shade-tolerant and can wait in suppressed, near-dormant growth under a forest canopy for 100 years or more, then rapidly expand when a gap in the canopy opens above it."
+    ]
+  },
+  {
+    "name": "Alder",
+    "scientific_name": "Alnus glutinosa",
+    "type": "deciduous",
+    "flavor": "An Alder springs up, its wood hardening on contact with the air like living armor.",
+    "fun_facts": [
+      "Alder wood is soft when freshly cut but becomes extremely hard and durable after prolonged submersion in water, resisting rot almost indefinitely — the foundations of medieval Venice were built on alder pilings.",
+      "Alder roots host nitrogen-fixing bacteria (Frankia alni) in nodules, allowing the tree to colonise nutrient-poor soils and enrich them — it is one of very few non-legume trees with this ability.",
+      "The charcoal made from alder wood was historically considered the finest for making gunpowder, producing a more consistent and powerful burn than charcoal from most other species.",
+      "When alder wood is freshly cut, it oxidises from white to a vivid orange-red, a chemical reaction caused by tannins in the wood. This led to folklore that a cut alder was 'bleeding.'",
+      "Alder catkins are among the first pollen sources available in late winter and early spring, providing a critical early food source for bees emerging from winter dormancy."
+    ]
+  },
+  {
+    "name": "Teak",
+    "scientific_name": "Tectona grandis",
+    "type": "tropical",
+    "flavor": "A Teak sentinel stands resolute, its oily wood resistant to rot and ruin alike.",
+    "fun_facts": [
+      "Teak contains natural oils and rubber that make it extraordinarily resistant to water, rot, and marine borers — it was the premier shipbuilding timber for centuries and is still used for boat decking today.",
+      "Plantation teak grown in 20–25 years is structurally serviceable but lacks the oil content and density of natural teak, which takes 80–100 years to mature in old-growth forests.",
+      "Myanmar (Burma) holds the world's largest remaining natural teak forests, and the Burmese teak trade — long dominated by the Myanmar government — has been a significant source of conflict and environmental concern.",
+      "Teak leaves are enormous: up to 60 cm long and 30 cm wide, they were traditionally used as disposable plates, umbrellas, and thatching material across Southeast Asia.",
+      "Teak was used to build the decks of British Royal Navy warships because it did not splinter dangerously when hit by cannon fire the way oak and pine did — splinters caused more casualties than the shot itself."
+    ]
+  },
+  {
+    "name": "Mahogany",
+    "scientific_name": "Swietenia macrophylla",
+    "type": "tropical",
+    "flavor": "A regal Mahogany takes shape, its rich reddish wood gleaming with noble authority.",
+    "fun_facts": [
+      "Big-leaf mahogany is listed on CITES Appendix II, meaning international trade is heavily regulated; it was so over-harvested in the 18th and 19th centuries that original old-growth stands are now extremely rare.",
+      "Mahogany became the dominant luxury furniture wood in 18th-century Europe because it was dimensionally stable, easy to carve, and had a rich, even grain that took polish better than any European timber.",
+      "Chippendale, Hepplewhite, and Sheraton — three of the most celebrated furniture-making styles in history — were all defined by and largely made possible by the properties of Caribbean mahogany.",
+      "Mahogany seeds are winged and fall in a slow spiral from pods high in the canopy, capable of travelling hundreds of metres from the parent tree in a strong wind.",
+      "The term 'mahogany' is often misused commercially; many timbers sold as 'mahogany' — Philippine mahogany (Shorea), African mahogany (Khaya) — are unrelated species that merely share a reddish colour and workability."
+    ]
+  },
+  {
+    "name": "Acacia",
+    "scientific_name": "Vachellia tortilis",
+    "type": "tropical",
+    "flavor": "A thorny Acacia rises, its flat canopy spreading like a shield against the sun.",
+    "fun_facts": [
+      "The umbrella-shaped canopy of the African acacia (umbrella thorn) is caused by browsing giraffes and other animals repeatedly cropping the top growth, spreading it laterally over time.",
+      "When a giraffe begins browsing, acacia trees release ethylene gas as a warning signal; neighbouring trees downwind increase their tannin levels within minutes, making their leaves less palatable.",
+      "Acacia thorns are among the most formidable natural defences in the plant kingdom; the whistling thorn (Vachellia drepanolobium) develops hollow swollen thorns colonised by stinging ants that defend the tree.",
+      "Gum arabic — the dried sap of Acacia senegal — is a ubiquitous food additive (E414) used as an emulsifier in soft drinks, confectionery, and as the adhesive on postage stamps.",
+      "Many acacia species have evolved root systems that can reach groundwater 30–40 metres below the surface, allowing them to survive in environments with only a few centimetres of annual rainfall."
+    ]
+  },
+  {
+    "name": "Olive",
+    "scientific_name": "Olea europaea",
+    "type": "evergreen",
+    "flavor": "An ancient Olive tree twists into being, its gnarled trunk telling a story of a thousand years.",
+    "fun_facts": [
+      "The oldest known living olive tree — the Olive Tree of Vouves in Crete — is estimated to be between 2,000 and 4,000 years old and still produces olives harvested annually.",
+      "Olive trees are virtually indestructible: even if the above-ground portion is destroyed by fire, drought, or frost, the root system can regenerate an entirely new trunk, making the organism effectively immortal.",
+      "Olive oil production traces back at least 8,000 years; the olive was one of the first trees cultivated by humans and formed the agricultural and economic backbone of ancient Mediterranean civilisations.",
+      "The olive branch as a symbol of peace derives from ancient Greece, where olive wreaths were awarded to Olympic champions and branches were the ultimate gesture of supplication and goodwill.",
+      "Greece has the highest per-capita olive oil consumption in the world, averaging around 12 kg per person per year — nearly four times more than second-place Italy and Spain."
+    ]
+  },
+  {
+    "name": "Fig",
+    "scientific_name": "Ficus carica",
+    "type": "deciduous",
+    "flavor": "A broad Fig tree materializes, its thick leaves providing cover and its roots gripping the earth.",
+    "fun_facts": [
+      "Figs are not technically fruit; they are a structure called a syconium — an inside-out flower cluster. The small crunchy 'seeds' inside are actually individual fertilised flowers.",
+      "Common figs are pollinated by a single species of tiny wasp (Blastophaga psenes) that enters through a small opening and pollinates the flowers, then dies inside — the enzymes in the fig digest the wasp entirely.",
+      "The common fig is one of the first plants known to have been cultivated by humans; carbonised figs dated to 9,400–9,200 BCE have been found at a Neolithic site in the Jordan Valley, predating cereal agriculture.",
+      "Fig trees have one of the most aggressive root systems of any cultivated tree — they have been known to crack concrete, infiltrate water pipes, and destabilise the foundations of ancient buildings.",
+      "In ancient Athens, the export of figs was prohibited, as they were considered too valuable a food source to be sent abroad; informers who reported illegal fig smugglers were called 'sycophants' — literally 'fig-revealers.'"
+    ]
+  },
+  {
+    "name": "Palm",
+    "scientific_name": "Phoenix dactylifera",
+    "type": "palm",
+    "flavor": "A towering Palm sways into existence, its fronds rustling with tropical fury.",
+    "fun_facts": [
+      "The date palm is one of the oldest cultivated plants in the world; it has been grown in the Middle East and North Africa for at least 5,000 years and is mentioned in over 5,000 uses in early Arabic literature.",
+      "A single date palm can produce 50–100 kg of fruit per year and continues to produce for over 100 years, making it one of the most economically reliable crops in arid climates.",
+      "Palms are not trees in the botanical sense — they are monocots, more closely related to grasses and lilies than to oaks or pines. Their trunks are not wood but a bundle of fibrous vascular tissue.",
+      "The Methuselah palm was grown from a 2,000-year-old date palm seed found during excavations at Masada in Israel; germinated in 2005, it is the oldest seed ever successfully grown into a plant.",
+      "Because palms grow from a single terminal bud at the top of the trunk, cutting that growing point kills the entire tree — unlike most broadleaved trees, a beheaded palm cannot regrow."
+    ]
+  },
+  {
+    "name": "Mangrove",
+    "scientific_name": "Rhizophora mangle",
+    "type": "mangrove",
+    "flavor": "A tangled Mangrove rises from the ground, its arching roots creating an impassable barrier.",
+    "fun_facts": [
+      "Mangrove forests are among the most carbon-dense ecosystems on Earth, storing up to four times more carbon per hectare than tropical rainforests — largely in the deep, oxygen-poor soils beneath their roots.",
+      "Mangrove roots create oxygen-depleted 'anoxic' sediments that no other tree can tolerate; the arching prop roots of red mangrove have specialised pores called lenticels that allow the tree to breathe despite being partially submerged.",
+      "Mangroves protect coastlines with extraordinary effectiveness: the 2004 Indian Ocean tsunami caused significantly less damage to shorelines with intact mangrove belts, which absorbed and deflected wave energy.",
+      "Mangrove leaves manage salt by either excreting it through specialised glands (in some species) or by concentrating it in older leaves and then shedding them — effectively using leaves as salt disposal organs.",
+      "More than 120 million people globally live within 100 km of mangrove forests and depend on them for fishing, timber, and coastal protection — yet mangroves are being destroyed at a rate of around 1% per year."
+    ]
+  },
+  {
+    "name": "Aspen",
+    "scientific_name": "Populus tremuloides",
+    "type": "deciduous",
+    "flavor": "An Aspen appears with quaking leaves, each one catching the light like a tiny golden mirror.",
+    "fun_facts": [
+      "Quaking aspen leaves flutter in even the slightest breeze because their petioles (leaf stems) are laterally flattened and perpendicular to the blade, allowing the leaf to swing freely in any direction.",
+      "The Pando grove in Utah — a clonal colony of quaking aspens — is considered one of the largest and oldest living organisms on Earth, with all stems sharing a single root system estimated at 80,000 years old.",
+      "Aspen reproduces almost entirely by root sprouts rather than seed; after fire or logging, a single root system can send up tens of thousands of new stems within a few years.",
+      "Aspen bark is photosynthetic — it contains chlorophyll and continues to produce sugars through photosynthesis even in winter when all the leaves have been shed.",
+      "Aspen bark was used as an emergency food by many indigenous peoples of North America; the inner bark (cambium) is edible and was scraped and eaten fresh or dried and ground into flour."
+    ]
+  },
+  {
+    "name": "Cottonwood",
+    "scientific_name": "Populus deltoides",
+    "type": "deciduous",
+    "flavor": "A Cottonwood bursts forth, releasing a cloud of white fluff that drifts across the field.",
+    "fun_facts": [
+      "Cottonwood is one of the fastest-growing trees in North America, capable of adding 1.8–2.4 metres of height per year under good conditions, allowing it to rapidly colonise riverbanks and floodplains.",
+      "The white 'cotton' released by female cottonwood trees is not pollen but seed-bearing fluff; a single tree can release 25 million seeds in a season, each attached to fine hairs that carry it kilometres through the air.",
+      "Many indigenous North American tribes used cottonwood for ceremonial purposes — the Lakota Sun Dance ceremony traditionally uses a cottonwood as the central pole around which the dance is performed.",
+      "Cottonwood wood is lightweight and soft but unusually resistant to splitting; it was historically used to make crates, boxes, and the cores of plywood because it does not shatter under stress.",
+      "Cottonwood trees require permanently moist ground and are an indicator species for water; in the semi-arid American West, a distant stand of cottonwoods reliably signals the presence of a stream or high water table below."
+    ]
+  },
+  {
+    "name": "Holly",
+    "scientific_name": "Ilex aquifolium",
+    "type": "evergreen",
+    "flavor": "A prickly Holly takes shape, its sharp evergreen leaves and red berries promising pain to the careless.",
+    "fun_facts": [
+      "Holly leaves vary dramatically in spininess on the same tree: leaves on lower branches exposed to browsing animals are densely spined, while those high above the browse line on the same tree are often entirely smooth.",
+      "Holly berries are mildly toxic to humans, causing nausea and vomiting if eaten in quantity, but are a critical winter food source for thrushes, blackbirds, and other birds that are unaffected by the toxins.",
+      "Holly wood is the whitest of all European hardwoods and takes dye exceptionally well; it was the traditional substitute for ivory in chess pieces, keyboards, and inlay work.",
+      "Holly was considered a sacred and protective plant by both the ancient Romans (associated with Saturnalia) and the Celtic peoples of Britain, who believed it warded off evil spirits during winter.",
+      "The American holly (Ilex opaca) is the state tree of Delaware, and its cultivation as a Christmas decoration has been a significant industry in the United States since the 19th century."
+    ]
+  },
+  {
+    "name": "Laurel",
+    "scientific_name": "Laurus nobilis",
+    "type": "evergreen",
+    "flavor": "A Laurel tree rises proudly, its aromatic leaves crowning it in victory before the fight begins.",
+    "fun_facts": [
+      "Bay laurel was the plant of Apollo in ancient Greek mythology, and wreaths of laurel crowned victorious athletes at the Pythian Games — the origin of terms like 'laureate,' 'baccalaureate,' and 'resting on your laurels.'",
+      "Bay leaves release their full aromatic compounds only when heated; fresh bay leaves are actually more bitter and less complex in flavour than dried ones, which have had time to develop their volatile oils.",
+      "The Oracle at Delphi was said to chew laurel leaves before prophesying; while laurel is not a known hallucinogen, some researchers speculate the Pythia may have been in a trance from other environmental gases.",
+      "Laurel oil is the principal ingredient in Aleppo soap, produced in Syria for over 2,000 years — one of the oldest manufactured soap traditions still in continuous production today.",
+      "A mature bay laurel tree is nearly indestructible in mild climates; when cut to the ground, it re-sprouts vigorously from the root, and it has naturalised across large parts of the Mediterranean basin and the Canary Islands."
+    ]
+  },
+  {
+    "name": "Sandalwood",
+    "scientific_name": "Santalum album",
+    "type": "tropical",
+    "flavor": "A fragrant Sandalwood appears, its sweet scent disorienting nearby foes.",
+    "fun_facts": [
+      "Sandalwood is a hemiparasite — it taps the roots of neighbouring plants through specialised structures called haustoria to steal water and nutrients, while also performing some photosynthesis of its own.",
+      "Indian sandalwood oil can sell for over $1,500 per kilogram, making it one of the most expensive essential oils in the world; it takes 30–60 years before a tree is considered mature enough to harvest.",
+      "Sandalwood has been traded from India and the Pacific Islands across Asia, the Middle East, and Europe for over 4,000 years; it is mentioned in ancient Sanskrit texts, Egyptian embalming records, and Chinese medical classics.",
+      "The scent of sandalwood comes from sesquiterpene alcohols called santalols; these compounds are structurally similar to certain human pheromones, which may explain why sandalwood is so widely perceived as warm, intimate, and sensual.",
+      "Over-harvesting drove Indian sandalwood to near-extinction in the 20th century; today the trade is regulated in India, and Australia has become the world's largest producer of plantation sandalwood."
+    ]
+  },
+  {
+    "name": "Petrified Oak",
+    "scientific_name": "Quercus lapidis",
+    "type": "fantasy",
+    "flavor": "A Petrified Oak rises like a stone monolith, its ancient wood turned harder than granite.",
+    "fun_facts": [
+      "Scholastic arborists of the Collegium Naturae have confirmed that Petrified Oak does not undergo the gradual mineralisation of geological petrification — rather, its cells actively convert organic material to a silicate compound over centuries of living growth.",
+      "The rings of a Petrified Oak, when cross-sectioned with alchemically treated blades, have been counted in specimens exceeding four thousand years, suggesting the petrifaction process actually prolongs the tree's lifespan rather than ending it.",
+      "Woodcutters' guilds have attempted to fell Petrified Oak specimens since recorded history; the consensus is that standard iron axes shatter against the bark, and only Dwarven-forged steel or enchanted tools leave any meaningful mark.",
+      "Several orders of druids revere the Petrified Oak as the 'Final Form' — the state a truly ancient and wise oak achieves when it has accumulated enough elemental earth-affinity to begin its slow, deliberate transition into stone.",
+      "Fragments of Petrified Oak bark crumbled from fallen branches are valued by alchemists as a slow-burning fuel component; when burned, they release a dense white smoke that has mild petrification-warding properties."
+    ]
+  },
+  {
+    "name": "Ghostwood",
+    "scientific_name": "Arbor phantasma",
+    "type": "fantasy",
+    "flavor": "A translucent Ghostwood shimmers into being, its pale trunk flickering between planes.",
+    "fun_facts": [
+      "Ghostwood does not fully occupy the material plane; observers report that shadows fall through its trunk at inconsistent angles, and small objects left at its base sometimes pass through the roots and vanish entirely.",
+      "The wood of a fallen Ghostwood branch, if recovered before it fully fades across the veil, retains translucent properties for up to three lunar cycles — prized by artificers for making one-way windows and scrying frames.",
+      "Field researchers attempting to measure Ghostwood trunks consistently report inconsistent circumference readings: a single trunk measured on the same morning by three different individuals has returned three markedly different values.",
+      "Ghostwood groves are believed to mark sites where the boundary between the material world and the Ethereal Plane is naturally thin; local wildlife avoids the groves, while certain undead are unnaturally drawn to them.",
+      "The leaves of Ghostwood are semi-permeable to sound: voices spoken within a Ghostwood grove carry through the bark of the trees and may be heard as faint whispers by those standing outside — a fact exploited by intelligence services for centuries."
+    ]
+  },
+  {
+    "name": "Bloodthorn",
+    "scientific_name": "Spinosa cruenta",
+    "type": "fantasy",
+    "flavor": "A Bloodthorn tree erupts, its crimson sap oozing from thorns that seem to hunger.",
+    "fun_facts": [
+      "Bloodthorn sap is not blood, though it is chemically remarkable — it contains a high concentration of iron-binding proteins that give it its vivid crimson colour and cause it to clot in open air within seconds.",
+      "The thorns of a Bloodthorn are not defensive structures in the conventional sense; comparative arborists believe they evolved to pierce the hides of large animals, delivering a mild anticoagulant that keeps the wound bleeding and the sap flowing as a growth stimulus.",
+      "Bloodthorn is notable among sentient plant scholars for responding to injury with apparent hostility: specimens that have been pruned extensively show measurably accelerated thorn growth along the cut edges within 24 hours.",
+      "Alchemical extraction of the coagulant compounds in fresh Bloodthorn sap yields a substance widely used by battlefield chirurgeons to seal wounds; ironically, one of the most dangerous plants in the known world also saves lives.",
+      "Bloodthorn does not fruit in the conventional sense; instead, fully fed specimens swell at the thorn tips into dark, seed-containing nodules that inject seeds directly into passing animals, using them as both nourishment and dispersal vector."
+    ]
+  },
+  {
+    "name": "Starleaf",
+    "scientific_name": "Folium stellaris",
+    "type": "fantasy",
+    "flavor": "A luminous Starleaf tree appears, its silver leaves catching light that isn't there.",
+    "fun_facts": [
+      "Starleaf leaves do not rely on sunlight for photosynthesis; collected specimens continue to produce energy and nutrients in total darkness, apparently drawing on ambient magical radiation in ways that standard thaumaturgical instruments struggle to measure.",
+      "The silver colouration of Starleaf foliage is caused by microscopic crystalline structures on the leaf surface that refract and amplify any available light — including light from stars too dim for the naked eye to perceive at ground level.",
+      "Dried Starleaf leaves are used in the preparation of night-vision tinctures by herbalists and scouts; a tea brewed from three leaves, consumed at dusk, is said to grant unusually clear vision in near-total darkness for several hours.",
+      "Starleaf trees orient their canopies not toward the sun but toward the celestial pole, with new growth branching along angles that correspond to specific constellations at the time of germination — a phenomenon noted in scholarly texts for centuries without satisfactory explanation.",
+      "On nights of a new moon, entire Starleaf groves have been observed to glow with a coherent, soft silver light visible from considerable distances — an event local communities traditionally mark with nocturnal festivals."
+    ]
+  },
+  {
+    "name": "Darkwood",
+    "scientific_name": "Umbra lignum",
+    "type": "fantasy",
+    "flavor": "A Darkwood sentinel emerges, its impossibly light yet strong timber defying natural law.",
+    "fun_facts": [
+      "Darkwood timber has a measured density approximately one-fifth that of balsa wood yet a tensile strength comparable to structural steel — a combination no known material science framework can currently account for.",
+      "A cross-section of Darkwood grain under magnification reveals that its fibres spiral in a complex helical pattern that essentially constitutes a natural tension-management structure, redistributing impact forces across the entire piece.",
+      "Darkwood absorbs sound rather than reflecting it: rooms constructed entirely of Darkwood are nearly silent, and armour crafted from it produces no creak or rattle, making it extraordinarily prized by those who prefer to move unheard.",
+      "The trees themselves are nearly impossible to locate by conventional searching; experienced Darkwood harvesters report that the trees seem to avoid being in the direct line of sight of those looking for them, though they are readily stumbled upon by those who are not.",
+      "Working Darkwood requires tools that have never been used on any other material; the wood develops a sensitivity to previous workings and will refuse to take a clean cut from a blade that has shaped other timber."
+    ]
+  },
+  {
+    "name": "Wraithwood",
+    "scientific_name": "Nebula cortex",
+    "type": "fantasy",
+    "flavor": "A Wraithwood tree fades into existence, its bark shifting like smoke frozen in time.",
+    "fun_facts": [
+      "Wraithwood bark undergoes continuous slow surface motion — not growth, but a lateral migration of the outermost layer — causing carvings and marks made on the bark to drift and eventually disappear over the course of weeks.",
+      "Specimens of Wraithwood have been documented in the same location across centuries of scholarly record, yet no single Wraithwood tree has been observed to die of age, suggesting the species may be effectively immortal so long as it is undisturbed.",
+      "Contact with Wraithwood bark causes a brief sensation described universally as 'the presence of something that has just left' — a feeling of recent departure rather than emptiness, which philosophers of the uncanny have debated for generations.",
+      "Wraithwood seeds are never found on the ground beneath the tree; they appear instead at locations some distance away, as if carried by a wind that no one witnesses — leading to the persistent theory that Wraithwood trees can briefly project parts of themselves astrally.",
+      "Furniture crafted from Wraithwood has a habit of being in a slightly different position from where it was left, as if it shifted during the night; owners report becoming accustomed to this quickly, and regarding it more as a quirk than a malfunction."
+    ]
+  },
+  {
+    "name": "Bronzebark",
+    "scientific_name": "Aes cortex",
+    "type": "fantasy",
+    "flavor": "A Bronzebark tree stands firm, its metallic trunk ringing softly like a struck bell.",
+    "fun_facts": [
+      "The outer bark of Bronzebark is a true metallic alloy — elemental analysis by the Artificers' Institute has confirmed the presence of copper, tin, and trace quantities of magical stabilising compounds unique to living tissue.",
+      "Bronzebark trees ring audibly when struck, producing a tone that varies with the tree's age and health; experienced harvesters can determine the quality of the interior timber purely by tapping the bark and listening to the resonance.",
+      "Unlike most metals, Bronzebark alloy does not corrode or develop verdigris — the biological processes of the living tree appear to continuously maintain and polish the metallic matrix from within.",
+      "Bronzebark trees grow along known ley lines and ore deposits; the prevailing theory is that they draw metallic minerals from deep in the substrate through a root system that functions somewhat like a biological smelter.",
+      "Shields and breastplates hammered from harvested Bronzebark plate hold an edge and resist impact at rates comparable to high-quality dwarven bronze, with the additional property of continuing to harden for up to a year after the tree is felled."
+    ]
+  },
+  {
+    "name": "Whispering Ash",
+    "scientific_name": "Fraxinus vaticinium",
+    "type": "fantasy",
+    "flavor": "A Whispering Ash takes root, its leaves murmuring prophecies in a language long forgotten.",
+    "fun_facts": [
+      "The sound produced by Whispering Ash leaves is not wind-driven rustling; the leaves move in calm air, and the vocalisations — for they are best described as such — continue even in a sealed chamber.",
+      "Scholars of divinatory linguistics have spent careers attempting to document and translate the Whispering Ash's utterances; the general consensus is that it speaks consistently but not in any language developed by mortal races.",
+      "Those who sleep beneath a Whispering Ash for a full night frequently report highly vivid and prophetically accurate dreams, though the prophecies are almost always metaphorical to the point of uselessness without hindsight.",
+      "Ash wands carved from Whispering Ash wood are considered among the most attuned divination instruments available; enchanters note that the wood already has a faint residual enchantment when worked, requiring less applied magic to activate.",
+      "The leaves of the Whispering Ash do not fall in autumn; they dry on the branch and continue to whisper, albeit more faintly, through winter, before new growth unfurls around them in spring, silencing the previous year's leaves entirely."
+    ]
+  },
+  {
+    "name": "Stonepine",
+    "scientific_name": "Pinus lithicus",
+    "type": "fantasy",
+    "flavor": "A Stonepine rises with a grinding rumble, its trunk and branches as hard as living rock.",
+    "fun_facts": [
+      "Stonepine wood is not mineralised like petrified wood — it is genuinely living tissue that has evolved to produce a cell-wall compound of extraordinary hardness, currently unclassified within standard botanical or mineralogical frameworks.",
+      "The needles of Stonepine do not photosynthesise via chlorophyll; their grey-green colour comes from silicate-mineral inclusions, and the trees appear to derive energy through a poorly understood absorption of geothermal gradients.",
+      "Stonepines are effectively unmovable once rooted: the tap root of even a young specimen penetrates the bedrock to a depth of several metres, fusing with the substrate in a way that makes the tree structurally continuous with the stone beneath it.",
+      "Stonepine cones are frequently mistaken for carved decorative objects; their geometric precision and stone-like surfaces have been collected as curios for centuries by travellers who did not recognise them as organic seed vessels.",
+      "Quarriers and miners regard Stonepines as unwelcome indicators of underground stability problems — the trees preferentially root in zones of geological stress, and several mining disasters have been preceded by the sudden appearance of a Stonepine sapling in the ground above the troubled seam."
+    ]
+  },
+  {
+    "name": "Frostwood",
+    "scientific_name": "Glacialis arbor",
+    "type": "fantasy",
+    "flavor": "A Frostwood tree crystallizes into being, its icy branches crackling with frozen energy.",
+    "fun_facts": [
+      "Frostwood trees maintain a surface temperature of several degrees below the ambient air regardless of season; in summer, the ground beneath a Frostwood grove remains frozen, creating an ecological microclimate unique to this species.",
+      "The crystalline structures that form on Frostwood branches are not ice but a biological secretion of similar molecular structure; unlike ice they do not melt above freezing, and fragments can be stored at room temperature almost indefinitely.",
+      "Frostwood sap has never been successfully collected in liquid form; when tapped, it emerges already crystallised, and attempts to melt it invariably destroy the magical properties that make it of value to alchemists.",
+      "Animals that shelter in Frostwood groves during warm seasons enter a mild hypothermic torpor; they emerge healthy but report no memory of the time inside, leading to folklore that Frostwood groves exist outside of ordinary time.",
+      "Weapons tipped with Frostwood splinters deliver a magical cold effect on impact; the splinter does not melt in the wound but continues to radiate cold for days, making Frostwood arrowheads particularly dreaded by those who know what they are."
+    ]
+  },
+  {
+    "name": "Emberthorn",
+    "scientific_name": "Ignis spina",
+    "type": "fantasy",
+    "flavor": "An Emberthorn smolders into existence, its bark glowing with veins of inner fire.",
+    "fun_facts": [
+      "The glowing veins visible through Emberthorn bark are channels of a thermophilic biological fluid with a resting temperature of approximately 180 degrees — hot enough to ignite dry organic material on contact.",
+      "Emberthorn does not burn, despite its internal heat; the bark is a remarkable biological insulator that contains the thermal energy entirely, and the wood beneath is cool to the touch except at the thorn tips where the veins terminate.",
+      "The thorns of an Emberthorn are the hottest naturally occurring points on any known living organism; they have been measured at temperatures sufficient to melt certain low-grade alloys and are used by dwarven smiths as natural riveting tools.",
+      "Emberthorn forests never experience frost and rarely accumulate snow; the ambient heat output of a mature grove is sufficient to maintain above-freezing temperatures in a radius of hundreds of metres even in severe mountain winters.",
+      "Fireproofing compounds derived from rendered Emberthorn bark are among the most effective known; buildings treated with Emberthorn extract have survived conflagrations that destroyed all surrounding structures in documented cases."
+    ]
+  },
+  {
+    "name": "Duskwood",
+    "scientific_name": "Crepusculum silva",
+    "type": "fantasy",
+    "flavor": "A Duskwood tree materializes in a swirl of shadow, its canopy dimming the light around it.",
+    "fun_facts": [
+      "Duskwood does not merely cast shadow — it absorbs ambient light in a measurable way; a light source brought within ten metres of a mature Duskwood loses approximately 30% of its luminosity with no physical obstruction between source and observer.",
+      "The wood of a felled Duskwood continues to suppress light for years; buildings constructed from it are notably darker than their windows and lamp-count would suggest, a quality appreciated by certain guilds and persistently complained about by their neighbours.",
+      "Duskwood bark grows in overlapping plates that shift orientation at the border of day and night, reorienting over the course of the twilight hour — the only known plant tissue that exhibits reliable circadian kinesis without cell growth.",
+      "Creatures native to subterranean or shadow environments are universally comfortable in Duskwood groves; adventurers exploring known Duskwood stands are advised to be aware that the dimness also conceals what lives there.",
+      "Ink produced by boiling Duskwood bark scrapings is permanently black in a way that other inks are not — it does not fade with age or exposure to light, making Duskwood ink the preferred medium for archival documents, contracts, and binding oaths."
+    ]
+  },
+  {
+    "name": "Goldleaf",
+    "scientific_name": "Aurum folium",
+    "type": "fantasy",
+    "flavor": "A Goldleaf tree shines into being, its brilliant foliage glittering like a dragon's hoard.",
+    "fun_facts": [
+      "The metallic gold appearance of Goldleaf foliage is not reflective surface coating but true spectral emission: the leaves produce light in the gold-yellow spectrum rather than merely reflecting sunlight, and they glow faintly in complete darkness.",
+      "Goldleaf trees have been coveted and over-harvested for centuries under the mistaken belief that smelting the leaves yields gold; they do not, but the leaves do contain trace quantities of rare mineral compounds worth more than their weight in the metal they resemble.",
+      "In years of exceptional vigour, Goldleaf trees shed their leaves in a single synchronised event — the grove falling silent and golden for one still hour before the canopy releases all at once, covering the ground in a carpet of glowing foliage.",
+      "Dragons of the hoarding variety have been observed maintaining Goldleaf groves rather than destroying them, apparently appreciating the aesthetic; several known draconic lairs are surrounded by cultivated Goldleaf plantings that the dragon has evidently maintained for centuries.",
+      "The wood beneath the bark of Goldleaf is a pale, almost white timber of exceptional grain; it does not share the metallic properties of the leaves and is worked like high-quality ash, though craftsmen report an inexplicable reluctance to sell anything made from it."
+    ]
+  },
+  {
+    "name": "Thunderoak",
+    "scientific_name": "Quercus tonitrus",
+    "type": "fantasy",
+    "flavor": "A Thunderoak cracks into existence with a deafening boom, static dancing along its bark.",
+    "fun_facts": [
+      "Thunderoak trees do not merely attract lightning — they solicit it, extending a network of ionised channels through the air above their canopy that guide electrical discharge toward the trunk with near-perfect consistency during storms.",
+      "Rather than being damaged by lightning strikes, Thunderoaks are nourished by them; the electrical discharge is absorbed and distributed through the root system, and struck trees measurably accelerate their growth in the weeks following a major storm.",
+      "The bark of a Thunderoak holds a persistent static charge; a hand drawn across it produces visible sparks and a distinctive smell of ozone, and metal objects left resting against the trunk for more than a few hours are found to be magnetised.",
+      "Thunderoak acorns that have been struck by lightning while on the tree are dramatically more potent as spell components than ordinary acorns; they are collected by storm-chasers who time their harvests to the height of summer thunderstorm season.",
+      "Communities that settle near Thunderoak groves rarely suffer lightning damage to other structures; the trees appear to drain the electrical potential of local storm systems, serving as the world's most effective and self-maintaining lightning rod network."
+    ]
+  },
+  {
+    "name": "Spiralwood",
+    "scientific_name": "Helix torquata",
+    "type": "fantasy",
+    "flavor": "A Spiralwood tree twists upward in impossible helixes, its grain defying geometry.",
+    "fun_facts": [
+      "Spiralwood's grain does not spiral in the conventional sense of interlocked wood fibre — it spirals topologically, meaning that a cut made along the 'straight' length of a plank will, if followed consistently, eventually emerge at the same face it began on without ever turning.",
+      "Objects carved from Spiralwood tend to continue spiralling after the carver has stopped; craftsmen report that fine detail work completed in a Spiralwood piece often shows additional refinements in the morning that were not present the night before.",
+      "The Spiralwood's helical form is not a growth response to any external stimulus; seedlings begin twisting within days of germination, before any wind, competition, or trauma could explain the behaviour — it appears to be the tree's fundamental geometric default.",
+      "Navigation by Spiralwood compass — a magnetic needle mounted in a Spiralwood frame — is considered unreliable for good reason: the wood has a subtle effect on magnetic polarity that introduces a consistent but unpredictable rotational drift over time.",
+      "Arcane scholars have noted that spells cast within a Spiralwood grove tend to have extended durations but altered trajectories; the leading hypothesis is that the trees bend local spatial geometry very slightly, causing straight-line effects to curve around the grove's interior."
+    ]
+  }
 ]
