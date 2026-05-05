@@ -26,6 +26,7 @@
  */
 
 import { TimberSentinel } from './timber-sentinel-quips.js';
+import { SpaceProduce } from './space-produce-quips.js';
 import { CompendiumPopulator } from './compendium-populator.js';
 
 const HACKING_QUIPS = [
@@ -60,13 +61,15 @@ class HackingQuips {
     // Register module settings
     this.registerSettings();
     TimberSentinel.registerSettings(this.MODULE_ID);
+    SpaceProduce.registerSettings(this.MODULE_ID);
 
-    // Load Timber Sentinel resource data
+    // Load Timber Sentinel and Stellar Harvest resource data
     TimberSentinel.loadResources(this.MODULE_ID);
+    SpaceProduce.loadResources(this.MODULE_ID);
 
     Hooks.on('renderChatMessage', this.onRenderChatMessage.bind(this));
 
-    // Delegated click handler for Timber Sentinel fun facts button
+    // Delegated click handler for Timber Sentinel and Stellar Harvest fun facts buttons
     document.addEventListener('click', (e) => {
       if (e.target.classList.contains('timber-sentinel-funfact-btn')) {
         const factDiv = e.target.nextElementSibling;
@@ -74,6 +77,14 @@ class HackingQuips {
           const isHidden = factDiv.style.display === 'none';
           factDiv.style.display = isHidden ? 'block' : 'none';
           e.target.textContent = isHidden ? '🌿 Hide Facts' : '🌿 Fun Facts';
+        }
+      }
+      if (e.target.classList.contains('stellar-harvest-funfact-btn')) {
+        const factDiv = e.target.nextElementSibling;
+        if (factDiv && factDiv.classList.contains('stellar-harvest-funfact')) {
+          const isHidden = factDiv.style.display === 'none';
+          factDiv.style.display = isHidden ? 'block' : 'none';
+          e.target.textContent = isHidden ? '🌌 Hide Facts' : '🌌 Fun Facts';
         }
       }
     });
@@ -193,6 +204,12 @@ class HackingQuips {
     // Previously ran for all users, causing one tree per connected client.
     if (TimberSentinel.check(message)) {
       if (game.user.isGM) TimberSentinel.handle(message);
+      return;
+    }
+
+    // Check for Stellar Harvest — same GM-only pattern as Timber Sentinel.
+    if (SpaceProduce.check(message)) {
+      if (game.user.isGM) SpaceProduce.handle(message);
       return;
     }
 

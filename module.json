@@ -1,7 +1,7 @@
 {
   "id": "greenbottles-hacking-quips",
   "title": "Greenbottle's Hacking Quips",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -49,6 +49,28 @@
       }
     },
     {
+      "name": "space-fruits-table",
+      "label": "Stellar Harvest: Space Fruits Table",
+      "type": "RollTable",
+      "path": "packs/space-fruits-table",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "space-vegetables-table",
+      "label": "Stellar Harvest: Space Vegetables Table",
+      "type": "RollTable",
+      "path": "packs/space-vegetables-table",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "macros",
       "label": "Greenbottle's Macros",
       "type": "Macro",
@@ -69,6 +91,8 @@
         "knives-daggers-table",
         "trees-table",
         "corals-table",
+        "space-fruits-table",
+        "space-vegetables-table",
         "macros"
       ],
       "folders": []

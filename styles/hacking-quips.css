@@ -189,6 +189,102 @@
 }
 /* #endregion */
 
+/* #region Stellar Harvest quip styling */
+:root {
+  --harvest-border: #3b1f6e;
+  --harvest-bg: rgba(59, 31, 110, 0.08);
+  --harvest-title-colour: #6b3fa0;
+  --harvest-body-colour: #3a1f6b;
+}
+
+.stellar-harvest-quip {
+  padding: 5px 10px;
+  border-left: 3px solid var(--harvest-border);
+  background: var(--harvest-bg);
+  margin: 5px 0;
+}
+
+.stellar-harvest-title {
+  font-weight: bold;
+  color: var(--harvest-title-colour);
+}
+
+.stellar-harvest-title i {
+  margin-right: 5px;
+}
+
+.stellar-harvest-flavor {
+  font-family: 'Georgia', 'Palatino', serif;
+  font-style: italic;
+  color: var(--harvest-body-colour);
+  margin-top: 3px;
+  font-size: 0.9em;
+}
+
+.stellar-harvest-details {
+  font-size: 0.85em;
+  margin-top: 4px;
+  color: var(--harvest-title-colour);
+  opacity: 0.85;
+}
+
+.stellar-harvest-scientific {
+  font-family: 'Georgia', 'Palatino', serif;
+  font-style: italic;
+}
+
+.stellar-harvest-type-badge {
+  opacity: 0.8;
+}
+
+.stellar-harvest-origin {
+  opacity: 0.8;
+}
+
+.stellar-harvest-origin i {
+  margin-right: 3px;
+  font-size: 0.85em;
+}
+
+.stellar-harvest-funfact-btn {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 10px;
+  border: 1px solid var(--harvest-border);
+  border-radius: 3px;
+  background: rgba(59, 31, 110, 0.10);
+  color: var(--harvest-title-colour);
+  font-size: 0.8em;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.stellar-harvest-funfact-btn:hover {
+  background: rgba(59, 31, 110, 0.20);
+}
+
+.stellar-harvest-funfact {
+  margin-top: 6px;
+  padding: 6px 10px;
+  background: rgba(59, 31, 110, 0.06);
+  border-radius: 3px;
+  font-size: 0.82em;
+  line-height: 1.5;
+}
+
+.stellar-harvest-funfact ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.stellar-harvest-funfact li {
+  margin-bottom: 3px;
+}
+
+.stellar-harvest-funfact li:last-child {
+  margin-bottom: 0;
+}
+/* #endregion */
 
 .hacking-quip-button-container {
   margin-top: 10px;

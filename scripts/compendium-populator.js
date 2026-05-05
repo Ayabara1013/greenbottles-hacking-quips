@@ -25,6 +25,8 @@ export class CompendiumPopulator {
     await this._populateKnivesDaggersTable();
     await this._populateTreesTable();
     await this._populateCoralsTable();
+    await this._populateSpaceFruitsTable();
+    await this._populateSpaceVegetablesTable();
     await this._populateMacros();
   }
 
@@ -139,6 +141,76 @@ export class CompendiumPopulator {
       }, { pack: `${this.MODULE_ID}.corals-table` });
 
       console.log(`${this.MODULE_ID} | Populated Corals table with ${corals.length} entries`);
+    });
+  }
+
+  static async _populateSpaceFruitsTable() {
+    await this._populateIfEmpty('space-fruits-table', async (pack) => {
+      const response = await fetch(`modules/${this.MODULE_ID}/data/space-produce.json`);
+      const allEntries = await response.json();
+      const fruits = allEntries.filter(e => e.produce_type === 'fruit');
+
+      const results = fruits.map((entry, i) => ({
+        type: CONST.TABLE_RESULT_TYPES.TEXT,
+        text: entry.name,
+        range: [i + 1, i + 1],
+        weight: 1,
+        drawn: false,
+        flags: {
+          [this.MODULE_ID]: {
+            scientific_name: entry.scientific_name,
+            taxonomy:        entry.taxonomy,
+            origin:          entry.origin,
+            flavor:          entry.flavor,
+            fun_facts:       entry.fun_facts
+          }
+        }
+      }));
+
+      await RollTable.create({
+        name: 'Stellar Harvest: Space Fruits',
+        formula: `1d${fruits.length}`,
+        replacement: true,
+        displayRoll: true,
+        results: results
+      }, { pack: `${this.MODULE_ID}.space-fruits-table` });
+
+      console.log(`${this.MODULE_ID} | Populated Space Fruits table with ${fruits.length} entries`);
+    });
+  }
+
+  static async _populateSpaceVegetablesTable() {
+    await this._populateIfEmpty('space-vegetables-table', async (pack) => {
+      const response = await fetch(`modules/${this.MODULE_ID}/data/space-produce.json`);
+      const allEntries = await response.json();
+      const vegetables = allEntries.filter(e => e.produce_type === 'vegetable');
+
+      const results = vegetables.map((entry, i) => ({
+        type: CONST.TABLE_RESULT_TYPES.TEXT,
+        text: entry.name,
+        range: [i + 1, i + 1],
+        weight: 1,
+        drawn: false,
+        flags: {
+          [this.MODULE_ID]: {
+            scientific_name: entry.scientific_name,
+            taxonomy:        entry.taxonomy,
+            origin:          entry.origin,
+            flavor:          entry.flavor,
+            fun_facts:       entry.fun_facts
+          }
+        }
+      }));
+
+      await RollTable.create({
+        name: 'Stellar Harvest: Space Vegetables',
+        formula: `1d${vegetables.length}`,
+        replacement: true,
+        displayRoll: true,
+        results: results
+      }, { pack: `${this.MODULE_ID}.space-vegetables-table` });
+
+      console.log(`${this.MODULE_ID} | Populated Space Vegetables table with ${vegetables.length} entries`);
     });
   }
 

@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Void Blackberry",
+    "scientific_name": "Rubus vacuus",
+    "produce_type": "fruit",
+    "taxonomy": "Berry",
+    "origin": "Triaxus",
+    "flavor": "A cascade of Void Blackberries appears, each one gleaming with a cold blue-violet light that belongs to no sun you've ever orbited.",
+    "fun_facts": [
+      "The Void Blackberry is one of the few fruiting plants capable of completing its full growth cycle in Triaxus's perpetual-winter regions, where temperatures routinely drop below −60°C. Its growth hormones are triggered by sustained cold rather than warmth — warmth, in fact, causes the plant to enter dormancy.",
+      "Each seed of Rubus vacuus is bioluminescent, emitting a faint blue-violet glow detectable by the naked eye in darkness. This is believed to attract Triaxian nightmoths, the fruit's primary pollinator, which navigate almost entirely by bioluminescent markers in the frozen dark.",
+      "Void Blackberries are a staple of the ryphorian peoples of Triaxus's cold hemisphere. They ferment the berries into a thick liqueur called voidshrub that remains pourable at −40°C — one of the few naturally produced beverages that does not freeze in the field conditions of the deep winter side.",
+      "The berries' unusual anthocyanin compounds have been studied by xenobotanists at Absalom Station's Institute of Stellar Agriculture. These pigments appear to absorb and re-emit ultraviolet radiation rather than merely filtering it — a property not previously observed in berry-class fruit pigments.",
+      "Attempts to cultivate Void Blackberries in Absalom Station's hydroponic rings have consistently failed. The plants grow vigorously but refuse to fruit without a sustained period of sub-zero dormancy, making them one of the very few crops that cannot be reliably produced off-world."
+    ]
+  },
+  {
+    "name": "Nebula Plum",
+    "scientific_name": "Prunus nebulae",
+    "produce_type": "fruit",
+    "taxonomy": "Stone Fruit",
+    "origin": "Castrovel",
+    "flavor": "A cluster of Nebula Plums materialises, their skins cycling slowly through deep violet, gold, and crimson like a time-lapse of a dying star.",
+    "fun_facts": [
+      "The skin of a ripe Nebula Plum cycles slowly through at least seven distinct colours over a 24-hour period, responding to ambient light levels and temperature in Castrovel's jungle canopy. The pigment compounds responsible are temperature-sensitive protein-dye conjugates found in no other known fruit.",
+      "Nebula Plums are used by the lashunta as a natural dye source. The juice, when oxidised, produces a deep indigo pigment that is lightfast and water-resistant and has been in continuous commercial use on Castrovel for centuries, appearing in dyed garments recovered from archaeological sites predating recorded lashunta history.",
+      "The fermented spirit made from Nebula Plums — called Chromamber — is one of the Pact Worlds' most exported luxury beverages. Its colour shifts as it is poured, making it a popular prestige item at diplomatic functions throughout the system.",
+      "Nebula Plum trees communicate distress signals through their root networks when damaged, triggering adjacent trees to increase the tannin content of their fruit as a deterrent to local herbivores. This chemical signalling network is among the most responsive yet documented in Castrovel's jungle ecosystem.",
+      "In Castrovel's interior jungle, wild Nebula Plums grow to over twice the size of cultivated orchard specimens. Food scientists believe the wild trees access mycorrhizal nutrient networks unavailable in plantation soil, and several attempts to replicate those networks artificially have so far produced only marginal improvements."
+    ]
+  },
+  {
+    "name": "Solarcitrus",
+    "scientific_name": "Citrus luminis",
+    "produce_type": "fruit",
+    "taxonomy": "Citrus",
+    "origin": "Verces (sunward side)",
+    "flavor": "A Solarcitrus drops into your hand, its rind faintly warm to the touch, as though it has swallowed a piece of the star it grew beneath.",
+    "fun_facts": [
+      "Solarcitrus trees grow exclusively on the sunward face of Verces, where perpetual daylight has driven the evolution of a rind so thick and UV-resistant it can withstand direct, unfiltered stellar radiation for weeks without degrading. The rind's outermost layer consists almost entirely of UV-absorbing phenolic compounds.",
+      "The juice of a Solarcitrus contains a compound called photorubric acid that releases stored solar energy slowly in metabolic processes. Nutritionists note that consuming one fruit at the start of a long shift provides a measurable metabolic boost lasting several hours, though the mechanism is not fully understood.",
+      "Solarcitrus peel, dried and powdered, is used as a natural light-sensitiser in holographic film substrates produced in Verces' manufacturing districts. The compound responsible is also being investigated as a solar-energy storage medium by researchers at the Absalom Station Institute of Applied Chemistry.",
+      "The interior segments of Solarcitrus are translucent and mildly phosphorescent — a characteristic entirely distinct from the bioluminescence seen in Castrovel species and attributed to purely photochemical rather than enzymatic light production. The glow fades within minutes of sectioning.",
+      "Due to extreme solar exposure on Verces' dayward face, Solarcitrus groves are effectively inaccessible to biological workers without full environmental suits. The entire harvest is conducted by automated drones, making Solarcitrus one of the few crops in the Pact Worlds produced without any direct biological agricultural labour."
+    ]
+  },
+  {
+    "name": "Graviton Melon",
+    "scientific_name": "Cucumis gravitonis",
+    "produce_type": "fruit",
+    "taxonomy": "Melon",
+    "origin": "Bretheda (orbital agricultural ring)",
+    "flavor": "A perfect sphere of Graviton Melon appears, so geometrically flawless it seems carved rather than grown.",
+    "fun_facts": [
+      "Graviton Melons are cultivated in the orbital agricultural rings above Bretheda in near-zero gravity, which allows them to grow into perfect mathematical spheres rather than the elongated or flattened shapes that gravity produces in conventional melons. This spherical form is considered a mark of prestige in the produce markets of several Pact Worlds systems.",
+      "The interior flesh of a Graviton Melon is unusually homogeneous. Without gravitational pull during development, the flesh has no preferred fibre direction, resulting in a texture that is equally crisp in every orientation — a property chefs describe as 'directionless crunch.'",
+      "The Graviton Melon holds the Pact Worlds Culinary Guild record for the most expensive fruit sold at its annual rare-produce exchange: a single perfectly spherical specimen sold for 4,200 credits in 291 AG, purchased by a Triaxian gastronomist who had it quartered and served to a table of four.",
+      "The seeds of Graviton Melons, when exposed to standard planetary gravity after development in microgravity, sprout in chaotic spirals rather than the conventional upward growth pattern. Young plants require a brief gravitational recalibration period — typically a week of controlled tumbling — before normal cultivation can proceed.",
+      "Bretheda's xenomycologists have noted that the fungal microbiome on Graviton Melon rinds is entirely distinct from any surface-grown melon variety, including several species documented nowhere else in the Pact Worlds. The orbital growing environment appears to select for unique microbial communities that cannot be replicated at planetary surface pressure."
+    ]
+  },
+  {
+    "name": "Drift Mango",
+    "scientific_name": "Mangifera driftica",
+    "produce_type": "fruit",
+    "taxonomy": "Drupe",
+    "origin": "Drift waystation gardens",
+    "flavor": "A Drift Mango appears, its flesh shimmering faintly at the edges as if it hasn't entirely committed to existing in this dimension.",
+    "fun_facts": [
+      "Drift Mangoes grow only in the pressurised garden modules of established Drift waystation habitats. They were not intentionally bred for Drift cultivation but appeared to adapt spontaneously after several generations of being grown in the hyperspace environment — an evolutionary speed that baffles conventional xenobotanists.",
+      "The flesh of a Drift Mango contains trace Drift energy — entirely harmless in the quantities present, but detectable by standard aetheric instruments. Xenobotanists theorise the plants have developed a mechanism to metabolise dimensional radiation rather than merely tolerating it, which would be unprecedented in any known plant biology.",
+      "No two Drift Mangoes taste identical. The extreme variability of the Drift's energy environment appears to affect secondary metabolite production during fruiting, meaning every individual fruit is a unique chemical expression. Commercial buyers have had to abandon standardised quality grading systems entirely.",
+      "Drift Mangoes ripen significantly faster in the hyperspace environment than in conventional space. A fruit that takes three weeks to ripen in a standard greenhouse reaches peak ripeness in five days within the Drift, which growers exploit by harvesting just-formed fruit and completing ripening in transit.",
+      "The Drift Mango Trade Compact — a loose association of waystation operators — is one of the galaxy's most unusual agricultural guilds. Their product can only be grown within a navigational anomaly, and every member's business model depends on the continued existence and accessibility of faster-than-light travel."
+    ]
+  },
+  {
+    "name": "Flickerpeach",
+    "scientific_name": "Prunus scintillans",
+    "produce_type": "fruit",
+    "taxonomy": "Stone Fruit",
+    "origin": "Triaxus (temperate border zone)",
+    "flavor": "A Flickerpeach shifts between deep blue and vivid orange in your grasp, a small argument between two hemispheres of a world.",
+    "fun_facts": [
+      "Flickerpeaches grow along the narrow temperate corridor between Triaxus's hot and cold hemispheres, where dramatic daily temperature swings of up to 60°C cause the fruit's skin to cycle between vivid orange and deep blue as temperature-responsive pigment compounds activate and deactivate throughout the day.",
+      "Experienced ryphorian hunters carry Flickerpeaches as informal field temperature gauges. A fully blue fruit indicates the party has drifted dangerously far toward the cold hemisphere's lethal zone; a fully orange fruit suggests unsafe proximity to the heat side's thermal fields. The transition zone — where the fruit shows both colours — corresponds closely to the safe habitation band.",
+      "The stone (pit) of a Flickerpeach is extraordinarily hard — approaching the hardness of a technical ceramic — and has been used by ryphorian lapidary craftspeople as a natural drill bit material for fine detail work in gemstone carving. A single pit, properly shaped, can survive hundreds of hours of use.",
+      "Flickerpeaches must be consumed within 48 hours of harvest. The same temperature-sensitive pigments that create the colour display also catalyse rapid cellular breakdown at room temperature once the fruit is removed from the tree's thermoregulating influence. No preservation method has successfully extended this window beyond 72 hours.",
+      "Absalom Station's culinary district maintains a live temperature-display installation using Flickerpeach trees in transparent climate-controlled columns. The ambient temperature is maintained as a precise gradient to create a blue-to-orange spectrum of fruit as a visual artwork — the only large-scale agricultural installation on the station created purely for aesthetic purposes."
+    ]
+  },
+  {
+    "name": "Biolume Grape",
+    "scientific_name": "Vitis bioluminescens",
+    "produce_type": "fruit",
+    "taxonomy": "Vine Fruit",
+    "origin": "Castrovel (deep cavern systems)",
+    "flavor": "A cluster of Biolume Grapes glows softly in your hand, blue-green light pulsing faintly between each berry.",
+    "fun_facts": [
+      "Biolume Grapes evolved in Castrovel's extensive underground cave systems, where they developed bioluminescent flesh to attract cave-dwelling pollinators that navigate entirely by bioluminescent markers. The enzyme responsible — a luciferase variant unique to this species — produces light in the blue-green spectrum at an efficiency rate higher than any other known biological light source.",
+      "The glow of a Biolume Grape cluster fades within six hours of harvest as the luciferase enzyme degrades. Perfectly fresh clusters are served in high-end Absalom Station restaurants as 'living centrepieces' that the guests watch fade over the course of a meal before consuming the now-dark fruit — an experience that became fashionable enough to spawn a dedicated restaurant category.",
+      "Castrovel lashunta communities use Biolume Grapes as emergency lighting in cave passages. A bunch of fresh grapes tied near an entrance provides roughly the luminosity of a dim lamp and has been a practical tool for underground exploration for centuries — documented in written records predating modern artificial lighting technology.",
+      "The light produced by Biolume Grapes is cold — it generates no measurable heat — making them uniquely safe to store alongside combustible materials in sealed environments where open flame is prohibited. Several classes of sealed-habitat regulation specifically list Biolume Grapes as an approved emergency light source.",
+      "Biolume Grape wine, called Cavern Light, is a fixture of lashunta cultural celebration. Older vintages lose their glow but gain exceptional chemical complexity, and the most prized bottles — described as 'dark light' — are wines that glow only briefly when first poured before fading, considered by connoisseurs to represent the passing of time in a glass."
+    ]
+  },
+  {
+    "name": "Aetheric Lychee",
+    "scientific_name": "Litchi aethericus",
+    "produce_type": "fruit",
+    "taxonomy": "Exotic Fruit",
+    "origin": "Nchak",
+    "flavor": "The Aetheric Lychee gleams in your palm, its translucent husk making no secret of the jewel-bright flesh within.",
+    "fun_facts": [
+      "The husk of an Aetheric Lychee is translucent rather than the opaque shell of terrestrial lychees — the fruit inside is fully visible from the outside, with colour changes during ripening detectable without opening the fruit. Nchak's shirren communities use this transparency to assess entire harvests by sight alone, with no need to sample individual specimens.",
+      "Nchak's shirren cultivate Aetheric Lychees communally, with each colony maintaining shared groves where genetic diversity is carefully managed. The shirren concept of communal seed stewardship — in which no individual owns genetic material but all share responsibility for its preservation — has made them leading xenobotanical conservation experts consulted across the Pact Worlds.",
+      "The translucent husk has a mild thermoelectric property, producing a faint electrical potential when exposed to a temperature differential. Shirren children have historically used Aetheric Lychee husks as natural capacitors in early educational science projects — an unusual instance of a food crop serving as standard teaching equipment.",
+      "Aetheric Lychee flesh has an unusually high concentration of adenosine triphosphate analogue compounds — essentially concentrated cellular energy molecules — making it one of the highest-calorie-per-gram fruits available in the Pact Worlds. Remote settlement supply manifests frequently list it as a preferred emergency caloric supplement.",
+      "On Nchak, presenting a gift of Aetheric Lychees to a shirren community elder is a recognised gesture of communal respect. The convention developed because the fruit's transparent husk is seen as a symbol of honest intent and visible sincerity — a gift whose quality cannot be concealed and must therefore be genuine."
+    ]
+  },
+  {
+    "name": "Ironseed Pomegranate",
+    "scientific_name": "Punica ferreus",
+    "produce_type": "fruit",
+    "taxonomy": "Exotic Fruit",
+    "origin": "Eox",
+    "flavor": "An Ironseed Pomegranate sits heavy in your hand, its seeds rattling faintly — and magnetically — against each other.",
+    "fun_facts": [
+      "The Ironseed Pomegranate grows in Eox's mineral-saturated soils, drawing heavy iron compounds into its seeds during development. Each seed contains a measurable deposit of ferrous material that causes them to attract weak magnets, making them easy to sort and process with standard magnetic separation equipment — a property unique among edible seeds.",
+      "The pomegranate's flesh is dark, almost black, due to extremely high anthocyanin and tannin content from Eox's mineral-rich environment. It is intensely astringent raw but becomes complex and rich when juiced and aged — Eoxian vintners describe the fully matured juice as 'the taste of something that refused to die,' which is either poetry or a product description depending on who you ask.",
+      "Ironseed Pomegranate extract is used in the production of a magnetic ink favoured by Eoxian bone sages for record-keeping. The iron-laden seed extract creates a natural ferrofluid that can be manipulated with directed magnetic fields, allowing information to be written and rewritten without chemical dissolution — a preferred archival method for records intended to last centuries.",
+      "The Ironseed Pomegranate is one of the very few agricultural products successfully cultivated on Eox, where most organic life struggles to establish stable populations. Xenobotanists consider it a striking example of rapid mineral adaptation, noting that the iron uptake mechanism appears to have developed within a geologically brief timeframe.",
+      "Ironseed Pomegranate juice commands premium prices on trade routes adjacent to Eox for its exceptional iron bioavailability. Several Pact Worlds physicians prescribe it for iron-deficiency anaemia conditions common in populations living in low-stellar-radiation environments, where dietary iron absorption is naturally reduced."
+    ]
+  },
+  {
+    "name": "Chromapple",
+    "scientific_name": "Malus chromaticus",
+    "produce_type": "fruit",
+    "taxonomy": "Pome Fruit",
+    "origin": "Castrovel",
+    "flavor": "The Chromapple in your hand is a colour you haven't seen before — somewhere between amber and a mineral you'd find deep underground.",
+    "fun_facts": [
+      "Each Chromapple grown in Castrovel's highly variable soils expresses a different colour depending on which minerals are dominant in the soil of the specific tree — ranging from vivid magenta in iron-rich ground to pale gold in calcium-heavy substrates, with dozens of intermediate hues in mixed-mineral zones. No two orchards produce exactly the same colour distribution.",
+      "Chromapple orchards in Castrovel's cultivated regions are deliberately planted in rows across soil zones with different mineral compositions, creating orchards that display a colour spectrum when viewed from above. Several have been designated as natural artworks by Castrovel's cultural heritage authority.",
+      "Chromapple colour closely corresponds to flavour profile in a way that trained tasters can read accurately — essentially a botanical terroir system analogous to terrestrial wine oenology. The Absalom Station Gastronomic Society recognises Chromapple tasting as a formal evaluative discipline with a certification programme.",
+      "Chromapples grafted onto rootstock grown in mineral-poor hydroponic media gradually lose their distinctive colouring, reverting toward pale cream within two or three generations. This makes authentic Castrovel-soil specimens identifiable without testing and commands a significant price premium over hydroponically grown versions.",
+      "The lashunta festival of Chromafall — held annually at the start of the harvest — involves colour-matched offerings of fruit presented according to the recipient's social role. The colour system carries significant meaning that requires years of study to master fully, and cultural advisors are sometimes employed at inter-species diplomatic events involving lashunta delegations to ensure correct Chromapple etiquette."
+    ]
+  },
+  {
+    "name": "Crystalline Fig",
+    "scientific_name": "Ficus crystallinus",
+    "produce_type": "fruit",
+    "taxonomy": "Exotic Fruit",
+    "origin": "Idari (kasathan city-ship)",
+    "flavor": "The Crystalline Fig crunches faintly as you press it, something inside it catching the light like a geode that learned to grow.",
+    "fun_facts": [
+      "Crystalline Figs are grown exclusively in the sealed botanical chambers of the kasathan city-ship Idari, where mineral aerosols circulated for air-quality purposes are absorbed through the skin of the developing fruit and form actual crystalline inclusions within the flesh — calcium oxalate and silicate compounds that create a layered crunch within the soft interior.",
+      "The internal crystal formations refract visible light within the fig's interior in a way that enhances the attractiveness of the fruit to pollinators aboard Idari's botanical chambers. Xenobotanists have proposed this is a secondary adaptive advantage — the crystals that developed to form from incidental aerosol absorption turned out to also serve a pollination function.",
+      "Crystalline Figs are a fixture of kasathan diplomatic feasts. Presenting them to a guest represents the offering of something rare and carefully maintained — aligned with kasathan cultural values around deliberate cultivation and long-term stewardship. Refusing a Crystalline Fig at a kasathan table is a significant diplomatic misstep.",
+      "No successful cultivation of Crystalline Figs has been achieved outside Idari's specific atmospheric environment. Attempts in standard hydroponic facilities produce figs without crystal formation, and the kasatha have been diplomatically reluctant to share the mineral aerosol formula. Several xenobotanical institutes have applied for access; all applications remain pending.",
+      "The crystal texture of Crystalline Figs gave rise to the kasathan culinary philosophy called 'mineral cooking' — the preparation of foods in ways that emphasise or contrast their mineral character. Several techniques developed specifically to work with Crystalline Fig texture have since been applied to non-crystalline ingredients, becoming a broader school of kasathan gastronomy."
+    ]
+  },
+  {
+    "name": "Plasma Pear",
+    "scientific_name": "Pyrus plasmatus",
+    "produce_type": "fruit",
+    "taxonomy": "Pome Fruit",
+    "origin": "Akiton",
+    "flavor": "The Plasma Pear radiates faint warmth against your palm — not metaphor, not spice, just heat, the memory of Akiton's vents living in the skin.",
+    "fun_facts": [
+      "Wild Plasma Pears grow near Akiton's geothermal vents, where intense heat causes their skin to develop a deep crimson colouration and a surface texture resembling cooling lava. The internal temperature of an unmodified wild specimen regularly reaches 42°C. Cultivated varieties grown at lower temperatures are warm to the touch rather than hot, but lose the dramatic texture.",
+      "The name 'Plasma Pear' was coined by early Absalom Station traders who encountered wild specimens. The fruit's elevated internal temperature — and the steam that rose from it when quartered in cold air — led the traders to believe they had found a fruit that was literally on fire. Several early trade reports describe them as 'the burning pears of Akiton.'",
+      "Plasma Pear flesh contains a class of thermostable enzymes that remain active at temperatures that would denature most fruit enzymes. Food scientists are studying these enzymes as potential industrial catalysts for high-temperature chemical processes, and at least two research institutes have filed enzyme patents derived from Plasma Pear tissue.",
+      "The Akitonian tradition of 'heat-gifting' — presenting a warm Plasma Pear to a guest as a sign of hospitality — has migrated to communities of Akiton-descended settlers throughout the Pact Worlds. Where the pears must be warmed artificially to replicate the cultural gesture, specialist warming devices shaped like geothermal rocks have become a minor consumer product.",
+      "Plasma Pear cider is fermented at elevated temperatures using the fruit's own thermophilic yeasts, which thrive at temperatures lethal to conventional brewing organisms. The resulting beverage — marketed as Volcano Draft in Absalom Station's lower merchant decks — is noticeably warmer than standard ferments and is best consumed in short pours."
+    ]
+  },
+  {
+    "name": "Veskian Starfruit",
+    "scientific_name": "Averrhoa veskaris",
+    "produce_type": "fruit",
+    "taxonomy": "Exotic Fruit",
+    "origin": "Veskarium",
+    "flavor": "The Veskian Starfruit's five-pointed cross-section catches the light like a badge of office — or a weapon with a favourable edge count.",
+    "fun_facts": [
+      "Veskian Starfruit has a five-pointed cross-section that mirrors the Veskarium's military star emblem. Whether the fruit was selected for cultivation because of this resemblance, or whether the emblem was adopted because of the fruit, is a point of genuine historical debate among Veskarium scholars. Both sides cite documentation that supports their position.",
+      "The flesh of Veskian Starfruit is extraordinarily high in complete protein, containing all essential amino acids in ratios specifically optimised for vesk physiology. It is a mandated component of Veskarium military ration standards and has been included in field supply manifests continuously since the records of the current military administration begin.",
+      "Veskian Starfruit is one of the most intensely sour fruits in the known Pact Worlds — its citric acid equivalent content is several times that of terrestrial lemons. Non-vesk species typically require significant dilution or sweetening before comfortable consumption. Several Pact Worlds food critics describe the unmodified flavour as 'an argument you lose immediately.'",
+      "The rind of Veskian Starfruit has been used in traditional Veskarium medicine as a wound coagulant. Applied directly to a cut, it triggers rapid local clotting and has a mild antimicrobial effect attributed to its extreme acidity. The practice is still used in field conditions where medical supplies are unavailable.",
+      "Veskian Starfruit trees are used as boundary markers in traditional Veskarium agricultural territories. The trees are large, long-lived, and difficult to move once established, making them natural boundary indicators whose positions can be confirmed centuries later. Several territorial disputes in the Veskarium have been resolved using the documented positions of old Starfruit trees."
+    ]
+  },
+  {
+    "name": "Driftseed Berry",
+    "scientific_name": "Vaccinium astralis",
+    "produce_type": "fruit",
+    "taxonomy": "Berry",
+    "origin": "Absalom Station (hydroponic levels)",
+    "flavor": "The Driftseed Berry is the most ordinary extraordinary thing you'll ever eat — precisely engineered, reliably perfect, and somehow still a berry.",
+    "fun_facts": [
+      "Driftseed Berries were specifically engineered by Absalom Station's agricultural division to produce fruit year-round under artificial lighting, with no seasonal dormancy. They are the single most-consumed fresh fruit on the station by volume — the agricultural equivalent of a load-bearing wall.",
+      "The engineering of Driftseed Berries involved synthetic gene editing to remove photoperiod sensitivity — the mechanism by which most berries require day-length cues for fruiting. The resulting plant is agriculturally productive but botanically unusual in its complete indifference to light cycles, making it something of a curiosity in xenobotany curricula.",
+      "Driftseed Berries are nutritionally standardised: each berry is engineered to fall within a 5% tolerance band for sugar, vitamin, and mineral content. This makes them the preferred calibration food for medical nutrition trials conducted aboard the station, where a consistent baseline food source is methodologically essential.",
+      "Despite their engineered standardisation, Driftseed Berries grown in different atmospheric sections of Absalom Station develop subtle flavour variations due to differing trace mineral content in the local water supply. Connoisseurs claim to identify the district of origin from taste alone, and at least one annual blind-tasting competition tests this claim among self-described station sommelier enthusiasts.",
+      "The berries were named 'Driftseed' not for any connection to the hyperspace Drift but for the manner in which the station's agricultural teams first propagated them: by seeding berries through the station's air circulation system to test colonisation viability in different atmospheric zones. Several early propagation events went further than intended, and rogue berry plants still appear occasionally in unexpected maintenance corridors."
+    ]
+  },
+  {
+    "name": "Phase Cherry",
+    "scientific_name": "Prunus phasei",
+    "produce_type": "fruit",
+    "taxonomy": "Stone Fruit",
+    "origin": "Apostae",
+    "flavor": "The Phase Cherry sits in your palm and then, for just a moment, doesn't — before returning with the quiet confidence of something that has been elsewhere.",
+    "fun_facts": [
+      "Phase Cherries grow in the deep cavern-orchards of Apostae, where ambient phasic energy causes the ripened fruit to become semi-translucent for a period of several seconds each hour, as if momentarily out of phase with the material plane. The effect is subtle enough to be missed unless you are watching for it, and striking enough to be commercially exploited once you have seen it.",
+      "The periodic phasing is not merely aesthetic. It is theorised to facilitate seed dispersal by momentarily reducing the fruit's material density, allowing it to drop through the pit of the stone and deposit seeds directly into the soil — a dispersal mechanism with no known analogue in conventional botany and contested by several botanists who consider the hypothesis premature.",
+      "Phase Cherries must be harvested within a precise window. If picked too early, phasing has not yet begun. If picked too late, the periodic phasing accelerates and the fruit begins to lose material coherence, becoming effectively inedible. The harvest window is approximately four hours per fruit, and experienced pickers can judge it by the regularity of the phasing rhythm.",
+      "The drow of Apostae export Phase Cherries exclusively to buyers who pass a vetting process. The fruit is never sold on open markets, and cultivation methods are a closely held trade secret with significant political implications within Apostae's complex internal power structures. Several Pact Worlds intelligence agencies have expressed interest in the vetting criteria.",
+      "Xenobiologists have proposed that Phase Cherry seeds, if dispersed into the Drift, could theoretically establish groves in the dimensional fabric of hyperspace itself. No one has tested this hypothesis. Several major Drift transport guilds have quietly lobbied against any organised attempt to do so."
+    ]
+  },
+  {
+    "name": "Nebula Passionfruit",
+    "scientific_name": "Passiflora nebularis",
+    "produce_type": "fruit",
+    "taxonomy": "Vine Fruit",
+    "origin": "Liavara (atmospheric cloud-city platforms)",
+    "flavor": "The Nebula Passionfruit opens to reveal arils that align in patterns following lines no magnetic field in this room should be producing.",
+    "fun_facts": [
+      "Nebula Passionfruit is cultivated on the platform gardens of Liavara's cloud cities, anchored to artificial soil panels suspended in the gas giant's upper atmosphere. The plants are pollinated by drone insects specifically adapted for the high-altitude, high-pressure environment — one of the few agricultural systems in the Pact Worlds where the pollinators were engineered alongside the crop.",
+      "The fruit's interior arils — the edible gel layer surrounding each seed — appear to align in patterns corresponding to Liavara's magnetic field lines when the fruit is sliced open. The mechanism is not understood. Several xenobotanical papers have described it; none have explained it. It remains one of the more quietly baffling phenomena in Pact Worlds agricultural science.",
+      "Cloud-city platform farming in Liavara is one of the Pact Worlds' most unusual agricultural environments. The primary growers, members of the barathu species, have developed a form of collective cultivation in which individual barathu temporarily fuse with the platform structures to monitor soil chemistry directly — an agricultural practice that has no analogue anywhere else.",
+      "Nebula Passionfruit has a flavour profile described by xenogastronomists as 'spatially complex': the taste arrives sequentially rather than simultaneously, with a cascade of distinct notes over approximately 15 seconds. The phenomenon is attributed to the multi-layered chemical composition of the aril and has been compared, by one effusive reviewer, to 'experiencing a nebula from the inside.'",
+      "A Nebula Passionfruit harvested and consumed on the cloud platform tastes measurably different from one transported to a planet's surface. The pressure change during transport alters the volatile compound mix in the aril, flattening the sequential flavour cascade into a single simultaneous impression. Dedicated Liavara food tourism has developed specifically around the experience of eating the fruit in situ."
+    ]
+  },
+  {
+    "name": "Void Orange",
+    "scientific_name": "Citrus vacuus",
+    "produce_type": "fruit",
+    "taxonomy": "Citrus",
+    "origin": "Ratheren (deep-space agricultural colony)",
+    "flavor": "The Void Orange offers no rind to remove, no pith to fight — just an entirely edible sphere of citrus engineered for people who have better things to do with their time.",
+    "fun_facts": [
+      "Void Oranges were engineered at the Ratheren colony — a deep-space agricultural station 40 light-years from the Pact Worlds — specifically for maximum nutritional density in minimum mass. Each fruit contains roughly 300% of the standard RDA for vitamin C, requires no peeling, and produces zero waste, as the rind is entirely edible.",
+      "The edible rind was achieved by eliminating the pith layer in the engineered variety. The resulting rind is thin, slightly bitter, and rich in flavonoids that are medically beneficial in the quantities provided by a single fruit. The engineering is considered one of the more successful examples of nutritional optimisation in Pact Worlds agricultural bioengineering.",
+      "Void Oranges are the standard citrus ration supplement in several Drift exploration corps' long-haul supply manifests. Their zero-waste design, extended shelf life — a natural consequence of the dense rind — and high vitamin content make them preferable to all other citrus forms for extended missions where cargo mass is strictly rationed.",
+      "The colony at Ratheren exports Void Oranges as its primary economic output. Its isolation means the fruit has no local competition and commands a monopoly price on the adjacent trade routes, despite being relatively inexpensive to produce. Ratheren's economy has remained stable for generations entirely on the strength of this one engineered crop.",
+      "Void Oranges were the subject of a significant diplomatic dispute in 288 AG when a Veskarium trade consortium attempted to replicate the engineering without license. The resulting legal case established several precedents in Pact Worlds agricultural intellectual property law that still govern xenobotanical gene rights, including the landmark ruling that engineered nutritional profiles can be patented independently of the organism that carries them."
+    ]
+  },
+  {
+    "name": "Starbloom Persimmon",
+    "scientific_name": "Diospyros astralis",
+    "produce_type": "fruit",
+    "taxonomy": "Drupe",
+    "origin": "Verces (twilight band)",
+    "flavor": "The Starbloom Persimmon smells like dusk — not any particular dusk, but the concept of it, suspended in something sweet.",
+    "fun_facts": [
+      "Starbloom Persimmons grow only on Verces' narrow twilight band — the zone of perpetual dusk where the tidally locked planet's day and night sides meet. The specific quality of light at that boundary, simultaneously warm and cool, triggers flavour development that cannot be replicated under artificial lighting of any known spectrum configuration.",
+      "The twilight band on Verces is ecologically extreme, with fierce and constant winds generated by the atmospheric pressure differential between the sun-heated day side and the frozen night side. Starbloom Persimmon trees have developed deep-anchoring root systems and flexible, wind-hardened trunk structures — they are among the most mechanically robust fruit trees documented anywhere in the Pact Worlds.",
+      "Starbloom Persimmons transition from aggressively astringent when unripe to intensely sweet when fully ripe, with the transition occurring over a period of hours on the tree at specific times of the Vercen year. The change happens faster than any other known persimmon variety — farmers describe the harvest window as 'a conversation you have to be present for.'",
+      "The harvest of Starbloom Persimmons is conducted exclusively by specialist teams using magnetic-anchor rigs to work in Verces' constant twilight-band winds. The work is considered one of the most physically demanding agricultural jobs in the Pact Worlds; the Vercen Pickers' Union maintains a hazard pay schedule that reflects conditions typically associated with industrial construction rather than farming.",
+      "A traditional Vercen beverage called Twilight Draft is made from fermented Starbloom Persimmons. It is consumed at ceremonies marking transitions and liminal events — marriages, promotions, departures — because the fruit is culturally associated with Verces' own state of permanent in-between, and consuming it is understood as an acknowledgement that one state is ending and another beginning."
+    ]
+  },
+  {
+    "name": "Kinetic Kiwi",
+    "scientific_name": "Actinidia kineticus",
+    "produce_type": "fruit",
+    "taxonomy": "Berry",
+    "origin": "Triaxus (storm belt)",
+    "flavor": "The Kinetic Kiwi tingles in your hand in a way that's difficult to attribute to anything you can point to. The ozone is a surprise.",
+    "fun_facts": [
+      "Kinetic Kiwis grow near the electrically active storm belts of Triaxus, where frequent lightning and static discharge charge the soil with electrical energy that the plant has evolved to absorb and store in its seeds. A seed from a storm-adjacent Kinetic Kiwi holds a measurable charge for up to two weeks after separation from the fruit.",
+      "The skin of the Kinetic Kiwi is covered in conductive micro-hairs rather than the insulating fuzz of terrestrial kiwi fruit. These hairs function as antennae that channel ambient electrical energy into the fruit. The exact mechanism by which this energy is stored in the seed without damaging surrounding tissue has not been fully explained, and is a subject of active xenobotanical research.",
+      "Kinetic Kiwis taste faintly of ozone in addition to the expected tart-sweet profile — a consequence of the electrical chemistry involved in their development. Some diners find this a pleasingly unusual dimension to the fruit. Others describe the experience as 'eating near a lightning strike,' which is a description that has, against all odds, appeared in positive reviews.",
+      "Ryphorian communities use charged Kinetic Kiwi seeds as small emergency electrical components in field repairs. A cluster of seeds wired in series can power a low-draw component for a short period, making the fruit both a food source and a practical emergency tool. Triaxian field survival guides include instructions for seed-circuit construction.",
+      "The electrical properties of Kinetic Kiwis have attracted sustained interest from Absalom Station research groups studying biological capacitor systems. Early findings suggest the seed-charging mechanism involves a novel biological dielectric material with properties distinct from any known synthetic equivalent. Several research groups are competing to synthesise an analogue."
+    ]
+  },
+  {
+    "name": "Antimatter Dragonfruit",
+    "scientific_name": "Selenicereus antimatus",
+    "produce_type": "fruit",
+    "taxonomy": "Exotic Fruit",
+    "origin": "Liavara (orbital growing stations)",
+    "flavor": "The Antimatter Dragonfruit glows softly and contains no antimatter. This is a relief and, somehow, a mild disappointment.",
+    "fun_facts": [
+      "The name 'Antimatter Dragonfruit' is entirely a marketing invention. The fruit contains no antimatter and poses no hazard whatsoever. The name was coined by a Liavaran merchant who noticed the fruit's phosphorescent glow and its tendency to cause bioluminescent interference patterns on scanner screens, and sold the mystery to premium buyers with considerable commercial success.",
+      "The fruit's glow is produced by a stable luciferase variant found throughout Liavara's orbital ecosystem. The enzyme is harmless, produces cold light, and has attracted significant interest from pharmaceutical companies studying bioluminescent diagnostic markers — compounds that glow in the presence of specific biological signals, useful in non-invasive medical imaging.",
+      "Antimatter Dragonfruit has an unusually high water content — approximately 94% — making it a preferred hydration food in low-water emergency situations. Drift explorer corps frequently carry preserved versions as supplemental hydration rations, and emergency supply standards in several jurisdictions require a minimum dragonfruit allocation for extended operations.",
+      "The flesh contains a compound that mildly inhibits fatigue perception for approximately four hours — not a stimulant in the conventional pharmacological sense, but something closer to a fatigue-signal moderator. The compound is currently under review by the Pact Worlds Health Authority for regulatory classification, with opinion divided between 'benign food component' and 'mild cognitive modifier.'",
+      "The scales on the outer rind of Antimatter Dragonfruit are harvested separately from the flesh and used as a decorative element in high-end Absalom Station restaurants, where their phosphorescent glow is incorporated into table settings and interior design. Several Absalom Station chefs have built their aesthetic identity around Antimatter Dragonfruit scale arrangements."
+    ]
+  },
+  {
+    "name": "Xenocarrot",
+    "scientific_name": "Daucus xenicus",
+    "produce_type": "vegetable",
+    "taxonomy": "Root Vegetable",
+    "origin": "Akiton",
+    "flavor": "The Xenocarrot emerges root-first, deep burgundy, already tasting faintly of the red mineral world it came from.",
+    "fun_facts": [
+      "The Xenocarrot grows deep in the red mineral soils of Akiton and absorbs iron and magnesium compounds that give its flesh a striking burgundy colour and a distinctly mineral, almost metallic undertone — described by food scientists as similar to the experience of tasting a high-quality ferrous alloy, which is a description that somehow works.",
+      "The Xenocarrot's deep root system reaches 1.5 metres in ideal Akiton soil — approximately five times the depth of standard carrot cultivation. This is believed to have developed as a survival adaptation against Akiton's seasonal surface temperature extremes, allowing the root to access stable deep-soil moisture that surface-rooting plants cannot reach.",
+      "Xenocarrots have been adopted by Veskarium military planners as a field ration crop. Their resilience in low-water, high-temperature environments and high iron content make them a preferred vegetable for supply chains operating in desert campaigns. Several Veskarium military cooking traditions were developed specifically to make Xenocarrots palatable in field conditions.",
+      "Traditional Akitonian cuisine uses Xenocarrots as the base of a slow-roasted dish called iron-root stew, in which the carrots are cooked for 12 hours until the mineral compounds crystallise on the surface. The resulting crust is considered the most prized part of the preparation; recipes specify that the crystalline surface must be scraped off and distributed first before the interior is served.",
+      "The intense red pigment of the Xenocarrot has been commercially extracted for use in food colouring. The resulting dye is heat-stable, radiation-stable, and one of the most colourfast natural pigments available in the Pact Worlds, used in ration packaging to colour-code nutrient categories. Several non-food industrial applications have also been developed."
+    ]
+  },
+  {
+    "name": "Darkside Kale",
+    "scientific_name": "Brassica umbralis",
+    "produce_type": "vegetable",
+    "taxonomy": "Leafy Green",
+    "origin": "Verces (permanent night side)",
+    "flavor": "Darkside Kale is near-black, flavour-forward, and has the quiet confidence of something that learned to thrive where light never reaches.",
+    "fun_facts": [
+      "Darkside Kale has entirely abandoned chlorophyll-based photosynthesis. It derives energy through a chemosynthetic process using hydrogen sulfide compounds vented from geothermal sources on Verces' permanent night side, making it one of the very few vascular plants in the Pact Worlds to produce energy without light — a trait previously thought exclusive to microbial life.",
+      "The leaves of Darkside Kale are near-black, maximising absorption of any trace energy available in the dark environment. Under standard lighting conditions, the leaves appear as a deep green-black that many diners find visually striking and that at least one award-winning chef has described as 'the only vegetable that looks like it came from somewhere dangerous.'",
+      "Darkside Kale contains significantly higher concentrations of glucosinolates than any other known brassica. These compounds are responsible for its intense, bitter, sulphurous flavour and are of sustained interest to pharmaceutical researchers studying natural anti-carcinogenic compounds. Several clinical trials are ongoing.",
+      "Verces' night-side communities have relied on Darkside Kale as a dietary staple for generations. The plant's ability to grow without light or standard atmospheric conditions makes it one of the few crops viable in the sealed, geothermally heated settlements of the dark hemisphere, and it is embedded in night-side cuisine at every level from street food to ceremonial feast.",
+      "Because Darkside Kale requires no light to grow, it has been successfully cultivated in the sealed inner compartments of starships during extended Drift transits. Several long-haul freighter crews maintain Darkside Kale plots in non-essential cargo holds as a fresh food supplement. The practice has been formally endorsed by at least one major Drift transport cooperative as a crew welfare measure."
+    ]
+  },
+  {
+    "name": "Graviton Potato",
+    "scientific_name": "Solanum gravitonis",
+    "produce_type": "vegetable",
+    "taxonomy": "Tuber",
+    "origin": "Bretheda (orbital agricultural ring)",
+    "flavor": "The Graviton Potato is a perfect sphere of starch, which is a sentence that shouldn't be possible and yet here we are.",
+    "fun_facts": [
+      "Graviton Potatoes are cultivated in Bretheda's orbital agricultural rings in near-zero gravity. Without gravity dictating growth direction, the tubers develop in perfect spheres rather than the irregular shapes of conventional potatoes. This spherical consistency is commercially significant beyond aesthetics: it allows automated sorting and processing machinery to handle them with near-perfect efficiency.",
+      "The interior of a Graviton Potato has a more homogeneous starch distribution than gravity-grown equivalents. The absence of gravitational compression during development means the starch granules are evenly distributed throughout the flesh, resulting in an unusually consistent texture when cooked that chefs describe as 'controllably reliable in a way that other potatoes refuse to be.'",
+      "Several barathu communities in Bretheda's cloud cities have adopted Graviton Potato cultivation as a creative medium. Barathu artists create installations in which potato plants are grown in sculptural zero-gravity configurations, producing unusually shaped tubers as a form of living sculpture. At least one such installation has been acquired by the Absalom Station Fine Arts Compendium.",
+      "Graviton Potato starch has been studied as a potential binding agent in adhesive applications. Its molecular uniformity — a consequence of microgravity development — creates starch films of exceptional consistency and tensile strength. Several exploratory patents have been filed, though none have yet reached commercial production.",
+      "A minor cultural phenomenon on Bretheda's orbital rings involves competitive Graviton Potato rolling — the perfect spheres make unusually predictable rolling patterns in low-gravity corridors, and informal betting circles have developed around precision-roll competitions. The practice is officially discouraged by station management and enthusiastically practised regardless."
+    ]
+  },
+  {
+    "name": "Phasemushroom",
+    "scientific_name": "Agaricus phasei",
+    "produce_type": "vegetable",
+    "taxonomy": "Fungus",
+    "origin": "Absalom Station (deep maintenance corridors)",
+    "flavor": "The Phasemushroom pulses once with dim light as you pick it up — a greeting, or a warning, depending on how you look at these things.",
+    "fun_facts": [
+      "Phasemushrooms grow spontaneously in the deepest maintenance corridors of Absalom Station, where they subsist on waste electrical fields and trace atmospheric compounds. They were not intentionally cultivated but appeared within decades of the station's construction. Station management's response to their discovery evolved from eradication attempts to regulated tolerance to, eventually, cautious encouragement.",
+      "The cap of a Phasemushroom pulses with bioluminescence in response to electrical field fluctuations in its environment. Experienced maintenance crews use Phasemushroom activity as an informal indicator of electrical system health in sections where sensor coverage is sparse — a living diagnostic tool that costs nothing to maintain and has never filed a work order.",
+      "Phasemushrooms are entirely edible and nutritionally complete in terms of essential amino acids and B vitamins. The station's lower-deck communities incorporated them into local cuisine over generations, and a street food culture centred on Phasemushroom preparations has developed in the underbelly districts — including a dedicated night market in Section 7 that has operated continuously for over 40 years.",
+      "Xenomycologists consider Phasemushrooms a significant evolutionary curiosity: they appear to have radically adapted to an industrial environment within a few centuries, a pace of adaptive change that substantially challenges standard models of fungal evolution. The leading hypothesis involves a horizontal gene transfer event whose donor organism has not yet been identified.",
+      "Phasemushrooms consistently fail to thrive outside Absalom Station's specific electrical environment. Attempts to establish populations in other installations have produced plants that live but do not fruit, and never develop the bioluminescent capability. This suggests the mushrooms have developed a dependency on the station's particular electromagnetic fingerprint — a degree of environmental specificity unprecedented in fungal biology."
+    ]
+  },
+  {
+    "name": "Drift Onion",
+    "scientific_name": "Allium driftica",
+    "produce_type": "vegetable",
+    "taxonomy": "Allium",
+    "origin": "Drift waystation hydroponics",
+    "flavor": "The Drift Onion has been peeled for a week and shows no sign of browning. You are not sure whether to eat it or study it.",
+    "fun_facts": [
+      "Drift Onions were first discovered by a crew member of a Drift-stranded freighter growing in a water recycling module. Subsequent investigation revealed that standard onion stock, over multiple generations in the Drift, develops extraordinary post-harvest stability — it does not wilt, brown, or sprout after harvest the way conventional onions do, and no enzymatic explanation for this property has yet been confirmed.",
+      "The Drift Onion's unusual stability is the subject of ongoing xenobotanical research. The leading hypothesis is that the Drift's ambient dimensional energy disrupts the enzymatic processes responsible for post-harvest deterioration, extending shelf life by an order of magnitude beyond conventional alliums. A competing hypothesis simply notes that the Drift is strange and that perhaps we should accept that.",
+      "A peeled Drift Onion will remain in that state — unbrowned and with no detectable enzymatic activity — for weeks in standard atmospheric conditions. This property has made it highly valued by catering operations on long Drift transits where refrigeration is unreliable or unavailable, and it appears in the standard supply specifications of several commercial passenger Drift routes.",
+      "The flavour of Drift Onions is notably milder than conventional onions. The same dimensional energy that stabilises the post-harvest flesh appears to reduce the volatile thiosulfinate compounds responsible for the sharp pungency of conventional alliums. The result is described by cooks as 'an onion that has given up trying to make you cry.'",
+      "A tradition aboard several Drift waystation communities holds that a Drift Onion that begins to sprout after months of stable dormancy indicates the station has drifted into proximity with a dimensional anomaly. Whether this is scientifically valid has not been definitively resolved. Station navigators privately report that they check the onion stores anyway."
+    ]
+  },
+  {
+    "name": "Castrovel Cucumber",
+    "scientific_name": "Cucumis castrovelus",
+    "produce_type": "vegetable",
+    "taxonomy": "Vine Vegetable",
+    "origin": "Castrovel (jungle canopy)",
+    "flavor": "The Castrovel Cucumber is shaped like the branch it grew against — which is to say, uniquely, and without apology.",
+    "fun_facts": [
+      "The Castrovel Cucumber grows along the massive horizontal branches of Castrovel's upper jungle canopy, where each fruit is physically shaped by the specific branch curvature it forms against during development. Every cucumber is a unique record of its particular growing position, making each one technically irreproducible.",
+      "Lashunta canopy farmers practise a technique called 'form training,' in which they attach carved wooden moulds to developing Castrovel Cucumbers to shape the fruit during growth. The resulting shaped cucumbers are sold as decorative produce at premium prices in Absalom Station's food markets, where they are considered both food and art object.",
+      "Castrovel Cucumbers have a water content of approximately 98.5% — the highest of any commonly traded vegetable in the Pact Worlds. This makes them exceptional hydration foods but extremely fragile to transport. The window between harvest and structural failure is short enough that export volumes are limited to routes where refrigerated fast-transit is available.",
+      "The skin of the Castrovel Cucumber is photosynthetically active, contributing measurably to the plant's energy budget. It also contains the same chromatographic pigments as the surrounding jungle foliage, providing the fruit with effective camouflage from aerial herbivores while developing. Experienced foragers report that spotting wild cucumbers is significantly harder than spotting most other canopy fruit.",
+      "Lashunta jungle-farming communities use the dried tendrils of Castrovel Cucumber vines as natural cordage. The tendrils are extraordinarily strong relative to their mass and have been used in safety rigging for canopy platforms, with individual strands supporting loads of several hundred kilograms. The material has attracted interest from lightweight construction engineers."
+    ]
+  },
+  {
+    "name": "Voidbean",
+    "scientific_name": "Phaseolus vacuus",
+    "produce_type": "vegetable",
+    "taxonomy": "Legume",
+    "origin": "Absalom Station (hydroponic levels)",
+    "flavor": "The Voidbean is the unassuming foundation of civilisation as practised in a sealed tin cylinder hurtling through space.",
+    "fun_facts": [
+      "Voidbeans were specifically engineered to fix nitrogen in the artificial growing media of Absalom Station's hydroponic levels, simultaneously providing a food crop and a soil-improvement service in a sealed agricultural environment where nitrogen cycling cannot rely on external inputs. They are, in effect, the station's agricultural infrastructure disguised as dinner.",
+      "A single Voidbean plant produces enough seed in one growing cycle to meet a standard station worker's protein requirements for approximately six days. This extraordinary yield-to-space ratio makes it the most efficient protein crop in the station's agricultural portfolio by a significant margin.",
+      "Voidbeans have been exported to at least 40 different deep-space installation agricultural systems, where they are considered a foundational crop for sealed-system food production. Their engineered nitrogen-fixing ability is particularly valuable in environments where importing external fertiliser is logistically impractical, and they frequently appear in the earliest-stage colony supply manifests.",
+      "Despite their engineered origin, Voidbeans have a dedicated gastronomic following in Absalom Station's merchant district. Several award-winning restaurants serve tasting menus built entirely around Voidbean preparations, arguing that the bean's engineered consistency is a virtue that allows exceptional culinary precision. The argument has proven commercially persuasive.",
+      "The dried Voidbean has become a unit of informal exchange in Absalom Station's lower-deck communities. The phrase 'a handful of voidbeans' has become slang for a small amount of currency — a usage that began as a joke and has been adopted with earnest frequency. The station's economic oversight board has noted the phenomenon and chosen not to intervene."
+    ]
+  },
+  {
+    "name": "Starfire Pepper",
+    "scientific_name": "Capsicum astralis",
+    "produce_type": "vegetable",
+    "taxonomy": "Podded Vegetable",
+    "origin": "Akiton",
+    "flavor": "The Starfire Pepper is warm to the touch. Not metaphorically. The outside surface is 45°C. You have been warned.",
+    "fun_facts": [
+      "Starfire Peppers grown near Akiton's geothermal vents are literally warm to the touch — physically elevated in temperature due to absorbed geothermal energy conducted through their root systems. Wild specimens reach surface temperatures of 45°C on the outside of the pod. Cultivated varieties in lower-temperature environments are cooler but still perceptibly warm.",
+      "The capsaicin-equivalent compounds in Starfire Peppers are the most potent naturally occurring pungent compounds yet measured in any Pact Worlds plant. A single gram of dried Starfire Pepper has a heat equivalency of approximately 2 million Scoville units in terrestrial terms. The Pact Worlds Culinary Safety Board recommends gloves during processing.",
+      "Starfire Peppers serve as hand warmers in Akitonian field communities — a secondary cultural use that developed when cooks discovered that peppers carried from geothermal zones maintained usable warmth for several hours. Akitonian wilderness survival guides now include Starfire Peppers in their list of dual-use items.",
+      "The heat of a Starfire Pepper does not diminish significantly with cooking. The capsaicin analogue is highly thermostable and does not break down below 400°C, meaning that the culinary technique of 'cooking out the heat,' used with some terrestrial chilis, is simply not available. What you start with is what you finish with.",
+      "A condensed Starfire Pepper extract has been incorporated into some Pact Worlds personal defence sprays. The product is regulated in several jurisdictions because testing found it capable of affecting species with naturally high thermal tolerance — including certain vesk individuals who reported that it had 'achieved something' in a written product review that has since been used in advertisements."
+    ]
+  },
+  {
+    "name": "Triaxian Sprout",
+    "scientific_name": "Brassica triaxica",
+    "produce_type": "vegetable",
+    "taxonomy": "Brassica",
+    "origin": "Triaxus",
+    "flavor": "The Triaxian Sprout is simultaneously two things at once, which is appropriate for something that grew on a planet that is also simultaneously two things at once.",
+    "fun_facts": [
+      "The Triaxian Sprout is unusual among brassicas in producing two genetically identical varieties — one adapted to the warm hemisphere of Triaxus and one to the cold — from the same parent plant. The plant detects environmental temperature at germination and differentially expresses thermal-adaptation genes accordingly, a form of developmental plasticity not previously documented in cultivated vegetables.",
+      "Warm-side Triaxian Sprouts are loose-headed and leafy, adapted to dissipate heat. Cold-side specimens are tight, dense, and compact, adapted to minimise exposed surface area in freezing temperatures. Both taste nearly identical, though cold-side specimens develop higher sugar content as a metabolic response to avoid cellular ice formation.",
+      "Ryphorian cooking uses both varieties simultaneously in a traditional dish called dual-roast, where warm-side and cold-side Triaxian Sprouts are cooked at opposite ends of the temperature scale and served together. The dish is presented as a representation of the planet's dual nature and is typically served at events marking significant transitions.",
+      "Cold-side Triaxian Sprouts can survive tissue temperatures of −30°C without cell damage, owing to intracellular antifreeze proteins that prevent ice crystal formation. The proteins have been studied as potential cryoprotective agents in medical contexts, and at least one Pact Worlds medical supply company has filed patents based on the structure.",
+      "The Triaxian Sprout has become an unofficial symbol of ryphorian cultural adaptability. The plant's ability to thrive in contradictory environments is seen as an analogy for the ryphorian people's own cycle of seasonal transformation between warm-adapted and cold-adapted physical forms. The symbolism is explicitly taught in ryphorian cultural education."
+    ]
+  },
+  {
+    "name": "Ironleaf Spinach",
+    "scientific_name": "Spinacia ferreus",
+    "produce_type": "vegetable",
+    "taxonomy": "Leafy Green",
+    "origin": "Eox",
+    "flavor": "Ironleaf Spinach has the nutritional aggression of something that grew in a dead world's soil and has opinions about it.",
+    "fun_facts": [
+      "Ironleaf Spinach grows in Eox's mineral-saturated soils with a leaf iron content roughly 40 times higher than conventional spinach varieties. The excess iron gives the leaves a dark, metallic sheen and a pronounced mineral flavour that is described by those who enjoy it as 'nutritionally confrontational' and by those who do not as 'like licking something structural.'",
+      "Ironleaf Spinach is prescribed by some Pact Worlds physicians as a dietary iron supplement. A single portion meets the daily iron requirements of most humanoid species several times over. Smaller portions — a few leaves rather than a serving — are used as a therapeutic food for iron-deficiency conditions, and the Pact Worlds Health Authority has approved it as a medical food under specific dosage guidelines.",
+      "The high iron content of dried, powdered Ironleaf Spinach makes it mildly magnetic. The dried powder is used in certain artisanal printing processes as a natural ferrofluid component in magnetic-field-sensitive inks, where its organic origin gives it handling and dispersal properties that synthetic ferrofluids do not replicate well.",
+      "Eox's bone sage communities maintain Ironleaf Spinach plots near their ossuary complexes as a form of practical agriculture. The undead have no nutritional use for the vegetable but recognise its export value and the diplomatic benefit of demonstrating that Eox supports and sustains living biological processes. Several bone sages have developed genuine expertise in cultivation as a secondary interest.",
+      "Ironleaf Spinach seeds were among the food crop samples included in the Pact Worlds Stellar Heritage Archive — a genetic repository maintained against catastrophic loss. The archive's selection committee included it explicitly because no other iron-fixing plant in the known Pact Worlds comes close to its mineral uptake efficiency, and the compounds responsible are unlikely to be re-engineered if the plant were lost."
+    ]
+  },
+  {
+    "name": "Nchak Nightshade",
+    "scientific_name": "Solanum nchakus",
+    "produce_type": "vegetable",
+    "taxonomy": "Podded Vegetable",
+    "origin": "Nchak",
+    "flavor": "The Nchak Nightshade is not poisonous. This was established at some diplomatic cost. It is, however, delicious.",
+    "fun_facts": [
+      "The Nchak Nightshade was named 'nightshade' by early non-shirren visitors to Nchak who assumed, based on its dark colouration and resemblance to a poisonous plant family, that it was toxic. It is not. It is a dietary staple of the shirren people, entirely safe across all known species, and the misidentification caused a minor interplanetary incident that is still referenced in xenobotanical first-contact protocols.",
+      "The confusion arose because Nchak Nightshade belongs to the Solanaceae family and shares the dark-berry form of poisonous nightshade relatives, but has been cultivated by the shirren for thousands of years to remove all alkaloid compounds. The result is as safe as a standard tomato and significantly more flavourful.",
+      "Nchak Nightshade pods contain seeds arranged in a precise geometric pattern that shirren children are traditionally taught to count and map as an early mathematical exercise. The seed pattern is reproduced in certain shirren artworks as a symbol of order within apparent randomness — a philosophical concept important in shirren collective decision-making theory.",
+      "The fruit wall of Nchak Nightshade is unusually thick and firm, making it suitable as a natural container. Shirren communities traditionally fill hollowed Nchak Nightshade pods with fermented paste and use them as single-serving portable meals during travel — an edible vessel that solves its own packaging problem.",
+      "Nchak Nightshade plants are remarkably resistant to vacuum exposure. Sealed specimens have survived decompression tests lasting up to 72 hours, a property believed to be related to Nchak's low atmospheric pressure and the plant's centuries of cultivation near the moon's launch facilities, where occasional pressure incidents have created strong natural selection for vacuum tolerance."
+    ]
+  },
+  {
+    "name": "Psycomato",
+    "scientific_name": "Solanum psycus",
+    "produce_type": "vegetable",
+    "taxonomy": "Fruit Vegetable",
+    "origin": "Castrovel (psionic-active region)",
+    "flavor": "The Psycomato tastes like a tomato and then, approximately three hours later, you realise you've been concentrating for three hours.",
+    "fun_facts": [
+      "The Psycomato grows in a region of Castrovel where geological psionic activity — a poorly understood phenomenon involving resonant mineral lattices in deep rock formations — produces a persistent low-level psionic field. The plant has developed specialised cellular receivers that absorb this energy and store it within the fruit, a feat of passive biological psionic accumulation with no known parallel.",
+      "The stored psionic energy in a Psycomato is diffuse and non-targeted. It does not grant specific psionic abilities. Clinical studies have, however, found a statistically significant correlation between Psycomato consumption and increased sustained-attention duration lasting approximately three hours — which is notable enough that several Absalom Station examination preparation guides recommend it.",
+      "Lashunta psionic researchers have been studying Psycomatos for decades as a model for biological psionic energy storage. The plant's ability to passively accumulate and retain psionic charge without active metabolic expenditure is not well explained by current psionic theory, and several theoretical papers have been retracted for overstating the implications of early findings.",
+      "Psycomatos grown outside the Castrovel psionic zone — in standard hydroponic environments — produce no measurable psionic effect. They taste identical to the psionically active variety and are nutritionally equivalent, but the cognitive effect is entirely absent. The active zone cannot be moved; you have to come to the Psycomato.",
+      "Psycomato jam was briefly regulated as a mild cognitive enhancer in several Pact Worlds jurisdictions before being reclassified as a food item after clinical trials found the cognitive effect to be statistically real but practically minor. The regulatory discussion generated significant public interest in psionic agriculture as a field, and at least three new research institutes were founded in response."
+    ]
+  },
+  {
+    "name": "Veskian Yam",
+    "scientific_name": "Dioscorea veskaris",
+    "produce_type": "vegetable",
+    "taxonomy": "Tuber",
+    "origin": "Veskarium",
+    "flavor": "The Veskian Yam is a complete meal in vegetable form, which is either efficient or aggressive depending on your relationship with vegetables.",
+    "fun_facts": [
+      "Veskian Yams are extraordinarily dense and calorie-rich. A single large specimen provides roughly 800 calories and sufficient protein, starch, and micronutrients to constitute a nutritionally complete meal for a standard vesk soldier. They are a mandated component of Veskarium military ration standards and have been included continuously in field supply manifests since current administrative records begin.",
+      "The density of Veskian Yams — 1.4 kg per litre of volume — means a standard military crate weighs roughly twice as much as the equivalent caloric content of most other vegetables. The Veskarium has accepted this logistical burden because the yam's complete nutrition profile eliminates the need for supplemental vitamins, reducing the total number of distinct supply line items.",
+      "Veskian Yam cultivation requires the specific clay-mineral composition of Veskarium's agricultural regions. Hydroponic attempts consistently produce tubers with lower protein and mineral content, suggesting the mineral uptake from Veskarium soil is critical to the yam's nutritional properties. Veskarium agricultural authorities have declined to publish the soil analysis data.",
+      "The yam is used in Veskarium ritual feasting as a mark of martial hospitality. Hosting guests with a Veskian Yam feast indicates that the host regards the guests as equals deserving of the same sustenance as a soldier — a significant cultural compliment that is sometimes misunderstood by non-vesk diplomats as an implication that the meal will be unpleasant.",
+      "Veskian Yam fibre — extracted from the dried husk — has a tensile strength comparable to certain synthetic fibres and has been incorporated in limited quantities into experimental light armour prototypes. The Veskarium Institute of Materials Research has filed three patents on processing methods, though full commercialisation has not yet been achieved."
+    ]
+  },
+  {
+    "name": "Ember Squash",
+    "scientific_name": "Cucurbita ignis",
+    "produce_type": "vegetable",
+    "taxonomy": "Vine Vegetable",
+    "origin": "Akiton",
+    "flavor": "The Ember Squash rind is hot enough to warrant caution. The interior, untouched by Akiton's fires, is cool and quietly sweet.",
+    "fun_facts": [
+      "Ember Squash grows at the margins of Akiton's active geothermal fields. Its rind is one of the most thermally insulating natural materials documented in the Pact Worlds, maintaining interior temperatures 30–40°C below the ambient external temperature even when the exterior surface is in contact with soil at 80°C — a biological thermal barrier that engineers have extensively studied.",
+      "The thermal insulation of the Ember Squash rind is produced by an air-gap cellular matrix — a structure similar in principle to aerogel — in which gas is trapped between densely packed cells. The result is a biological insulator that substantially outperforms many manufactured materials of similar mass, and several attempts to replicate it synthetically have produced functional but heavier analogues.",
+      "Akitonian miners use Ember Squash as a field cool-box during surface operations in geothermal zones. A hollowed Ember Squash rind packed with food and fluid maintains a habitable internal temperature for up to six hours in extreme ambient heat. The practice is documented in Akiton mining safety literature as an approved improvised thermal container.",
+      "Ember Squash flesh is sweet and mild, with no heat character despite the vegetable's fiery reputation. The thermal properties are entirely physical, not chemical. The interior of a cooked Ember Squash is indistinguishable from a temperate-zone squash, which has led several food writers to describe it as 'the most anticlimactic vegetable from the most dramatic planet.'",
+      "Dried Ember Squash rind has been incorporated into experimental building materials for heat-shielding applications. Several Akiton mining station walls include panels laminated with processed rind, which have demonstrated sustained thermal performance in long-term trials. Structural engineers note that the material is biodegradable under certain conditions, which complicates its use in permanent installations."
+    ]
+  },
+  {
+    "name": "Drift Parsnip",
+    "scientific_name": "Pastinaca driftica",
+    "produce_type": "vegetable",
+    "taxonomy": "Root Vegetable",
+    "origin": "Drift waystation hydroponics",
+    "flavor": "The Drift Parsnip is unreasonably sweet for something that grew in a dimensional anomaly, which perhaps says something about dimensional anomalies.",
+    "fun_facts": [
+      "Drift Parsnips were discovered growing spontaneously in a Drift waystation's water recycling module, much like Drift Onions, suggesting that certain root vegetables have an unusual affinity for the Drift's dimensional energy environment. Whether this represents convergent tolerance or a shared underlying mechanism is one of the more obscure open questions in Drift xenobotany.",
+      "Drift Parsnips are measurably sweeter than any known conventional parsnip variety. The difference is attributed to an apparent acceleration of starch-to-sugar conversion in root tissues in Drift space — a process that normally requires months of cold storage but occurs within weeks in the Drift environment. The relevant enzymatic mechanism has not been successfully replicated outside the Drift.",
+      "A Drift Parsnip separated from its growing medium maintains dimensional stability — it does not dry, shrivel, or decompose — for an extended period in Drift space, then reverts to normal post-harvest deterioration rates within hours of exiting the Drift. The transition is abrupt enough to be visible in time-lapse documentation, which has been shared widely as a novelty in xenobotanical circles.",
+      "Drift waystation crews have developed a competitive culinary tradition centred on Drift Parsnips. Long-haul Drift transits with limited entertainment have reportedly produced extraordinary preparations, and several Absalom Station restaurants have hired former Drift navigators specifically for their parsnip skills. The Drifters' Culinary Society runs an annual competition judged at waystation stops along major routes.",
+      "A theoretical paper published in 291 AG proposed that Drift Parsnips may be accumulating dimensional energy in their cellular structure and slowly releasing it after harvest — which, if true, would mean consuming fresh Drift Parsnips involves a measurable trace dimensional energy intake. The paper noted this was unlikely to be harmful. The authors also noted it had not been studied. Both of these facts are still technically true."
+    ]
+  },
+  {
+    "name": "Photon Celery",
+    "scientific_name": "Apium photonis",
+    "produce_type": "vegetable",
+    "taxonomy": "Stalk Vegetable",
+    "origin": "Verces (sunward side)",
+    "flavor": "Photon Celery glows faintly when backlit. You eat it anyway, because it is also very nutritious.",
+    "fun_facts": [
+      "Photon Celery grows on Verces' sunward face and has evolved fully translucent stalks. The transparency is a structural adaptation that channels light through the plant rather than reflecting it, maximising photosynthetic efficiency in the intense, constant sunlight of the dayward hemisphere. Cross-sections of the stalk under magnification reveal a layered fibre-optic architecture of extraordinary biological precision.",
+      "The translucent stalks create a striking visual effect when backlit — bundles of Photon Celery glow with an even, cold light described as looking 'through a prism at a star.' High-end Absalom Station restaurants frequently incorporate fresh Photon Celery as a decorative lighting element in table settings, with multiple establishments noting it as the most-photographed element of their presentation.",
+      "The nutrient content of Photon Celery is concentrated in a thin layer of tissue surrounding the central light-conducting core. Because the plant has minimised non-functional tissue in favour of photon conduction, the nutrient density per gram is significantly higher than conventional celery — making it both visually unusual and nutritionally efficient.",
+      "Dried Photon Celery fibres are used in Vercen artisanal fibre-optic craft. The dried strands retain sufficient transparency to conduct light over short distances, and skilled crafters weave them into decorative panels and ornamental objects that glow when light is applied at one end. The craft tradition has been practised on Verces for centuries and has recently been adapted for export markets.",
+      "Photon Celery is difficult to grow off-world because the translucency adaptation requires sustained, intense, full-spectrum light. In hydroponic settings with artificial lighting, the plants produce stalks with significantly reduced translucency as they alter their internal structure to maximise absorption of the weaker light source — essentially choosing nutrition over aesthetics when conditions demand a compromise."
+    ]
+  },
+  {
+    "name": "Aballon Lichen-Leaf",
+    "scientific_name": "Parmotrema aballonis",
+    "produce_type": "vegetable",
+    "taxonomy": "Leafy Green",
+    "origin": "Aballon",
+    "flavor": "The Aballon Lichen-Leaf has a silvery sheen and a mineral taste and a taxonomic status that remains, generously, 'vegetable.'",
+    "fun_facts": [
+      "The Aballon Lichen-Leaf is technically a lichen — a composite organism of fungal and algal components — rather than a vascular plant. It is classified as a vegetable in the Pact Worlds Galactic Culinary Standard solely because it is consumed as a leafy green and because the regulatory committee declined to create a new category for a single organism.",
+      "Aballon is almost entirely covered in mechanical constructs, but in the deep mineral fissures and waste-heat zones of the machine planet's surface, Aballon Lichen-Leaf grows without any assistance from the constructs. It is considered one of the most independently persistent biological organisms in the Pact Worlds, surviving in conditions that would rapidly eliminate almost all other complex life.",
+      "The lichen accumulates titanium compounds from Aballon's machine-processed substrate at levels far above any other edible organism, giving it a distinctive silvery sheen and a unique mineral flavour profile. The titanium content is non-toxic in the quantities present and is, in fact, marketed by some distributors as a nutritional feature.",
+      "The leading theory for how Aballon Lichen-Leaf survives on an essentially machine-covered planet involves waste heat from the First Ones' computational processes providing the thermal energy for metabolic activity — making the lichen a biological dependent of the machine civilisation, metabolically linked to it despite having no contact with or acknowledgement from it.",
+      "The First Ones of Aballon have catalogued the Aballon Lichen-Leaf in their data systems. The purpose of this cataloguing is unknown. Xenosociologists have noted that the machines' decision to record the existence of a biological organism on their homeworld, rather than eradicate it, implies a form of deliberate tolerance. No one has successfully asked them about it."
+    ]
+  },
+  {
+    "name": "Coralsword Leek",
+    "scientific_name": "Allium corallum",
+    "produce_type": "vegetable",
+    "taxonomy": "Allium",
+    "origin": "Kalo-Mahoi (moon of Triaxus)",
+    "flavor": "The Coralsword Leek is a blade of a vegetable — long, sharp-tasting, shaped by a moon's gravity into something that refuses to be small.",
+    "fun_facts": [
+      "The Coralsword Leek grows on Kalo-Mahoi — Triaxus's inhabited moon — where lower gravity and the thin, mineral-rich atmosphere produce stalks that regularly exceed 1.5 metres in length. The tapered, single-bladed form, combined with the stalk's light weight and rigidity in low gravity, gives the plant its name: it resembles nothing so much as a very nutritious sword.",
+      "The sharp mineral taste of the Coralsword Leek is attributed to a high concentration of sulfur-mineral compounds absorbed from Kalo-Mahoi's volcanic soil. The flavour is more intense than conventional leeks and is considered distinctly savoury in a way that lashunta and ryphorian cuisines have each independently developed dedicated culinary traditions around — a rare case of two cultures converging on the same vegetable from different directions.",
+      "Coralsword Leeks are used as building material in addition to food on Kalo-Mahoi. Dried stalks are rigid, lightweight, and resistant to moisture, making them suitable for wall panels and structural elements in the moon's low-gravity habitat structures. Several traditional dwelling types on Kalo-Mahoi incorporate leek-stalk walls as a cultural feature rather than a necessity.",
+      "Kalo-Mahoi's reduced gravity means Coralsword Leeks grow with minimal structural wood tissue — their stalks are largely hollow. When transplanted to standard-gravity environments, they buckle and collapse without support, as the plant has no adaptive mechanism for bearing its own weight at 1G. Attempts to cultivate them in standard-gravity greenhouses require full vertical support frames.",
+      "A sharp-edged tool carved from a dried Coralsword Leek stalk has been used in Kalo-Mahoi folk tradition for minor surgical procedures. The stalk produces a clean edge when split and is naturally antimicrobial due to its mineral content. The practice is no longer medically recommended in areas with access to standard surgical equipment. In remote settlements, the practice persists."
+    ]
+  },
+  {
+    "name": "Zero-G Zucchini",
+    "scientific_name": "Cucurbita nullgravitas",
+    "produce_type": "vegetable",
+    "taxonomy": "Vine Vegetable",
+    "origin": "Absalom Station (agricultural levels)",
+    "flavor": "The Zero-G Zucchini is shaped like a question to which gravity is the answer. You're not sure what question, exactly. Neither is the zucchini.",
+    "fun_facts": [
+      "Zero-G Zucchinis were not intentionally bred. The original zucchini stock planted in Absalom Station's early agricultural levels produced erratically shaped vegetables because partial and variable gravity in certain station sections caused fruit to develop without a consistent orientation. After generations, the irregular form stabilised into a reliable cultivar defined entirely by its unpredictability.",
+      "No two Zero-G Zucchinis are the same shape. Each fruit grows in response to the specific micro-gravitational conditions of its growing spot within the station, producing forms that range from twisted corkscrews to spherical blobs to elongated spirals. The station's culinary community considers this a feature, and the vegetable is described in its official agricultural classification as 'shape indeterminate.'",
+      "The interior flesh of Zero-G Zucchinis is more porous than conventional zucchini because gas pockets accumulate in the developing fruit in non-standard orientations. This porosity makes Zero-G Zucchini exceptionally effective at absorbing marinades and cooking liquids — a quality discovered accidentally and now considered the vegetable's primary culinary advantage.",
+      "Absalom Station's agricultural authority has declined multiple requests to standardise the Zero-G Zucchini's growing conditions. The authority's stated position is that the vegetable's variability is ecologically appropriate to the station's own diverse internal environment, and that standardisation would be contrary to the spirit of station agriculture. The unstated position may involve affection.",
+      "Competitive sculptors on Absalom Station use Zero-G Zucchinis as their medium in an annual art competition called Nullgrav. The rules require that artists shape the vegetable only while it is still growing, by adjusting the micro-gravitational conditions around the developing plant. The discipline requires as much engineering skill as artistic vision, and the judging panel includes both botanists and aestheticians."
+    ]
+  }
+]
