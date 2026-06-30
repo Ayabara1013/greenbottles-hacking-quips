@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Goliath Beetle",
+    "scientific_name": "Goliathus goliatus",
+    "bug_type": "beetle",
+    "origin": "Central Africa",
+    "flavor": "An enormous Goliath Beetle hauls its titanium-plated exoskeleton forward, each footfall leaving tiny craters in the soft earth. You outweigh it. You are not sure you could win a fight.",
+    "fun_facts": [
+      "One of the world's heaviest insects — males reach up to 100g and 11cm in length.",
+      "The larvae can exceed 250g, heavier than many small birds.",
+      "Their horns are used exclusively in combat with other males over feeding sites.",
+      "In their larval stage they require high-protein food, including carrion and dung.",
+      "Adults feed on tree sap and fruit; the larvae are the dangerous ones, diet-wise."
+    ]
+  },
+  {
+    "name": "Hercules Beetle",
+    "scientific_name": "Dynastes hercules",
+    "bug_type": "beetle",
+    "origin": "Central and South America",
+    "flavor": "A Hercules Beetle lumbers into view, its twin horns — one curving up, one curving down — locked in eternal opposition like tectonic plates grinding against each other.",
+    "fun_facts": [
+      "The longest beetle species in the world, reaching up to 17cm including its horn.",
+      "Can lift 850 times its own body weight, making it one of Earth's strongest animals relative to size.",
+      "Males use their enormous horns to grapple with rivals and flip them off branches.",
+      "Their hard wing cases change colour with humidity — from olive-green to black when wet.",
+      "Found in Central and South American rainforests, where they feed on rotting fruit."
+    ]
+  },
+  {
+    "name": "Titan Beetle",
+    "scientific_name": "Titanus giganteus",
+    "bug_type": "beetle",
+    "origin": "Amazon Basin",
+    "flavor": "The Titan Beetle's mandibles could snap a wooden stylus in half. You make a mental note not to let it anywhere near your data cables.",
+    "fun_facts": [
+      "The largest known beetle by body length, reaching 16–17cm without including legs.",
+      "Its larvae have never been found — believed to spend years boring into dead wood before emerging.",
+      "Adults do not eat at all; they live entirely off fat reserves built during the larval stage.",
+      "The mandibles are powerful enough to snap a pencil or cut into a human finger.",
+      "Found only in the Amazon rainforests of Venezuela, Colombia, Ecuador, Peru, and Brazil."
+    ]
+  },
+  {
+    "name": "Rhinoceros Beetle",
+    "scientific_name": "Dynastes tityus",
+    "bug_type": "beetle",
+    "origin": "Eastern North America",
+    "flavor": "The Rhinoceros Beetle rears back, its trident of horns carving the air in a territorial display that suggests it has never lost a fight and has no plans to start.",
+    "fun_facts": [
+      "Males have elaborate horns used for fighting over mates and territory.",
+      "Can carry up to 850 times their body weight on their back.",
+      "Their thick exoskeleton is nearly impossible to puncture without sharp implements.",
+      "The larvae spend up to three years underground feeding on decaying wood.",
+      "They make squeaking sounds by rubbing their abdomen against their wing cases when disturbed."
+    ]
+  },
+  {
+    "name": "Stag Beetle",
+    "scientific_name": "Lucanus cervus",
+    "bug_type": "beetle",
+    "origin": "Western Europe",
+    "flavor": "A Stag Beetle raises its fearsome mandibles — antler-like extensions evolved for one purpose only — then promptly tries to intimidate a pebble. The pebble is unmoved.",
+    "fun_facts": [
+      "Males have enormously enlarged mandibles resembling deer antlers, used for wrestling rival males.",
+      "Despite their intimidating appearance, they are almost entirely harmless to humans.",
+      "One of Europe's largest insects, reaching up to 7.5cm including mandibles.",
+      "Adults live for only a few months, spending the majority of their life as wood-boring larvae.",
+      "Populations have declined sharply due to the removal of old, dead wood from forests."
+    ]
+  },
+  {
+    "name": "Bombardier Beetle",
+    "scientific_name": "Brachinus crepitans",
+    "bug_type": "beetle",
+    "origin": "Europe and North America",
+    "flavor": "The Bombardier Beetle swings its abdomen like a turret and fires a boiling chemical spray with a sound like a tiny gunshot. Chemical warfare, miniaturized and mobile.",
+    "fun_facts": [
+      "Fires a boiling chemical spray from its abdomen at temperatures up to 100°C.",
+      "The spray is produced by mixing two chemical compounds in a special chamber, causing an explosive reaction.",
+      "Can rotate its abdomen almost 270° to aim the spray in nearly any direction.",
+      "A single beetle can fire up to 20 bursts in rapid succession before running dry.",
+      "The spray produces an audible pop and a cloud of vapour, startling predators effectively."
+    ]
+  },
+  {
+    "name": "Jewel Beetle",
+    "scientific_name": "Chrysochroa rajah",
+    "bug_type": "beetle",
+    "origin": "Southeast Asia",
+    "flavor": "The Jewel Beetle's elytra catch the light and fracture it into a dozen impossible colours — evolution producing art as a side effect of camouflage. The colours are not pigment. They are geometry.",
+    "fun_facts": [
+      "Their iridescent wing cases produce colour through structural interference, not pigment — it never fades.",
+      "Some species' elytra have been used in decorative art and jewelry for thousands of years.",
+      "They can detect forest fires from up to 80km away using infrared-sensitive sensory pits.",
+      "Females lay their eggs in freshly burned wood; the larvae feed on the charred timber.",
+      "The metallic colouration may help them absorb or reflect specific wavelengths of light as thermoregulation."
+    ]
+  },
+  {
+    "name": "Dung Beetle",
+    "scientific_name": "Scarabaeus sacer",
+    "bug_type": "beetle",
+    "origin": "Mediterranean and Middle East",
+    "flavor": "The sacred Dung Beetle rolls its sphere with absolute conviction. Ancient civilisations worshipped this behaviour. It is unclear whether that makes it more or less dignified.",
+    "fun_facts": [
+      "Can navigate using the Milky Way — the only known insect to orient by the galaxy.",
+      "Rolls dung balls in a straight line by using the sun, moon, and polarised light as a compass.",
+      "Sacred to ancient Egyptians, who associated them with the god Khepri and solar movement.",
+      "Can roll up to ten times their own body weight.",
+      "Some species live entirely underground, spending their whole lives in dung tunnels, never surfacing."
+    ]
+  },
+  {
+    "name": "Firefly",
+    "scientific_name": "Photinus pyralis",
+    "bug_type": "beetle",
+    "origin": "Eastern North America",
+    "flavor": "A Firefly drifts upward, its abdomen flashing a cold green light — a bioluminescent signal encoded in the language of courtship. You are not the intended recipient.",
+    "fun_facts": [
+      "The light is bioluminescent — nearly 100% of the energy becomes light, with almost no heat waste.",
+      "Each species has a unique flash pattern used by males to attract females of the same species.",
+      "Female dark fireflies mimic the flash patterns of other species to lure and eat their males.",
+      "The light-producing chemical reaction uses an enzyme called luciferase, now vital in medical research.",
+      "Firefly populations have declined sharply due to light pollution disrupting their signals."
+    ]
+  },
+  {
+    "name": "Seven-spot Ladybird",
+    "scientific_name": "Coccinella septempunctata",
+    "bug_type": "beetle",
+    "origin": "Eurasia and North Africa",
+    "flavor": "The Seven-spot Ladybird unfolds wings three times the size of its shell and vanishes. Everything about this creature is an underestimation waiting to happen.",
+    "fun_facts": [
+      "The seven spots serve as a warning to predators — it can secrete a toxic yellow fluid from its legs when threatened.",
+      "A single ladybird can consume up to 5,000 aphids in its lifetime.",
+      "They practice 'reflex bleeding' — releasing haemolymph (toxic blood) from their leg joints when alarmed.",
+      "During winter they cluster together in the hundreds or thousands in sheltered locations.",
+      "Their red-and-black colouration is one of the most universally recognised warning patterns in nature."
+    ]
+  },
+  {
+    "name": "Harlequin Beetle",
+    "scientific_name": "Acrocinus longimanus",
+    "bug_type": "beetle",
+    "origin": "Central and South America",
+    "flavor": "The Harlequin Beetle extends its absurdly long forelegs in what appears to be a formal greeting. They are, in fact, weapons. Many things that look like greetings are.",
+    "fun_facts": [
+      "Males have extraordinarily long front legs used to defend access to females on tree trunks.",
+      "Named for their harlequin-patterned wing cases — red, black, and cream geometric designs.",
+      "Tiny mites often hitch rides on the beetles between host trees — a hitchhiking relationship called phoresy.",
+      "Found in Central and South America, where their larvae develop in decaying fig and rubber trees.",
+      "The long legs are also used to grasp females during mating, sometimes for hours."
+    ]
+  },
+  {
+    "name": "Click Beetle",
+    "scientific_name": "Elateridae",
+    "bug_type": "beetle",
+    "origin": "Worldwide",
+    "flavor": "The Click Beetle lies motionless on its back. Then, with a sound like a snapping switch, it hurls itself three times its own height into the air and lands running.",
+    "fun_facts": [
+      "When on their backs, click beetles snap a spine on their underside against a notch, launching themselves into the air.",
+      "The click can launch them up to 30cm high — equivalent to a human jumping over a four-storey building.",
+      "Some tropical species have bioluminescent spots on their thorax, earning them the nickname 'headlight beetles'.",
+      "The larvae of many species are called wireworms and are considered significant agricultural pests.",
+      "The clicking mechanism can also startle predators when the beetle is picked up."
+    ]
+  },
+  {
+    "name": "Whirligig Beetle",
+    "scientific_name": "Gyrinus natator",
+    "bug_type": "beetle",
+    "origin": "Europe and North America",
+    "flavor": "Whirligig Beetles patrol the water's surface in erratic spirals, hunting by vibration alone. They see above and below simultaneously. They are impossible to sneak up on.",
+    "fun_facts": [
+      "Their eyes are divided into two separate sections — one for seeing above water, one for below.",
+      "They navigate by detecting ripples on the water surface using antennae, creating a sonar-like system.",
+      "They often congregate in swirling groups of hundreds, creating the impression of a single spinning mass.",
+      "They secrete a chemical called gyrinidal which acts as a repellent and defensive secretion.",
+      "Despite their small size (4–8mm), they can move at up to 1 metre per second on the water surface."
+    ]
+  },
+  {
+    "name": "Great Diving Beetle",
+    "scientific_name": "Dytiscus marginalis",
+    "bug_type": "beetle",
+    "origin": "Europe and Northern Asia",
+    "flavor": "The Great Diving Beetle surfaces to replenish its air bubble — a personal scuba tank stored under its wing cases — then dives again to hunt prey larger than itself. It is a very small apex predator.",
+    "fun_facts": [
+      "Stores air beneath its wing cases to breathe while submerged, like a miniature self-contained breathing apparatus.",
+      "One of the most aggressive predators of freshwater ponds, capable of attacking small fish and newts.",
+      "Can fly between ponds at night, colonising isolated water bodies with remarkable speed.",
+      "The larvae are equally voracious and have piercing mouthparts to inject digestive juices into prey.",
+      "Females have grooved wing cases to prevent the male from gripping them too aggressively during mating."
+    ]
+  },
+  {
+    "name": "Oil Beetle",
+    "scientific_name": "Meloe proscarabaeus",
+    "bug_type": "beetle",
+    "origin": "Europe",
+    "flavor": "The Oil Beetle leaks its own blood from its joints as a warning. The blood is poisonous. The beetle knows exactly what it's doing.",
+    "fun_facts": [
+      "Exudes cantharidin — a toxic chemical — from their joints as a defence mechanism called reflex bleeding.",
+      "Their larvae are parasitoids: they hatch and cling to bees visiting flowers, hitching a ride back to nests where they eat the bee's eggs and provisions.",
+      "Adults cannot fly; their wing cases are too small and vestigial.",
+      "The toxic cantharidin has been historically used (dangerously) as an aphrodisiac and vesicant.",
+      "Females can lay up to 10,000 eggs in a season, compensating for the low probability any individual larva will find a host bee."
+    ]
+  },
+  {
+    "name": "Glow-worm",
+    "scientific_name": "Lampyris noctiluca",
+    "bug_type": "beetle",
+    "origin": "Europe",
+    "flavor": "The female Glow-worm clings to a grass stem, her abdomen lit from within like a green lantern, broadcasting across the dark. She does not move. The males must find her.",
+    "fun_facts": [
+      "Only the females are bioluminescent; males are dull brown and can fly, while females are wingless.",
+      "The cold, green light is produced using the enzyme luciferase with almost no heat output.",
+      "Females glow for only a few hours each night during mating season, then stop once mated.",
+      "Adults don't eat — they live only to mate. Larvae, however, are voracious hunters of snails.",
+      "UK populations have declined over 75% in the last 25 years due to light pollution and habitat loss."
+    ]
+  },
+  {
+    "name": "Violet Ground Beetle",
+    "scientific_name": "Carabus violaceus",
+    "bug_type": "beetle",
+    "origin": "Europe",
+    "flavor": "The Violet Ground Beetle emerges from beneath a stone like a tiny armoured knight, its elytra sheened violet in the morning light. It has been hunting since before dawn. It will hunt until after dark.",
+    "fun_facts": [
+      "One of Britain's most striking beetles, with a deep violet-bronze iridescence on its wing cases.",
+      "A fast-running predator that hunts at night, pursuing slugs, worms, and other invertebrates.",
+      "Completely flightless — its wing cases are fused permanently shut.",
+      "Can live for several years, an unusually long lifespan for a ground beetle.",
+      "Sensitive to habitat disturbance; their presence is often used as an indicator of healthy ecosystems."
+    ]
+  },
+  {
+    "name": "European Spruce Bark Beetle",
+    "scientific_name": "Ips typographus",
+    "bug_type": "beetle",
+    "origin": "Europe and Asia",
+    "flavor": "The Spruce Bark Beetle is 5mm long, engineers complex pheromone signals to coordinate mass attacks on trees, and has reshaped entire forests. Size is irrelevant. Coordination is everything.",
+    "fun_facts": [
+      "Mass outbreaks can kill millions of trees, reshaping entire forest ecosystems.",
+      "Tunnels beneath bark create intricate gallery patterns used by entomologists to identify species.",
+      "Communicates via pheromones to coordinate mass attacks on trees, overwhelming tree defences.",
+      "Regarded as a pest but plays an important ecological role in forest succession.",
+      "Climate change is extending their range and the length of their breeding seasons significantly."
+    ]
+  },
+  {
+    "name": "Devil's Coach-Horse",
+    "scientific_name": "Staphylinus olens",
+    "bug_type": "beetle",
+    "origin": "Europe",
+    "flavor": "The Devil's Coach-Horse raises its abdomen like a scorpion and opens its jaws. It cannot sting. It knows this. It is bluffing. You do not know this.",
+    "fun_facts": [
+      "When threatened, it curls its abdomen upward like a scorpion and opens its large mandibles.",
+      "Cannot sting, but can bite painfully and release a foul-smelling defensive secretion.",
+      "Associated with devil folklore throughout Europe — historically thought to be an omen of bad luck.",
+      "One of the largest rove beetles in Europe, reaching up to 3cm.",
+      "Feeds on slugs, worms, and carrion; a useful predator in garden ecosystems."
+    ]
+  },
+  {
+    "name": "Colorado Potato Beetle",
+    "scientific_name": "Leptinotarsa decemlineata",
+    "bug_type": "beetle",
+    "origin": "North America",
+    "flavor": "The Colorado Potato Beetle has defeated DDT, dieldrin, and fifty-seven other insecticides. It is evolving faster than you can keep up. Perhaps it is the one doing the hacking.",
+    "fun_facts": [
+      "Has developed resistance to over 50 different insecticides — more than any other agricultural pest on record.",
+      "Native to North America; spread to Europe in the 20th century, devastating potato crops.",
+      "Can fly hundreds of kilometres in a single season to find new feeding grounds.",
+      "Produces a chemical in its saliva that suppresses plant defence responses.",
+      "Its rapid resistance development has forced the rotation of entirely new classes of insecticide generation after generation."
+    ]
+  },
+  {
+    "name": "Death's Head Hawkmoth",
+    "scientific_name": "Acherontia atropos",
+    "bug_type": "moth",
+    "origin": "Africa and Europe",
+    "flavor": "The skull on the Death's Head Hawkmoth's thorax is not a coincidence. Evolution sculpted it over millions of years to look exactly like this. You find this deeply unsettling. That is the entire point.",
+    "fun_facts": [
+      "Bears a striking skull-shaped marking on its thorax, inspiring centuries of superstition and folklore.",
+      "Can squeak loudly by forcing air through its proboscis — one of very few insects to produce vocal sounds.",
+      "Breaks into beehives and steals honey — it is immune to bee stings and can mimic bee pheromones.",
+      "One of the world's largest moths, with a wingspan of up to 13cm.",
+      "Featured memorably in the novel and film Silence of the Lambs."
+    ]
+  },
+  {
+    "name": "Atlas Moth",
+    "scientific_name": "Attacus atlas",
+    "bug_type": "moth",
+    "origin": "Southeast Asia",
+    "flavor": "The Atlas Moth has no mouth. It lives only to reproduce, spending its entire adult existence running down reserves built during years as a caterpillar. Time is precious. It cannot eat.",
+    "fun_facts": [
+      "One of the world's largest moths, with a wingspan of up to 25–30cm.",
+      "Adults have no mouths and cannot eat — they survive entirely on fat reserves from their larval stage, living for only 1–2 weeks.",
+      "The tips of their wings resemble snake heads — thought to deter predators.",
+      "In Taiwan, their large, durable cocoons have historically been used as small purses.",
+      "The caterpillar can squirt a defensive chemical from its neck glands if disturbed."
+    ]
+  },
+  {
+    "name": "Luna Moth",
+    "scientific_name": "Actias luna",
+    "bug_type": "moth",
+    "origin": "North America",
+    "flavor": "The Luna Moth glows pale green in the darkness — a nocturnal apparition whose long, sweeping tails confuse bat echolocation. Beautiful and tactical.",
+    "fun_facts": [
+      "Its long trailing tails spiral in flight, disrupting the echolocation of hunting bats.",
+      "Adults live for only about one week and do not eat at all — they have no mouths.",
+      "The pale green colouration provides excellent camouflage among leaves during the day.",
+      "Found only in North America; populations have declined due to light pollution and pesticides.",
+      "The cocoon is wrapped in dried leaves, making it nearly impossible to spot on the forest floor."
+    ]
+  },
+  {
+    "name": "Monarch Butterfly",
+    "scientific_name": "Danaus plexippus",
+    "bug_type": "butterfly",
+    "origin": "North America",
+    "flavor": "The Monarch Butterfly migrates 4,500 kilometres across a continent. Its great-grandchildren will complete the return journey. It leaves a chemical trail no GPS can replicate.",
+    "fun_facts": [
+      "Migrates up to 4,500km from Canada to central Mexico each autumn — the longest insect migration known.",
+      "Uses a time-compensated sun compass to navigate, adjusting for the movement of the sun throughout the day.",
+      "The specific overwintering trees in Mexico were only discovered by scientists in 1976.",
+      "Their toxic body chemistry, gained from eating milkweed as larvae, is retained even after metamorphosis.",
+      "Up to five generations are born and die during the northward summer migration; only the last generation returns south."
+    ]
+  },
+  {
+    "name": "Blue Morpho",
+    "scientific_name": "Morpho menelaus",
+    "bug_type": "butterfly",
+    "origin": "Central and South America",
+    "flavor": "The Blue Morpho's wings produce no blue pigment. The colour is a structural illusion — light scattered by microscopic scales. It is not blue. It appears blue. There is a difference.",
+    "fun_facts": [
+      "The brilliant blue colour is produced by nanostructures on wing scales that scatter specific wavelengths of light.",
+      "The colour can be seen from a quarter of a mile away, and the wings seem to flash as they flap.",
+      "Females are brown and green — far more camouflaged than the flamboyant males.",
+      "Wing-scale structures are being studied for applications in optical technology and anti-counterfeit devices.",
+      "The underside of the wings is brown with eyespots — providing camouflage when the butterfly is at rest."
+    ]
+  },
+  {
+    "name": "Glasswing Butterfly",
+    "scientific_name": "Greta oto",
+    "bug_type": "butterfly",
+    "origin": "Central America",
+    "flavor": "The Glasswing Butterfly's wings are transparent. Not patterned, not tinted — transparent. You can read text through them. They are camouflaged by being simply impossible to see.",
+    "fun_facts": [
+      "Wing membranes are almost entirely clear — transparency is achieved by the absence of scales in those areas.",
+      "The transparency makes them nearly invisible in flight against complex backgrounds like foliage.",
+      "Males gather at specific forest locations to produce pheromones from chemical compounds absorbed as larvae.",
+      "Found in Central America; the opaque wing borders provide just enough patterning to disrupt silhouette recognition.",
+      "The male collects alkaloids from plants to produce pheromones that attract females."
+    ]
+  },
+  {
+    "name": "Owl Butterfly",
+    "scientific_name": "Caligo memnon",
+    "bug_type": "butterfly",
+    "origin": "Central and South America",
+    "flavor": "The Owl Butterfly's enormous eyespot stares at you from the wing surface. Your threat-response system processes it as a predator before you can consciously decide otherwise.",
+    "fun_facts": [
+      "The massive eyespots on their wings mimic owl eyes at remarkably close range.",
+      "When at rest with wings closed, the eyespots are positioned at the exact height of a perching owl.",
+      "Despite their large size (wingspan up to 20cm), they are surprisingly difficult to spot among dead leaves.",
+      "They are crepuscular — active at dawn and dusk when light levels make their eyespots most effective.",
+      "The caterpillars feed on banana and related plants, making them an occasional orchard pest."
+    ]
+  },
+  {
+    "name": "Peacock Butterfly",
+    "scientific_name": "Aglais io",
+    "bug_type": "butterfly",
+    "origin": "Europe and Asia",
+    "flavor": "The Peacock Butterfly flicks its wings open to reveal four enormous false eyes. Even knowing it is a butterfly, even knowing this, your brain flinches.",
+    "fun_facts": [
+      "The four large eyespots on the wings mimic the faces of owls or other predators when suddenly revealed.",
+      "Also makes a hissing sound by rubbing its wings together while displaying the eyespots.",
+      "Adults overwinter in sheltered spots — hollow trees, garages, sheds — and can live up to 11 months.",
+      "One of the most resilient European butterflies, capable of surviving in most habitats with flowers.",
+      "Caterpillars feed communally on nettles in a shared silk tent before dispersing to pupate."
+    ]
+  },
+  {
+    "name": "Queen Alexandra's Birdwing",
+    "scientific_name": "Ornithoptera alexandrae",
+    "bug_type": "butterfly",
+    "origin": "Papua New Guinea",
+    "flavor": "The Queen Alexandra's Birdwing is so large it was first collected using a shotgun. This says something simultaneously about Victorian science and Victorian restraint.",
+    "fun_facts": [
+      "The world's largest butterfly, with a wingspan of up to 25–28cm in females.",
+      "So large when first discovered in 1906 that it was shot out of the sky for collection.",
+      "Found only in a small area of Papua New Guinea; critically endangered.",
+      "Strictly protected — trade in specimens is illegal worldwide, but black market skins command extremely high prices.",
+      "Feeds as a larva on a toxic vine, Aristolochia schlechteri, making adults unpalatable to predators."
+    ]
+  },
+  {
+    "name": "Madagascan Sunset Moth",
+    "scientific_name": "Chrysiridia rhipheus",
+    "bug_type": "moth",
+    "origin": "Madagascar",
+    "flavor": "The Madagascan Sunset Moth wears structural colours that shift as you move around it — red bleeding to green bleeding to blue. It is considered the most beautiful moth in the world. The title is contested by no one.",
+    "fun_facts": [
+      "Often considered the world's most beautiful moth; its wings display spectacular iridescent structural colours.",
+      "Like the Blue Morpho, the colours are structural rather than pigment-based — caused by light interference in thin-film layers.",
+      "Migrates seasonally across Madagascar, following the availability of its host plant Omphalea.",
+      "Historically mistaken for a butterfly due to its day-flying habits and brilliant colouration.",
+      "The colours look different from different angles — a property exploited in anti-counterfeiting research."
+    ]
+  },
+  {
+    "name": "Hummingbird Hawk-moth",
+    "scientific_name": "Macroglossum stellatarum",
+    "bug_type": "moth",
+    "origin": "Southern Europe and North Africa",
+    "flavor": "The Hummingbird Hawk-moth hovers in place, its wings invisible with speed, drawing nectar with a proboscis longer than its body. It looks like a hummingbird. It is not a hummingbird.",
+    "fun_facts": [
+      "Hovers in front of flowers and feeds with a long proboscis, looking almost identical to a hummingbird.",
+      "Capable of sustained hover flight due to an extremely high wingbeat rate — remarkable in the insect world.",
+      "Can accurately remember individual flowers and the time they refresh nectar, returning at precise intervals.",
+      "Migrates annually from southern Europe and North Africa to northern Europe.",
+      "Its distinctive hovering behaviour has inspired repeated reports of hummingbirds in the UK."
+    ]
+  },
+  {
+    "name": "Io Moth",
+    "scientific_name": "Automeris io",
+    "bug_type": "moth",
+    "origin": "North America",
+    "flavor": "When threatened, the Io Moth flicks its forewings forward to reveal two enormous yellow-and-black eyespots. Your startle reflex is 180 million years old. It works.",
+    "fun_facts": [
+      "Large hindwing eyespots are suddenly revealed when the moth is disturbed, startling predators.",
+      "The caterpillars are covered in venomous spines — contact causes an immediate burning sensation.",
+      "Males have feathery antennae for detecting female pheromones from up to several kilometres away.",
+      "One of the most striking North American moths, with a wingspan of 5–8cm.",
+      "The eyespots are thought to mimic the eyes of a vertebrate predator to intimidate smaller ones."
+    ]
+  },
+  {
+    "name": "Sphinx Moth",
+    "scientific_name": "Manduca sexta",
+    "bug_type": "moth",
+    "origin": "North and Central America",
+    "flavor": "The Sphinx Moth extends a proboscis 30cm long and threads it into the throat of a flower evolved specifically to receive it. This arrangement took thirty million years to perfect.",
+    "fun_facts": [
+      "Some species have proboscises over 30cm long, co-evolved with flowers of equivalent depth.",
+      "Charles Darwin predicted the existence of a long-tongued moth after discovering a Madagascan orchid with an exceptionally deep nectary — it was confirmed 21 years after his death.",
+      "The tobacco hornworm — the Sphinx Moth's larva — is a major agricultural pest of tobacco and tomatoes.",
+      "Capable of learning to associate specific odours with food rewards, demonstrating insect memory.",
+      "Can hover with great precision in virtually any wind condition, including moderate rain."
+    ]
+  },
+  {
+    "name": "Comet Moth",
+    "scientific_name": "Argema mittrei",
+    "bug_type": "moth",
+    "origin": "Madagascar",
+    "flavor": "The Comet Moth's tail-streamers trail 20cm behind its body in flight, catching the wind like the tail of a... well. Like the tail of a comet.",
+    "fun_facts": [
+      "One of the world's largest silk moths, native to Madagascar, with tail-streamers up to 20cm long.",
+      "Adults have no mouths and do not eat — they live 4–5 days, long enough only to find a mate.",
+      "The cocoon is peppered with small holes that allow rainwater to drain — an elegant structural adaptation.",
+      "The silk from their cocoons is considered luxurious but is too difficult to produce commercially at scale.",
+      "Males are attracted to females across large distances using extremely sensitive feathery antennae."
+    ]
+  },
+  {
+    "name": "Rosy Maple Moth",
+    "scientific_name": "Dryocampa rubicunda",
+    "bug_type": "moth",
+    "origin": "Eastern North America",
+    "flavor": "The Rosy Maple Moth is pink and yellow, soft as a toy, and looks exactly like something invented for a children's cartoon. It is a real animal. Evolution did not get the memo about subtlety.",
+    "fun_facts": [
+      "One of the most colourful moths in North America, with shocking pink and yellow colouration.",
+      "The bright colouration is thought to warn predators of its unpalatable body chemistry.",
+      "One of the smaller silk moths but arguably the most visually striking North American species.",
+      "Larvae are called 'greenstriped mapleworms' and feed on maple and oak trees.",
+      "Adults have a reduced proboscis and rarely feed; they rely on fat reserves from the larval stage."
+    ]
+  },
+  {
+    "name": "Leafcutter Ant",
+    "scientific_name": "Atta cephalotes",
+    "bug_type": "ant",
+    "origin": "Central and South America",
+    "flavor": "Leafcutter Ants carry pieces of leaf above their heads along trails six metres wide and half a kilometre long. They are not building something. They are farming something. They have been doing this for 50 million years.",
+    "fun_facts": [
+      "Do not eat the leaves they carry — they use them as compost to grow a specific fungus that is their only food source.",
+      "Colonies can contain up to eight million individuals, with highly specialised castes.",
+      "The fungus they cultivate has co-evolved with the ants for 50 million years and exists nowhere in nature.",
+      "Their underground farms can reach 8 metres deep and cover 600 square metres.",
+      "The chemical pheromone trails guiding their paths can be detected by other ants several metres away."
+    ]
+  },
+  {
+    "name": "Army Ant",
+    "scientific_name": "Eciton burchellii",
+    "bug_type": "ant",
+    "origin": "Central and South America",
+    "flavor": "The Army Ant colony is two million soldiers with no fixed address. The colony IS the structure. Living bridges. Living rafts. They are a superorganism in the most literal sense.",
+    "fun_facts": [
+      "Nomadic — no permanent nest. The colony bivouacs as a living mass, linking bodies together to form structures.",
+      "Can form living bridges spanning large gaps, and living rafts to survive floods.",
+      "Up to 2 million individuals move together in swarm raids, consuming everything in their path.",
+      "Worker ants link their own bodies using claws and adhesive pads to form stable architectural structures.",
+      "The swarm generates so much metabolic heat it creates its own microclimate."
+    ]
+  },
+  {
+    "name": "Bullet Ant",
+    "scientific_name": "Paraponera clavata",
+    "bug_type": "ant",
+    "origin": "Central and South America",
+    "flavor": "The Bullet Ant delivers the most painful sting of any insect on Earth. The Schmidt Index describes it as 'pure, intense, brilliant pain... like walking over flaming charcoal with a nail embedded in your heel.' This is the scientific literature being poetic.",
+    "fun_facts": [
+      "Delivers the most painful insect sting in the world according to the Schmidt Sting Pain Index, rated 4+ (the maximum).",
+      "Pain lasts for 24 hours in waves of throbbing, burning agony.",
+      "In some Amazonian rites of passage, initiates must wear gloves containing hundreds of live bullet ants for ten minutes.",
+      "Named for the pain, which is described as comparable to being shot.",
+      "Colonies are relatively small (a few hundred workers) compared to many other ant species."
+    ]
+  },
+  {
+    "name": "Carpenter Bee",
+    "scientific_name": "Xylocopa violacea",
+    "bug_type": "bee",
+    "origin": "Europe and Asia",
+    "flavor": "The Carpenter Bee bores a perfect circular tunnel into a wooden beam. The sound it makes is a perfect buzz at a frequency guaranteed to dislodge pollen. Everything about this animal is precisely calibrated.",
+    "fun_facts": [
+      "Bores perfectly circular tunnels into wood to create nests — can cause significant structural damage over time.",
+      "Uses 'buzz pollination' — vibrating at exactly the right frequency to shake pollen from certain flowers.",
+      "Males are territorial and hover aggressively, but cannot sting. Only females can sting, and rarely do.",
+      "Different from bumblebees — their abdomen is glossy black and mostly hairless.",
+      "Some species share a burrow system with siblings for several generations."
+    ]
+  },
+  {
+    "name": "Orchid Bee",
+    "scientific_name": "Eulaema meriana",
+    "bug_type": "bee",
+    "origin": "Central and South America",
+    "flavor": "The male Orchid Bee collects aromatic compounds from orchids, resins, fungi, and decaying matter — blending them into a unique personal fragrance to attract females. He is, essentially, mixing a bespoke cologne.",
+    "fun_facts": [
+      "Male orchid bees are the sole pollinators of many neotropical orchid species.",
+      "Males collect aromatic compounds from various sources and store them in specialised leg pouches.",
+      "The unique blend of scents is used in courtship displays to attract females.",
+      "Orchids that rely on orchid bees offer no nectar — they attract them solely with the chemicals males want to collect.",
+      "The co-evolutionary relationship between orchid bees and their orchids is so specific that each orchid often has only one or two bee species that can pollinate it."
+    ]
+  },
+  {
+    "name": "Bumblebee",
+    "scientific_name": "Bombus terrestris",
+    "bug_type": "bee",
+    "origin": "Europe",
+    "flavor": "The Bumblebee is, aerodynamically, a very bad design. It does not know this. It flies anyway, with complete disregard for the relevant physics.",
+    "fun_facts": [
+      "The myth that bumblebees 'shouldn't be able to fly' was based on a simplified aerodynamic model — modern understanding shows they use unsteady aerodynamics with figure-eight wing strokes.",
+      "Can fly in far colder temperatures than other bees, using large flight muscles as a biological heater.",
+      "Queens start colonies alone each spring, raising the first generation of workers without any help.",
+      "In emergencies, a bumblebee can deliberately regulate its own body temperature.",
+      "Many bumblebee species are now endangered due to habitat loss, pesticides, and disease."
+    ]
+  },
+  {
+    "name": "Tarantula Hawk Wasp",
+    "scientific_name": "Pepsis grossa",
+    "bug_type": "wasp",
+    "origin": "Americas and Asia",
+    "flavor": "The Tarantula Hawk Wasp paralyses a spider the size of your hand with a single sting, then buries it alive as a food source for its larva. The spider remains alive for weeks. This is described, in the scientific literature, as 'a gruesome end.'",
+    "fun_facts": [
+      "Rated second most painful insect sting in the world — the Schmidt Index describes it as 'blinding, fierce, and shockingly electric.'",
+      "Hunts tarantulas by flipping them onto their back and injecting a paralysing venom.",
+      "The paralysed tarantula is then buried alive with a single wasp egg laid on its body.",
+      "The larva consumes the still-living spider over several weeks, avoiding vital organs to keep it alive as long as possible.",
+      "Adults feed entirely on plant nectar despite their fearsome reputation."
+    ]
+  },
+  {
+    "name": "Jewel Wasp",
+    "scientific_name": "Ampulex compressa",
+    "bug_type": "wasp",
+    "origin": "Africa, South Asia, and Southeast Asia",
+    "flavor": "The Jewel Wasp injects venom into the specific neurons controlling escape behaviour in a cockroach. The cockroach becomes docile. The wasp then leads it back to a burrow by the antenna stump. The cockroach follows. It does not know why.",
+    "fun_facts": [
+      "Injects venom into two precise locations in a cockroach's brain — first blocking the escape reflex, then inducing passive grooming behaviour.",
+      "After controlling the cockroach, the wasp leads it by the antenna stump to a burrow and seals it inside with an egg.",
+      "The cockroach remains alive but pacified, while the larva consumes it over several days.",
+      "The venom targets the specific neurotransmitter systems controlling voluntary movement.",
+      "Shimmering metallic green and red colouration makes it one of the most visually striking wasps in the world."
+    ]
+  },
+  {
+    "name": "Velvet Ant",
+    "scientific_name": "Dasymutilla occidentalis",
+    "bug_type": "wasp",
+    "origin": "Eastern North America",
+    "flavor": "The Velvet Ant is not an ant. It is a wingless female wasp with dense red and black hair. Its sting is rated among the most painful of any insect. It is called the Cow Killer. This is considered light hyperbole.",
+    "fun_facts": [
+      "Despite the name, velvet ants are actually wasps — wingless females mimic ants in appearance.",
+      "Their sting is rated 3 out of 4 on the Schmidt Pain Index, described as 'explosive and long lasting.'",
+      "Their exoskeleton is remarkably thick and tough — they can survive being stepped on.",
+      "Parasitise the underground nests of bumblebees, laying eggs on their hosts' larvae.",
+      "Males have wings but cannot sting; females are wingless but have a stinger nearly half their body length."
+    ]
+  },
+  {
+    "name": "Asian Giant Hornet",
+    "scientific_name": "Vespa mandarinia",
+    "bug_type": "wasp",
+    "origin": "East and Southeast Asia",
+    "flavor": "The Asian Giant Hornet reaches 5cm in length. A group of thirty can destroy a colony of thirty thousand honey bees in ninety minutes. They decapitate the bees and take the larvae as food. They are very good at what they do.",
+    "fun_facts": [
+      "The world's largest hornet, reaching up to 5cm in length with a wingspan of 7.5cm.",
+      "A small group can destroy a honey bee colony in hours — they decapitate the bees and take the larvae.",
+      "Their sting delivers a large dose of venom including mandaratoxin, which damages human tissue directly.",
+      "Japanese honey bees have evolved a defence: they mob individual hornets and vibrate until the temperature kills the hornet but not the bees.",
+      "Multiple stings can cause organ failure in humans; they cause several dozen deaths in Japan annually."
+    ]
+  },
+  {
+    "name": "Paper Wasp",
+    "scientific_name": "Polistes dominula",
+    "bug_type": "wasp",
+    "origin": "Europe and North America",
+    "flavor": "Paper Wasps build their nests by chewing wood into pulp and applying it, layer by layer, in a process that humans would not independently invent for several more million years. The hexagonal cells are precise to less than a millimetre.",
+    "fun_facts": [
+      "Construct hexagonal paper cells by chewing plant fibres, mixing them with saliva, and applying them in layers.",
+      "Hexagonal cells are structurally optimal — they use the least material to enclose the greatest volume with the greatest strength.",
+      "Can recognise individual faces within their colony — one of very few invertebrates capable of facial recognition.",
+      "Engage in dominance hierarchies within their colonies, with dominant females doing less foraging.",
+      "Workers can detect chemical signals indicating the colony's status and adjust behaviour accordingly."
+    ]
+  },
+  {
+    "name": "Honey Bee",
+    "scientific_name": "Apis mellifera",
+    "bug_type": "bee",
+    "origin": "Africa and Europe",
+    "flavor": "Honey Bees communicate the precise location, distance, and quality of a food source by dancing. They dance the distance in seconds, the direction as an angle to the sun, and the quality in vigour. It is a language. It has been fully decoded.",
+    "fun_facts": [
+      "The waggle dance communicates both distance (dance duration) and direction (angle relative to the sun) to a food source.",
+      "A hive contains between 50,000 and 80,000 individual bees working as a single superorganism.",
+      "A single bee visits up to 1,500 flowers to produce one drop of honey, flying the equivalent of three Earth circumferences in a lifetime.",
+      "Bees can recognise human faces and have been shown to demonstrate pessimistic cognitive bias when stressed.",
+      "Colony Collapse Disorder — the sudden disappearance of worker bees from hives — has affected colonies globally since 2006, with causes only partially understood."
+    ]
+  },
+  {
+    "name": "Robber Fly",
+    "scientific_name": "Asilidae",
+    "bug_type": "fly",
+    "origin": "Worldwide",
+    "flavor": "The Robber Fly intercepts prey in mid-air, injects paralysing saliva, and consumes it while still flying. It is the fastest hunting strike in the insect world. It does not miss often.",
+    "fun_facts": [
+      "One of the fastest hunters in the insect world, capable of catching prey in mid-air at high speed.",
+      "Inject a paralysing neurotoxin through a short proboscis before consuming their prey.",
+      "Their vision is among the best in the insect world — they can spot prey from several metres away.",
+      "Hunt bees, wasps, dragonflies, and other large insects, often targeting prey larger than themselves.",
+      "Some species are convincing mimics of bumblebees, reducing the chance of predation by predator avoidance."
+    ]
+  },
+  {
+    "name": "Crane Fly",
+    "scientific_name": "Tipula oleracea",
+    "bug_type": "fly",
+    "origin": "Europe and North America",
+    "flavor": "The Crane Fly's legs detach at the slightest touch — a deliberate autotomy. You have broken something. You have also set it free. These are not mutually exclusive.",
+    "fun_facts": [
+      "Long, fragile legs detach easily as a predator-confusion mechanism — the detached leg continues to twitch.",
+      "Adults do not eat; many species have vestigial or absent mouthparts and exist solely to reproduce.",
+      "The larvae ('leatherjackets') live underground and are significant agricultural pests, feeding on plant roots.",
+      "Despite popular belief, they cannot sting — they have no stingers and no venom.",
+      "Some species swarm in enormous masses, occasionally filling rooms when they enter through open windows."
+    ]
+  },
+  {
+    "name": "Human Bot Fly",
+    "scientific_name": "Dermatobia hominis",
+    "bug_type": "fly",
+    "origin": "Central and South America",
+    "flavor": "The Human Bot Fly does not lay its eggs directly. It captures a mosquito, glues its eggs to the mosquito's body, and waits. When the mosquito lands on a warm-blooded host, the eggs hatch from the warmth. You are the host. The mosquito was the delivery system.",
+    "fun_facts": [
+      "Uses mosquitoes (and other biting flies) as 'taxis' — cementing eggs to them for delivery to warm-blooded hosts.",
+      "Larvae develop beneath the skin, breathing through a small hole they maintain in the surface.",
+      "Larvae can live under the skin for up to ten weeks before emerging to pupate in soil.",
+      "Removing the larvae must be done carefully to avoid rupturing them; a traditional method covers the breathing hole with petroleum jelly to suffocate and draw out the larva.",
+      "Despite their disturbing lifestyle, healthy humans almost never suffer serious harm from the infestation."
+    ]
+  },
+  {
+    "name": "Bee Fly",
+    "scientific_name": "Bombylius major",
+    "bug_type": "fly",
+    "origin": "Europe, Asia, and North America",
+    "flavor": "The Bee Fly is not a bee. It is a fly, hovering at flowers on wings too fast to see, trailing a long proboscis held outstretched ahead of it. It is a convincing performance, if you don't look too hard.",
+    "fun_facts": [
+      "Mimics bumblebees in appearance and flight behaviour as a defence against predators.",
+      "Despite hovering at flowers and appearing to feed, the proboscis is often held extended without being inserted into the flower.",
+      "Larvae are parasitoids of ground-nesting bees — the female fly deposits eggs near burrows by flicking them with her abdomen while flying past.",
+      "Found on every continent except Antarctica.",
+      "Can hover with remarkable precision, barely moving despite the wind."
+    ]
+  },
+  {
+    "name": "Black Soldier Fly",
+    "scientific_name": "Hermetia illucens",
+    "bug_type": "fly",
+    "origin": "Worldwide (tropical and subtropical)",
+    "flavor": "The Black Soldier Fly's larvae can process a kilogram of organic waste in 24 hours. By dry weight, they are a better protein source than beef. They are becoming a serious candidate for the future of sustainable food production. They are maggots.",
+    "fun_facts": [
+      "Larvae can convert organic waste (food scraps, manure) into high-protein biomass at remarkable speed.",
+      "Contain 40% protein and 30% fat by dry weight — highly nutritious as animal feed.",
+      "Being developed commercially worldwide as a sustainable protein source for poultry, fish, and potentially humans.",
+      "Adults do not eat at all; they live only a few days, long enough to mate.",
+      "Larvae actively suppress populations of common house flies by competing for breeding substrate."
+    ]
+  },
+  {
+    "name": "Horsefly",
+    "scientific_name": "Tabanus bovinus",
+    "bug_type": "fly",
+    "origin": "Europe and Asia",
+    "flavor": "The Horsefly's bite removes a small disc of skin with serrated mouthparts that operate like a miniature cutting tool. This is why it hurts more than a mosquito bite. It is getting a tissue sample.",
+    "fun_facts": [
+      "Uses scissor-like mouthparts to cut skin and lap up blood — not a piercing bite like a mosquito.",
+      "Only females bite; they require blood protein to mature their eggs.",
+      "Can fly at up to 90kph in short bursts — among the fastest flying insects.",
+      "Persistent trackers — once targeted, they follow a host for considerable distances before giving up.",
+      "Eyes are iridescent and extraordinarily large, giving them nearly 360° vision."
+    ]
+  },
+  {
+    "name": "Marmalade Hoverfly",
+    "scientific_name": "Episyrphus balteatus",
+    "bug_type": "fly",
+    "origin": "Europe and Asia",
+    "flavor": "The Marmalade Hoverfly is striped yellow and black. It can neither sting nor bite. It has evolved this appearance entirely as a bluff, exploiting the learned avoidance response of every predator that has ever encountered a wasp. It is an invertebrate con artist.",
+    "fun_facts": [
+      "Yellow-and-black warning colouration mimics wasps to deter predators, despite being completely harmless.",
+      "One of the most important pollinators in Europe, often undervalued in comparison to bees.",
+      "Can perform extended hovering at a fixed point in space with extraordinary precision.",
+      "Migrates hundreds of kilometres seasonally — a fact only recently discovered.",
+      "Larvae of many species are beneficial predators of aphids; each larva consumes hundreds before pupating."
+    ]
+  },
+  {
+    "name": "Cave Glow-worm",
+    "scientific_name": "Arachnocampa luminosa",
+    "bug_type": "fly",
+    "origin": "New Zealand and Australia",
+    "flavor": "The Cave Glow-worm larva produces bioluminescent light, builds curtains of sticky silk snares, and hunts insects attracted to the glow. It is a predator that uses light as bait. In the darkness of the cave, it is the only light there is.",
+    "fun_facts": [
+      "Not a true glow-worm — it is the larva of a fungus gnat, Arachnocampa luminosa.",
+      "Builds curtains of sticky silk threads illuminated by bioluminescence to catch prey attracted to the light.",
+      "The famous Waitomo Caves in New Zealand are named for these creatures — thousands line the cave ceiling.",
+      "The bioluminescent larvae of large cave-dwelling aggregations can produce enough light to read by.",
+      "Produces light continuously for months — not in flashes but in a steady, cold blue-green glow."
+    ]
+  },
+  {
+    "name": "Giant Water Bug",
+    "scientific_name": "Lethocerus americanus",
+    "bug_type": "bug",
+    "origin": "North America",
+    "flavor": "The Giant Water Bug is 12cm long, can fly, and injects digestive enzymes into prey to liquify it before consuming the resulting slurry. It has eaten frogs, fish, snakes, and small turtles. It is called the 'toe biter' and this is a complete understatement.",
+    "fun_facts": [
+      "Injects powerful digestive enzymes into prey, liquifying internal tissues which are then sucked out.",
+      "Capable of preying on vertebrates many times its own size, including frogs, small fish, and small snakes.",
+      "Despite living in water, they can fly and migrate between water bodies at night.",
+      "Males carry eggs on their backs until hatching — one of the few examples of male-only parental care in insects.",
+      "Considered a culinary delicacy in Southeast Asia, with a strong, fruity scent from pheromone glands."
+    ]
+  },
+  {
+    "name": "Water Strider",
+    "scientific_name": "Gerris lacustris",
+    "bug_type": "bug",
+    "origin": "Europe and North America",
+    "flavor": "The Water Strider walks on water using surface tension distributed across hydrophobic leg hairs so fine they trap a layer of air. It has never once considered whether this should be possible.",
+    "fun_facts": [
+      "Stand on water using water-repellent leg hairs that trap microscopic air bubbles, distributing weight across surface tension.",
+      "Can detect ripples on the water surface to locate prey and communicate with other striders.",
+      "Move across water at speeds up to 1.5 metres per second.",
+      "Some coastal species can survive on the open ocean — the only insects known to live on the sea surface.",
+      "During mating, males threaten to create ripples that attract predators unless females cooperate — a form of sexual coercion unique to this group."
+    ]
+  },
+  {
+    "name": "Assassin Bug",
+    "scientific_name": "Platymeris rhadamanthus",
+    "bug_type": "bug",
+    "origin": "Sub-Saharan Africa",
+    "flavor": "The Assassin Bug ambushes prey, drives its beak through the exoskeleton, and injects saliva that simultaneously paralyses, kills, and begins digestion. It then consumes the liquified remains. The name is accurate.",
+    "fun_facts": [
+      "Pierces prey with a powerful rostrum (beak), injecting a complex saliva that kills and pre-digests.",
+      "Many species ambush prey by remaining motionless for long periods, striking with remarkable speed.",
+      "Some species coat themselves in the shed skins of their prey, possibly for camouflage or chemical disguise.",
+      "The bite is excruciatingly painful to humans and can cause long-lasting inflammatory reactions.",
+      "Reduviid bugs include vectors of Chagas disease, a serious illness affecting millions in Latin America."
+    ]
+  },
+  {
+    "name": "Brown Marmorated Stinkbug",
+    "scientific_name": "Halyomorpha halys",
+    "bug_type": "bug",
+    "origin": "East Asia",
+    "flavor": "The Brown Marmorated Stinkbug has invaded every continent it was not native to. It has no natural predators in its new ranges. Its chemical defence works on every predator, on every continent. It was not invited. It does not care.",
+    "fun_facts": [
+      "Native to Asia, it has become a major invasive pest in North America, Europe, and beyond.",
+      "Releases a pungent chemical defence from glands on the underside of the thorax when disturbed.",
+      "Aggregates in enormous numbers in buildings during winter, sometimes by the thousands.",
+      "Damages a remarkably wide range of crops, from apples and peaches to soy and corn.",
+      "Has very few effective natural enemies in invaded regions, making control extremely difficult."
+    ]
+  },
+  {
+    "name": "Periodical Cicada",
+    "scientific_name": "Magicicada septendecim",
+    "bug_type": "bug",
+    "origin": "Eastern North America",
+    "flavor": "The Periodical Cicada spent seventeen years underground. This specific brood. Every individual in it. They emerge simultaneously, all at once, in numbers too large for any predator to impact. Then they are gone. The forest is quiet for seventeen more years.",
+    "fun_facts": [
+      "Spends 13 or 17 years (depending on species) as nymphs underground, then emerges simultaneously in astronomical numbers.",
+      "The prime-number cycles are thought to be an evolutionary adaptation to avoid synchronisation with predator population cycles.",
+      "The male's song — produced by vibrating drum-like organs called tymbals — can exceed 100 decibels.",
+      "Their simultaneous mass emergence can involve billions of individuals across large geographic areas.",
+      "After mating and laying eggs, adults die within weeks. The nymphs burrow in and the next 13–17 year wait begins."
+    ]
+  },
+  {
+    "name": "Water Scorpion",
+    "scientific_name": "Nepa cinerea",
+    "bug_type": "bug",
+    "origin": "Europe and Asia",
+    "flavor": "The Water Scorpion is not a scorpion. Its 'sting' is a breathing tube. Its 'claws' are forelegs. It breathes through a snorkel. It hunts by ambush. It is a bug that has adopted a scorpion's aesthetic as a design philosophy.",
+    "fun_facts": [
+      "Uses a tail-like breathing tube (not a sting) to breathe while submerged, remaining still for extended periods.",
+      "Slow-moving but effective ambush predator, catching aquatic invertebrates and small fish.",
+      "Can gauge water depth using pressure-sensitive organs along its body.",
+      "Entirely unrelated to scorpions — convergent evolution independently produced a similar body plan.",
+      "Rarely flies but has functional wings and will migrate to new water bodies if its habitat dries up."
+    ]
+  },
+  {
+    "name": "Backswimmer",
+    "scientific_name": "Notonecta glauca",
+    "bug_type": "bug",
+    "origin": "Europe and Asia",
+    "flavor": "The Backswimmer swims upside down, using its long rear legs as oars. It looks up — as it swims, as it hunts, as it breathes. Its perspective on the world is literally inverted. Its bite is extraordinarily painful for something this small.",
+    "fun_facts": [
+      "Swims upside down — this is not incidental, it is their permanent orientation.",
+      "Carries a bubble of air beneath its wings to breathe underwater.",
+      "Extremely fast swimmers and fierce predators of small fish, tadpoles, and invertebrates.",
+      "The bite from their piercing mouthparts is immediately and intensely painful for humans.",
+      "Can fly and colonise new water bodies with remarkable speed after rain events."
+    ]
+  },
+  {
+    "name": "Treehopper",
+    "scientific_name": "Membracis testudinaria",
+    "bug_type": "bug",
+    "origin": "Central and South America",
+    "flavor": "The Treehopper's helmet is an elaborate structure that may mimic a thorn, an ant, a leaf-curl, or something no biologist has satisfactorily explained. Evolution in this family appears to have been running experiments.",
+    "fun_facts": [
+      "The extraordinary helmet (pronotal extension) varies wildly between species — some mimic thorns, ants, or completely unidentified things.",
+      "The structure is an outgrowth of the thorax, one of the only known cases of insects evolving limb-like appendages from body segments.",
+      "Feed by piercing plant stems and drinking sap.",
+      "Some species are tended by ants, which milk their honeydew secretions in exchange for protection.",
+      "The diversity of pronotal shapes remains an active area of evolutionary research — no single explanation covers all observed variants."
+    ]
+  },
+  {
+    "name": "Black Widow Spider",
+    "scientific_name": "Latrodectus mactans",
+    "bug_type": "spider",
+    "origin": "North America",
+    "flavor": "The Black Widow's venom is fifteen times stronger than a rattlesnake's by weight. She is small, so the dose is lower. The name 'widow' refers to the practice of eating the male after mating. This does not always happen. But it happens.",
+    "fun_facts": [
+      "Venom contains alpha-latrotoxin, causing severe muscle cramps, sweating, and pain — a condition called latrodectism.",
+      "Contrary to popular belief, bites are rarely fatal to healthy adults, and antivenom is widely available.",
+      "The red hourglass marking serves as a warning signal — birds that eat her experience illness and learn to avoid the pattern.",
+      "Males are several times smaller than females and are occasionally eaten after mating, though less often than popularly believed.",
+      "Webs are extraordinarily strong and disorganised-looking, described as three-dimensional tangles rather than geometric patterns."
+    ]
+  },
+  {
+    "name": "Golden Silk Orb-Weaver",
+    "scientific_name": "Nephila pilipes",
+    "bug_type": "spider",
+    "origin": "Southeast Asia and Australia",
+    "flavor": "The Golden Silk Orb-Weaver produces silk stronger than Kevlar by weight. The web is visibly gold in direct sunlight. Small birds and bats are occasionally caught in it. The spider typically cuts them free; they are not part of her diet.",
+    "fun_facts": [
+      "Produces golden-coloured silk that is stronger than steel and Kevlar by weight.",
+      "One of the largest orb-weaving spiders in the world, with females reaching 5cm body length.",
+      "Males are tiny — up to 10 times smaller than females — and live at the periphery of the female's web.",
+      "Has been experimented with extensively for biomedical applications; silk is a candidate for surgical sutures.",
+      "Sometimes weaves zigzag patterns of silk (stabilimenta) into webs whose exact function remains debated."
+    ]
+  },
+  {
+    "name": "Peacock Spider",
+    "scientific_name": "Maratus volans",
+    "bug_type": "spider",
+    "origin": "Australia",
+    "flavor": "The male Peacock Spider raises a brilliantly coloured flap on his abdomen and waves it at the female while vibrating and dancing. If she is not interested, she will eat him. He is aware of this. He dances anyway.",
+    "fun_facts": [
+      "Males display brilliantly coloured abdominal fans in courtship dances, vibrating and shuffling precisely.",
+      "Females are choosy and will eat males whose displays fail to impress.",
+      "Discovered primarily by citizen scientists and amateur photographers; dozens of new species have been described since 2011.",
+      "Despite their tiny size (males 3–5mm), the detail and colour of their displays rivals any bird of paradise.",
+      "Each species has a distinct display pattern and colour scheme — the diversity is remarkable given their geographic range."
+    ]
+  },
+  {
+    "name": "Diving Bell Spider",
+    "scientific_name": "Argyroneta aquatica",
+    "bug_type": "spider",
+    "origin": "Europe and Northern Asia",
+    "flavor": "The Diving Bell Spider lives entirely underwater, in a bubble of air she has woven into a silk dome and moored to aquatic plants. She hunts, mates, and raises her young underwater. She is the only spider on Earth to have achieved this.",
+    "fun_facts": [
+      "The only spider species in the world to live entirely underwater.",
+      "Constructs a silk dome filled with air (the 'diving bell'), which functions like a scuba tank.",
+      "The air in the bell can last longer than a simple bubble due to dissolved oxygen replenishing it from the water.",
+      "Females are actually smaller than males in this species — unusual among spiders.",
+      "Males will sometimes move into a female's diving bell after mating, cohabiting for weeks."
+    ]
+  },
+  {
+    "name": "Spitting Spider",
+    "scientific_name": "Scytodes thoracica",
+    "bug_type": "spider",
+    "origin": "Worldwide",
+    "flavor": "The Spitting Spider cannot build a web. It does not need one. It spits a sticky, venomous silk from its oversized venom glands at up to 28m/s, hitting its target with a woven zigzag pattern at sixty hertz. Prey never sees it coming.",
+    "fun_facts": [
+      "Spits a sticky, venomous thread from modified venom glands at extraordinary speed.",
+      "The spit is delivered in a zigzag pattern at 28 metres per second, hitting prey multiple times before they can react.",
+      "The venom glands have expanded to fill most of the cephalothorax — this is why spitting spiders have a distinctive domed appearance.",
+      "Can accurately target prey in complete darkness using mechanosensory hairs to detect air movement.",
+      "Deliberately slow and deliberate hunters when compared to active-pursuit spiders — they take their time."
+    ]
+  },
+  {
+    "name": "Trapdoor Spider",
+    "scientific_name": "Cyclocosmia trunkata",
+    "bug_type": "spider",
+    "origin": "Southeast Asia",
+    "flavor": "The Trapdoor Spider's abdomen is a hardened disc — a perfectly circular plug. When threatened, she retreats into her burrow and presents the disc as a cork, sealing herself inside. It fits exactly. It is load-bearing.",
+    "fun_facts": [
+      "The abdominal disc is an extraordinarily hardened, circular plate used to block the entrance of their burrow.",
+      "The ridged surface provides mechanical support against predators attempting to extract the spider.",
+      "Builds a precision-fitted trapdoor lined with silk, hinged at one side.",
+      "Can sense approaching prey through vibrations transmitted through the ground.",
+      "Despite appearing primitive, trapdoor spiders have survived largely unchanged for hundreds of millions of years."
+    ]
+  },
+  {
+    "name": "Vinegaroon",
+    "scientific_name": "Mastigoproctus giganteus",
+    "bug_type": "arachnid",
+    "origin": "North and Central America",
+    "flavor": "The Vinegaroon sprays concentrated acetic acid from glands at the base of its tail. It smells exactly like vinegar. Hence the name. It cannot sting. It can spray. It knows the difference.",
+    "fun_facts": [
+      "Sprays 85% acetic acid (vinegar) from glands at the base of the whip-like 'tail', deterring virtually all predators.",
+      "Not a true scorpion — the 'tail' is a sensory whip, not a stinger.",
+      "Technically an uropygid or 'whip scorpion' — a separate arachnid order entirely.",
+      "Primarily nocturnal, using highly sensitive front legs as tactile sensors to explore in total darkness.",
+      "Despite an alarming appearance, they are non-venomous and are kept as exotic pets."
+    ]
+  },
+  {
+    "name": "Emperor Scorpion",
+    "scientific_name": "Pandinus imperator",
+    "bug_type": "arachnid",
+    "origin": "West Africa",
+    "flavor": "The Emperor Scorpion is 20cm long and glows brilliant blue-green under ultraviolet light. Nobody is completely sure why. Theories include: to detect UV light, to camouflage on lichen, or simply because evolution can.",
+    "fun_facts": [
+      "One of the world's largest scorpions, reaching 20cm.",
+      "Fluoresces vivid blue-green under ultraviolet light due to a compound in the exoskeleton — the function of this is still debated.",
+      "Despite their imposing size, their venom is relatively mild — comparable to a bee sting for most people.",
+      "Uses large claws (pedipalps) as primary hunting tools; the sting is mostly for defence.",
+      "Give birth to live young, which ride on the mother's back until their first moult."
+    ]
+  },
+  {
+    "name": "Whip Spider",
+    "scientific_name": "Damon medius",
+    "bug_type": "arachnid",
+    "origin": "Sub-Saharan Africa",
+    "flavor": "The Whip Spider has eight legs, two of which have been stretched to six times body length and serve as antennae. It does not spin webs. It does not sting. It moves sideways in total silence. It has been doing this for four hundred million years.",
+    "fun_facts": [
+      "The extremely long front leg-like appendages are actually pedipalps modified into antenniform sensory organs.",
+      "Completely harmless — no venom, no silk, no sting. Prey is caught and held in spiny palps.",
+      "Navigate and communicate by touching antenniform legs together — social behaviour rare among arachnids.",
+      "Strictly nocturnal; spend days pressed flat against the undersides of rocks or bark.",
+      "Despite their fearsome appearance, they are kept as pets and noted for appearing calm in human company."
+    ]
+  },
+  {
+    "name": "Pseudoscorpion",
+    "scientific_name": "Chelifer cancroides",
+    "bug_type": "arachnid",
+    "origin": "Worldwide",
+    "flavor": "The Pseudoscorpion is 3mm long, has enormous venomous claws, and occasionally hitches rides on larger insects. It is everywhere. You have simply never seen it. Look again at the bark of any tree.",
+    "fun_facts": [
+      "One of the most common arachnids in the world, yet rarely observed due to their tiny size (1–8mm).",
+      "Inject venom through their claws to paralyse prey — typically springtails, mites, and small flies.",
+      "Practice phoresy — attaching to larger insects and animals to travel between habitats.",
+      "Found in virtually every terrestrial habitat on Earth, including the spaces between book pages (hence 'book scorpion').",
+      "Produce silk from glands near the mouthparts, used to build small cocoons for moulting and overwintering."
+    ]
+  },
+  {
+    "name": "Emperor Dragonfly",
+    "scientific_name": "Anax imperator",
+    "bug_type": "dragonfly",
+    "origin": "Europe and North Africa",
+    "flavor": "The Emperor Dragonfly catches prey on the wing with a 95% success rate. No other aerial predator on Earth matches this. The cheetah catches 40% of its prey. The Emperor Dragonfly is the most successful hunter alive.",
+    "fun_facts": [
+      "Has a hunting success rate of 95% — making it the most successful predator on Earth by percentage of hunts that succeed.",
+      "Catches prey exclusively on the wing, often at high speed and with dramatic aerobatic manoeuvres.",
+      "Can fly at up to 54kph and hover, fly backwards, and change direction instantaneously.",
+      "Compound eyes cover almost the entire head, giving near-360° vision at high resolution.",
+      "One of Europe's largest dragonflies, with a wingspan of up to 10.5cm."
+    ]
+  },
+  {
+    "name": "Halloween Pennant",
+    "scientific_name": "Celithemis eponina",
+    "bug_type": "dragonfly",
+    "origin": "Eastern North America",
+    "flavor": "The Halloween Pennant flies in heavy rain and strong wind — conditions that keep other dragonflies grounded. It perches at the tips of stems, fluttering like a flag. It appears decorative. It is not decorative. It is hunting.",
+    "fun_facts": [
+      "One of very few dragonfly species to remain active during rain and wind — others shelter during poor weather.",
+      "Wing colouration resembles an autumn leaf or flag fluttering on a stem, providing camouflage while perching.",
+      "One of North America's most common dragonflies, particularly around ponds and marshes.",
+      "Like all dragonflies, spends the majority of its life as an aquatic larva — adult stage can be as brief as a few weeks.",
+      "The larvae are voracious predators in pond ecosystems, hunting small invertebrates and even small fish."
+    ]
+  },
+  {
+    "name": "Blue Dasher",
+    "scientific_name": "Pachydiplax longipennis",
+    "bug_type": "dragonfly",
+    "origin": "North America",
+    "flavor": "The Blue Dasher selects a prominent perch, watches an aerial territory, intercepts rivals and prey with high-speed dashes, and returns to the same perch repeatedly. It has a system. It has had this system for three hundred million years.",
+    "fun_facts": [
+      "Males defend perching territories vigorously, returning to the same spot after each chase.",
+      "The pale blue pruinescence (waxy powder) on mature males is deposited progressively with age.",
+      "Extremely common and widespread across North America — one of the most frequently observed dragonfly species.",
+      "Their short, rapid flight bursts ('dashes') followed by precise perch returns give them their name.",
+      "Larvae are aquatic predators that can survive briefly out of water and sometimes walk between nearby water bodies."
+    ]
+  },
+  {
+    "name": "Giant Petaltail",
+    "scientific_name": "Petalura gigantea",
+    "bug_type": "dragonfly",
+    "origin": "Australia",
+    "flavor": "The Giant Petaltail is an ancient lineage. While other dragonflies evolved more competitive hunting strategies, this family remained unchanged for over 200 million years. When you see one, you are seeing something that was already old when the dinosaurs were young.",
+    "fun_facts": [
+      "One of the most ancient dragonfly lineages still extant — the petaltail family dates back over 200 million years.",
+      "Among the largest dragonflies in the world, with a wingspan up to 16cm.",
+      "Australia's largest insect; found only in specific high-altitude sphagnum bog habitats.",
+      "Larvae are terrestrial burrowers — uniquely among dragonflies, they develop in wet ground rather than open water.",
+      "Listed as a vulnerable species due to the extreme specificity and fragility of their bog habitat."
+    ]
+  },
+  {
+    "name": "Wandering Glider",
+    "scientific_name": "Pantala flavescens",
+    "bug_type": "dragonfly",
+    "origin": "Worldwide (tropical regions)",
+    "flavor": "The Wandering Glider crosses entire oceans. Genetic evidence shows populations in India, the Maldives, East Africa, and South America are interbreeding. It uses the Inter-Tropical Convergence Zone as a free highway. It is the most widely distributed dragonfly on Earth.",
+    "fun_facts": [
+      "Migrates across the Indian Ocean from India to East Africa, a distance of up to 3,500km with no land.",
+      "Uses high-altitude winds of the Inter-Tropical Convergence Zone, riding thermals with minimal wing movement.",
+      "The most widely distributed dragonfly in the world, found on every continent except Antarctica.",
+      "Genetic analysis has revealed unexpected gene flow between populations thousands of kilometres apart.",
+      "Their breeding grounds follow rains — they track monsoon patterns across the globe."
+    ]
+  },
+  {
+    "name": "Chinese Mantis",
+    "scientific_name": "Tenodera sinensis",
+    "bug_type": "mantis",
+    "origin": "East Asia and North America",
+    "flavor": "The Chinese Mantis turns its head to look at you. Insects do not usually do this. You find it unsettling. You are correct to find it unsettling. It is deciding if you are a threat or a food source.",
+    "fun_facts": [
+      "One of the only insects capable of turning its head independently to look behind itself.",
+      "Binocular vision gives them accurate depth perception for calculating the precise distance of prey before striking.",
+      "The strike of the forelegs is one of the fastest movements in the animal kingdom — 50–70 milliseconds.",
+      "Will attempt to eat almost any moving prey item that fits in its grasp, including small rodents and hummingbirds.",
+      "Introduced to North America as biological pest control and has now naturalised widely."
+    ]
+  },
+  {
+    "name": "Orchid Mantis",
+    "scientific_name": "Hymenopus coronatus",
+    "bug_type": "mantis",
+    "origin": "Southeast Asia",
+    "flavor": "The Orchid Mantis is shaped and coloured like an orchid petal. Not to hide among orchids — to BE the orchid. Pollinators land on it. They are not pollinators for long.",
+    "fun_facts": [
+      "Does not hide in orchids — its flower-like body attracts pollinators directly to itself as a lure.",
+      "Actually attracts MORE pollinators than real flowers in the same vicinity.",
+      "Female and male look so different from each other that they were originally classified as different species.",
+      "Females are 3–4 times larger than males, allowing them to prey on much larger insects and small vertebrates.",
+      "Changes colour between pink and white depending on ambient light and humidity."
+    ]
+  },
+  {
+    "name": "Ghost Mantis",
+    "scientific_name": "Phyllocrania paradoxa",
+    "bug_type": "mantis",
+    "origin": "Africa and Madagascar",
+    "flavor": "The Ghost Mantis has evolved a body that looks exactly like a dead, curled, weathered leaf, down to the brown colouration, the irregular edges, and the way it gently sways in a breeze. It does not move. You cannot see it. This is the point.",
+    "fun_facts": [
+      "Remarkably convincing dead-leaf mimicry — body shape, colour, and texture all contribute to the illusion.",
+      "Sways gently in place to mimic the movement of a leaf in wind.",
+      "One of the hardiest mantis species — tolerates a wider range of humidity and temperature than most.",
+      "Popular in the exotic pet trade due to their striking appearance and manageable care requirements.",
+      "Native to Madagascar and sub-Saharan Africa, where they inhabit dry scrub and grassland."
+    ]
+  },
+  {
+    "name": "Devil's Flower Mantis",
+    "scientific_name": "Idolomantis diabolica",
+    "bug_type": "mantis",
+    "origin": "East Africa",
+    "flavor": "The Devil's Flower Mantis rears up in a full deimatic display: wings fanned, forearms raised, coloured patches exposed in a flash of warning. It is trying to look as large and terrifying as possible. It is succeeding.",
+    "fun_facts": [
+      "One of the most spectacular insects in the world — the deimatic display exposes vivid iridescent colours.",
+      "The largest flower mantis species, with females reaching 13cm.",
+      "Named 'diabolica' because its threat display was considered terrifying.",
+      "One of the most demanding mantis species to keep in captivity — extremely sensitive to humidity and temperature.",
+      "Only eats live, flying prey — will not accept dead or immobile food items."
+    ]
+  },
+  {
+    "name": "Dead Leaf Mantis",
+    "scientific_name": "Deroplatys desiccata",
+    "bug_type": "mantis",
+    "origin": "Southeast Asia",
+    "flavor": "The Dead Leaf Mantis does not just look like a dead leaf. It looks like a specific dead leaf, in a specific state of decomposition, in a specific habitat. Evolution has spent millions of years getting the details right.",
+    "fun_facts": [
+      "The wing covers and body shape mimic a rotting, partially decomposed dead leaf with extraordinary precision.",
+      "Brown, mottled, and asymmetric in colour — closely resembling the random patterns of decay.",
+      "Like the ghost mantis, it sways gently to mimic leaf movement in air currents.",
+      "Native to Southeast Asia, primarily Borneo and Sumatra, in humid rainforest environments.",
+      "A highly sought species among insect keepers for its extreme and convincing camouflage."
+    ]
+  },
+  {
+    "name": "Migratory Locust",
+    "scientific_name": "Locusta migratoria",
+    "bug_type": "grasshopper",
+    "origin": "Africa, Asia, and Europe",
+    "flavor": "A locust swarm can contain 80 million insects per square kilometre. They eat their own body weight in food daily. History has recorded their devastation for ten thousand years.",
+    "fun_facts": [
+      "Desert locust swarms can travel up to 150km per day and consume their own body weight in food daily.",
+      "A 1 square kilometre swarm contains approximately 40–80 million locusts. Large swarms cover hundreds of square kilometres.",
+      "Locust plagues are recorded in the Bible, in ancient Egyptian records, and in Chinese historical documents — the earliest written accounts of mass biological events.",
+      "Solitary locusts look and behave differently from swarming ones — crowding triggers a hormonal shift that alters physiology, colouration, and behaviour.",
+      "Modern tracking uses satellite imagery and AI to predict swarm movement and issue advance warnings."
+    ]
+  },
+  {
+    "name": "Giant Weta",
+    "scientific_name": "Deinacrida heteracantha",
+    "bug_type": "cricket",
+    "origin": "New Zealand",
+    "flavor": "The Giant Weta is the heaviest insect in the world. It is a cricket. New Zealand's ecological isolation allowed it to reach sizes its mainland relatives cannot achieve. It is a reminder that 'giant' is a relative term.",
+    "fun_facts": [
+      "The heaviest insect in the world by recorded weight — a pregnant female can weigh up to 71g.",
+      "New Zealand evolved these giant insects in the absence of ground-dwelling mammal predators.",
+      "Critically endangered; invasive rats, stoats, and cats have devastated mainland populations.",
+      "Survives on offshore islands of New Zealand where mammal predators have been eradicated.",
+      "Despite their fearsome appearance, they are entirely herbivorous and docile."
+    ]
+  },
+  {
+    "name": "Mole Cricket",
+    "scientific_name": "Gryllotalpa gryllotalpa",
+    "bug_type": "cricket",
+    "origin": "Europe and Asia",
+    "flavor": "The Mole Cricket has forelimbs adapted for digging, eyes for seeing, and wings used for flight. It tunnels through soil. It swims. It flies. Evolution gave it options and it exercised all of them.",
+    "fun_facts": [
+      "Has enlarged, shovel-like forelegs evolved for digging, convergently similar to a mole's forelimbs.",
+      "Can swim, fly, and tunnel with equal facility — one of the most ecologically versatile insects.",
+      "Males create acoustic burrows — precisely engineered megaphone-shaped tunnels to amplify their mating call.",
+      "The call produced in the acoustic burrow can be heard over 600 metres away.",
+      "Considered a pest in many countries due to root damage caused by their tunnelling."
+    ]
+  },
+  {
+    "name": "Cave Cricket",
+    "scientific_name": "Rhaphidophoridae",
+    "bug_type": "cricket",
+    "origin": "Worldwide (caves and cool, dark habitats)",
+    "flavor": "The Cave Cricket has no functioning eyes. It has no wings. Its antennae are five times its body length. It navigates total darkness by touch and vibration. It has done this, in one form or another, for three hundred million years.",
+    "fun_facts": [
+      "Most species are blind or have reduced eyes — sight is irrelevant in deep cave environments.",
+      "Extremely long antennae (sometimes 3–5x body length) compensate for the loss of vision as sensory organs.",
+      "Most species are detritivores — feeding on fungi, bat guano, and organic debris.",
+      "Remarkably resilient and long-lived compared to surface crickets.",
+      "Some species form dense aggregations in cave entrances, spilling out onto surfaces at night to forage."
+    ]
+  },
+  {
+    "name": "Mormon Cricket",
+    "scientific_name": "Anabrus simplex",
+    "bug_type": "cricket",
+    "origin": "Western North America",
+    "flavor": "Mormon Crickets do not fly. They march. Millions of them, moving forward, eating everything in the path. Those at the back eat those that have fallen at the front. The swarm's direction is driven not by navigation but by escape from being eaten by those behind.",
+    "fun_facts": [
+      "Despite the name, they are not true crickets — they are shield-backed katydids.",
+      "Migrate in marching bands that can be 1km wide and travel up to 2km per day.",
+      "Swarms are driven partly by cannibalism — individuals at the back eat those that stop moving, creating pressure to keep moving.",
+      "Nutritional deficiency, particularly in protein and salt, drives individuals to consume each other.",
+      "Named by Mormon settlers after the biblical plague of locusts — their arrival was seen as an omen."
+    ]
+  },
+  {
+    "name": "Walkingstick",
+    "scientific_name": "Diapheromera femorata",
+    "bug_type": "phasmatid",
+    "origin": "North America",
+    "flavor": "The Northern Walkingstick is a stick. Not metaphorically — it is a brown twig with legs that freezes when disturbed and sways gently when moving. Predators have been failing to notice it for 200 million years.",
+    "fun_facts": [
+      "Achieves camouflage through both visual resemblance to a twig and behavioural mimicry — swaying to imitate a stick in the wind.",
+      "When threatened, becomes completely motionless, relying entirely on the stick illusion.",
+      "Females can reproduce without males (parthenogenesis) — unfertilised eggs develop into female offspring.",
+      "Their eggs have a fatty appendage called an elaiosome, which ants collect, unwittingly dispersing the eggs across the forest floor.",
+      "In large populations, their defoliation of trees can cause significant forest damage."
+    ]
+  },
+  {
+    "name": "Largest Stick Insect",
+    "scientific_name": "Phobaeticus chani",
+    "bug_type": "phasmatid",
+    "origin": "Borneo",
+    "flavor": "Phobaeticus chani holds the record for the world's longest insect. A female with legs extended reaches 56.7cm — more than half a metre. It was only described by science in 2008. It had been living in Borneo for somewhat longer than that.",
+    "fun_facts": [
+      "The world's longest insect, with the longest known specimen measuring 56.7cm (legs extended).",
+      "Described by science only in 2008 from specimens in the rainforests of Sabah, Borneo.",
+      "Eggs have wing-like extensions thought to slow their fall from the forest canopy.",
+      "So effectively camouflaged that individual animals are extremely difficult to locate even when you know where to look.",
+      "Only known from a very limited area; exact population size is unknown."
+    ]
+  },
+  {
+    "name": "Giant Leaf Insect",
+    "scientific_name": "Phyllium giganteum",
+    "bug_type": "phasmatid",
+    "origin": "Malaysia",
+    "flavor": "The Giant Leaf Insect does not resemble a leaf. It IS a leaf, down to the brown patches simulating decay, the irregular edges simulating insect damage, and the midrib running down its body. The detail is so complete it renders the word 'camouflage' inadequate.",
+    "fun_facts": [
+      "The body, legs, and even veins on the wings mimic the exact structure and colouration of leaves of their host plant.",
+      "Even simulate leaf damage — brown, translucent patches that look like decay or insect feeding marks.",
+      "Like all phasmatids, females can reproduce parthenogenetically — producing female offspring without fertilisation.",
+      "When disturbed, sway gently to mimic a leaf moving in a light breeze.",
+      "One of the world's most convincing examples of mimicry; even experienced entomologists can walk past them."
+    ]
+  },
+  {
+    "name": "Thorny Stick Insect",
+    "scientific_name": "Eurycantha calcarata",
+    "bug_type": "phasmatid",
+    "origin": "New Guinea",
+    "flavor": "The Thorny Stick Insect is built like a section of bramble with legs. It is armed with formidable spines on its hind limbs, which it uses with considerable force. It has given up on looking harmless. It has moved on.",
+    "fun_facts": [
+      "Unlike most phasmatids, the Thorny Stick Insect has abandoned camouflage in favour of intimidation.",
+      "Males have enormous spines on their hind femora used both in defence and to hold females during mating.",
+      "One of the heaviest stick insects — females can exceed 40g.",
+      "Native to New Guinea and the surrounding islands; lives primarily on the ground rather than in trees.",
+      "Popular in captivity and among the easiest phasmatids to breed due to their robust nature."
+    ]
+  },
+  {
+    "name": "Jungle Nymph",
+    "scientific_name": "Heteropteryx dilatata",
+    "bug_type": "phasmatid",
+    "origin": "Malaysia",
+    "flavor": "The female Jungle Nymph is green, heavy, and armed with serrated spines. She is larger than the male. She cannot fly. She does not need to fly. She walks, she eats, and she defends herself with her legs. The male, by comparison, is brown and gets out of the way.",
+    "fun_facts": [
+      "Females are among the heaviest insects in the world, reaching 65g and 20cm in length.",
+      "The olive green females cannot fly (vestigial wings) while the brown males can — perfect sex-specific camouflage strategies.",
+      "When threatened, the female produces a hissing sound and clamps her spiked legs together, gripping whatever is between them.",
+      "Native to the Malaysian peninsula, where females are among the top predators of the invertebrate world.",
+      "Their eggs are among the largest of any insect and can take over a year to hatch."
+    ]
+  },
+  {
+    "name": "Giant African Millipede",
+    "scientific_name": "Archispirostreptus gigas",
+    "bug_type": "myriapod",
+    "origin": "Sub-Saharan Africa",
+    "flavor": "The Giant Millipede has approximately 256 legs. Not exactly 256 — the number depends on the individual. The word 'millipede' means thousand legs. No millipede has ever had a thousand legs. There is a species with 1,306. It was only discovered in 2021.",
+    "fun_facts": [
+      "Despite the name, no millipede species has 1,000 legs; most have between 36 and 400. Eumillipes persephone holds the record at 1,306.",
+      "The African Giant Millipede is the world's largest millipede species, reaching 38cm in length.",
+      "When threatened, coil into a tight spiral, protecting their soft underside and head.",
+      "Secrete hydrogen cyanide and other toxic chemicals from glands along their body when disturbed.",
+      "Some birds rub millipedes along their feathers — the secretions appear to act as a natural insecticide against parasites."
+    ]
+  },
+  {
+    "name": "Giant Desert Centipede",
+    "scientific_name": "Scolopendra heros",
+    "bug_type": "myriapod",
+    "origin": "North America",
+    "flavor": "The Giant Desert Centipede is 20cm long and moves at 50cm per second. It catches bats. In flight. By climbing cave walls, hanging from its rear legs, and snatching them as they fly past. This has been filmed. Scientists were surprised.",
+    "fun_facts": [
+      "Video has documented centipedes catching bats mid-flight by hanging from cave ceilings and walls.",
+      "Venom is powerful enough to cause significant pain, swelling, and in rare cases systemic effects in humans.",
+      "Despite being called centipedes ('100 legs'), S. heros has 42–46 legs total.",
+      "Unlike millipedes, centipedes are fast-moving predators with venomous forcipules (modified legs) near the head.",
+      "The largest centipede in North America; in South America, Scolopendra gigantea reaches 30cm and regularly preys on mice."
+    ]
+  },
+  {
+    "name": "Velvet Worm",
+    "scientific_name": "Peripatus sp.",
+    "bug_type": "other",
+    "origin": "Tropical regions worldwide",
+    "flavor": "The Velvet Worm is not a worm. It is not a caterpillar. It is an onychophoran — sitting between worms and arthropods on the evolutionary tree, essentially unchanged for 530 million years. It fires sticky slime from turrets on the side of its head to trap prey. It is from the Cambrian.",
+    "fun_facts": [
+      "An 'evolutionary relict' — the modern velvet worm is almost identical to fossils from 530 million years ago.",
+      "Fires viscous slime from oral papillae on either side of its head with remarkable accuracy.",
+      "The slime sets almost immediately on contact, entangling prey far larger than the velvet worm itself.",
+      "Found in tropical rainforests across Central America, South Africa, Southeast Asia, and Australia.",
+      "So evolutionarily distinct that they are classified in their own phylum — Onychophora — separate from all other animals."
+    ]
+  },
+  {
+    "name": "Madagascar Hissing Cockroach",
+    "scientific_name": "Gromphadorhina portentosa",
+    "bug_type": "cockroach",
+    "origin": "Madagascar",
+    "flavor": "The Madagascar Hissing Cockroach produces its hiss by forcing air through modified spiracles on its abdomen — the only insect known to use this mechanism. It is 8cm long, can lift 50 times its body weight, and has been to space. This is all true.",
+    "fun_facts": [
+      "The only known insect to produce sound by forcing air through spiracles (breathing pores) rather than wings or body parts.",
+      "Completely wingless adults can support 50 times their own body weight on their back.",
+      "Have been used in scientific research, including zero-gravity experiments aboard Soviet space stations.",
+      "Despite cockroach associations, they are clean animals in captivity and popular as educational pets.",
+      "Colonies have strict dominance hierarchies, with males hissing at competitors and during courtship."
+    ]
+  },
+  {
+    "name": "Giant Cave Cockroach",
+    "scientific_name": "Blaberus giganteus",
+    "bug_type": "cockroach",
+    "origin": "Central and South America",
+    "flavor": "The Giant Cave Cockroach is 10cm long, entirely nocturnal, and spends its days in bat caves feeding on guano and the fallen. At night it emerges into the jungle. In neither location is it politely received.",
+    "fun_facts": [
+      "One of the world's largest cockroach species, reaching 10cm in length.",
+      "Lives in caves across Central and South America, often in association with large bat colonies.",
+      "Feeds on bat guano, fallen bats, and general detritus — a vital component of cave ecosystem decomposition.",
+      "Despite their size, they are fast runners and excellent climbers.",
+      "Can survive weeks without food and months without water — cockroach resilience in its most extreme form."
+    ]
+  },
+  {
+    "name": "Silverfish",
+    "scientific_name": "Lepisma saccharina",
+    "bug_type": "other",
+    "origin": "Worldwide",
+    "flavor": "The Silverfish has not changed in 400 million years. It was here before the dinosaurs. It is here after the dinosaurs. It is eating the starch in the glue on the spine of your book. It has been doing this since before mammals existed. It will continue after we are gone.",
+    "fun_facts": [
+      "One of the oldest insect groups — essentially unchanged in form for over 400 million years.",
+      "A 'living fossil' pre-dating even the earliest dinosaurs by more than 150 million years.",
+      "Feed on starch — book bindings, wallpaper paste, textiles, paper — making them a persistent archival pest.",
+      "Wingless, and one of the few insect groups that has never evolved wings throughout its entire evolutionary history.",
+      "Can live without food for up to a year and survive almost any humidity level."
+    ]
+  },
+  {
+    "name": "Water Bear",
+    "scientific_name": "Ramazzottius oberhaeuseri",
+    "bug_type": "other",
+    "origin": "Worldwide (every habitat on Earth)",
+    "flavor": "The Water Bear is 0.5mm long. It can survive vacuum, 1,000 times the lethal radiation dose for a human, temperatures from -272°C to +150°C, pressures six times the deepest ocean trench, and the vacuum of space. Nothing kills it. We have tried.",
+    "fun_facts": [
+      "Tardigrades are not insects — they are their own phylum. But they are the most indestructible animals known.",
+      "In a state called cryptobiosis, tardigrades can survive near-absolute-zero temperatures, intense radiation, and the vacuum of outer space.",
+      "Found in virtually every habitat on Earth — from Antarctic ice to Himalayan mountaintops to the moss on your roof.",
+      "A 2019 experiment confirmed that tardigrades survived a crash landing on the Moon aboard the Israeli spacecraft Beresheet.",
+      "Scientists have estimated that tardigrades will outlive almost all multicellular life on Earth, surviving until the Sun expands and boils the oceans dry."
+    ]
+  }
+]

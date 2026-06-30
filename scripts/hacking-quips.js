@@ -27,6 +27,7 @@
 
 import { TimberSentinel } from './timber-sentinel-quips.js';
 import { SpaceProduce } from './space-produce-quips.js';
+import { BugReport } from './bug-report-quips.js';
 import { CompendiumPopulator } from './compendium-populator.js';
 
 const HACKING_QUIPS = [
@@ -62,10 +63,12 @@ class HackingQuips {
     this.registerSettings();
     TimberSentinel.registerSettings(this.MODULE_ID);
     SpaceProduce.registerSettings(this.MODULE_ID);
+    BugReport.registerSettings(this.MODULE_ID);
 
-    // Load Timber Sentinel and Stellar Harvest resource data
+    // Load Timber Sentinel, Stellar Harvest, and Bug Report resource data
     TimberSentinel.loadResources(this.MODULE_ID);
     SpaceProduce.loadResources(this.MODULE_ID);
+    BugReport.loadResources(this.MODULE_ID);
 
     Hooks.on('renderChatMessage', this.onRenderChatMessage.bind(this));
 
@@ -85,6 +88,14 @@ class HackingQuips {
           const isHidden = factDiv.style.display === 'none';
           factDiv.style.display = isHidden ? 'block' : 'none';
           e.target.textContent = isHidden ? '🌌 Hide Facts' : '🌌 Fun Facts';
+        }
+      }
+      if (e.target.classList.contains('bug-report-funfact-btn')) {
+        const factDiv = e.target.nextElementSibling;
+        if (factDiv && factDiv.classList.contains('bug-report-funfact')) {
+          const isHidden = factDiv.style.display === 'none';
+          factDiv.style.display = isHidden ? 'block' : 'none';
+          e.target.textContent = isHidden ? '🪲 Hide Facts' : '🪲 Fun Facts';
         }
       }
     });
@@ -187,6 +198,8 @@ class HackingQuips {
   }
   
   static onRenderChatMessage(message, html, data) {
+    // v14 passes a plain HTMLElement; wrap it for jQuery compatibility
+    if (!(html instanceof jQuery)) html = $(html);
     // Temporary debug - helps us see what skill checks look like
     const flags = message.flags;
     if (flags?.pf2e?.context) {
@@ -210,6 +223,12 @@ class HackingQuips {
     // Check for Stellar Harvest — same GM-only pattern as Timber Sentinel.
     if (SpaceProduce.check(message)) {
       if (game.user.isGM) SpaceProduce.handle(message);
+      return;
+    }
+
+    // Check for Bug Report — same GM-only pattern as Timber Sentinel.
+    if (BugReport.check(message)) {
+      if (game.user.isGM) BugReport.handle(message);
       return;
     }
 
@@ -321,22 +340,9 @@ class HackingQuips {
       this.removeButton(message.id);
     }
     
-    // Show a random quip
     const quip = HACKING_QUIPS[Math.floor(Math.random() * HACKING_QUIPS.length)];
-    const speaker = message.speaker;
-    
     console.log('Hacking Quips | Displaying quip from button:', quip);
-    
-    // Emit to all clients to show the quip
-    game.socket.emit(`module.${this.MODULE_ID}`, {
-      action: 'showQuip',
-      quip: quip,
-      speaker: speaker,
-      userId: message.user.id
-    });
-    
-    // Show locally
-    this.displayQuip(quip, speaker, message.user.id);
+    this.displayQuip(quip, message.speaker);
   }
   
   static addGMControls(html, message, rollTotal, isDisabled = false) {
@@ -475,22 +481,10 @@ class HackingQuips {
       speaker: speaker
     });
     
-    // If it's a failure, show a quip
     if (result === 'failure' || result === 'criticalFailure') {
       const quip = HACKING_QUIPS[Math.floor(Math.random() * HACKING_QUIPS.length)];
-      
       console.log('Hacking Quips | Displaying quip:', quip);
-      
-      // Emit to all clients to show the quip
-      game.socket.emit(`module.${this.MODULE_ID}`, {
-        action: 'showQuip',
-        quip: quip,
-        speaker: speaker,
-        userId: message.user.id
-      });
-      
-      // Show locally
-      this.displayQuip(quip, speaker, message.user.id);
+      this.displayQuip(quip, speaker);
     }
   }
   
@@ -528,18 +522,12 @@ class HackingQuips {
     button.html('<i class="fas fa-terminal"></i> Quip Shown');
   }
   
-  static displayQuip(quip, speaker, userId) {
-    // Only show to the player who rolled or the GM
-    if (game.user.id !== userId && !game.user.isGM) return;
-    
+  static displayQuip(quip, speaker) {
     ChatMessage.create({
       content: `<div class="hacking-quip"><em>${quip}</em></div>`,
       speaker: speaker,
-      whisper: game.user.isGM ? [] : [game.user.id],
       flags: {
-        [this.MODULE_ID]: {
-          isQuip: true
-        }
+        [this.MODULE_ID]: { isQuip: true }
       }
     });
   }
@@ -557,9 +545,6 @@ class HackingQuips {
         break;
       case 'disableButton':
         this.disableButton(data.messageId);
-        break;
-      case 'showQuip':
-        this.displayQuip(data.quip, data.speaker, data.userId);
         break;
     }
   }
